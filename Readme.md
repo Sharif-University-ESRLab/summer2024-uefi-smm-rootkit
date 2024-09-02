@@ -183,34 +183,33 @@ since we don't have visual studio already installed on our virtual machine. we n
 
 ## How to Run
 
-In this part, you should provide instructions on how to run your project. Also if your project requires any prerequisites, mention them. 
+After following the steps described above, you now have a virtual machine with the infected firmware on it.
+Once you have placed the `smm_target.exe` file on your virtual machine, the next steps involve running the program, monitoring its interaction with the rootkit, and verifying that the rootkit is functioning as intended. Here’s how you can proceed:
 
-#### Examples:
-#### Build Project
-The project is already built for you and the results for `OVMF_CODE.fd` and 'OVMF_VARS.fd` can be found in `edk2/Build/OvmfX64/RELEASE_GCC5/FV`.
+### **Step 1: Running `smm_target.exe` on the Virtual Machine**
+#### **Launch the Virtual Machine:**
+   - Start your virtual machine (VM) with the infected firmware using your virtualization software (e.g., QEMU, Virt-Manager).
+   - Ensure that the VM is configured to use the modified firmware that contains the rootkit.
 
-But for building the project on your own you can follow the description included in the document.
+#### **Transfer the Executable:**
+   - If you haven't already done so, transfer the `smm_target.exe` file to the VM. This can be done using various methods like an HTTP file server, SCP, or a shared folder, depending on your setup.
 
-Clone the repository and navigate to `SMM-Rootkit/` and use the following commands
-```bash
-sudo ./run_docker.sh
-cd edk2
-make -C BaseTools
-source ./edksetup.sh
-build -DSMM_REQUIRE
-```
+#### **Execute the Program:**
+   - On the VM, navigate to the directory where `smm_target.exe` is located and run the executable:
+   - The program will start executing and repeatedly call the `GetCurrentProcessId` function, which should be intercepted by the rootkit.
 
-#### Run server
+### **Monitoring and Verifying Rootkit Activity**
+#### **Monitor the Serial Console:**
+   - The rootkit is designed to log its activity or provide output through a serial console. To observe this output, connect to the VM's serial console:
+     ```bash
+     virsh console win10
+     ```
+   - Watch for any messages or logs to indicate the rootkit status.
 
-```bash
-  pyhton server.py -p 8080
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `-p` | `int` | **Required**. Server port |
-
-
+#### **Check for Log Files:**
+   - the rootkit would create a log file `smm.txt` in a `C:/smm/smm.txt`.
+   - Navigate to the directory in your VM’s file explorer or use the command line to check if the log file is present.
+   - Review the contents of the log file to confirm that the rootkit has successfully intercepted the function calls made by `smm_target.exe`.
 
 ## Results
 In this section, you should present your results and provide an explanation for them.
