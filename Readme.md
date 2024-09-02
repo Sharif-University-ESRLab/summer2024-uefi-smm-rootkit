@@ -138,6 +138,49 @@ sudo virt-manager
 ```
 Now your Virtual Machine would be ready for testing.
 
+The section titled "اجرای برنامه نمونه" (Running the Sample Program) outlines how to execute a sample program that interacts with the rootkit embedded in the firmware. Here are the detailed instructions translated and explained in English:
+
+### **Running the Sample Program**
+
+#### **Program Description:**
+   - The sample program provided is a simple C++ application designed to interact with the rootkit you have integrated into the firmware. The program repeatedly calls the `GetCurrentProcessId` function in a loop and outputs the result.
+
+#### **Code Example:**
+   - Below is the sample C++ code provided in the document:
+     ```cpp
+     #include <iostream>
+     #include <string>
+     #include <Windows.h>
+
+     int main() {
+         std::string a;
+         while (std::cin >> a) {
+             std::cout << "Process id is: " << GetCurrentProcessId() << std::endl;
+         }
+     }
+     ```
+
+since we don't have visual studio already installed on our virtual machine. we need to use another machine for the following steps, or we can install visual studio on the machine.
+
+#### **Setting Up the Development Environment:**
+   - You will need to use **Visual Studio** to compile this sample program. Ensure that the **Desktop Development with C++** workload is installed.
+
+#### **Compiling the Program:**
+   - Open the project file `windows_x64_umd_iat.sln` in Visual Studio.
+   - Configure the project to use the **Multi-threaded Debug** runtime library:
+     1. Right-click on the project in Visual Studio and select `Properties`.
+     2. Navigate to `C/C++ -> Code Generation`.
+     3. Set the `Runtime Library` option to **Multi-threaded Debug (/MTd)**.
+
+#### **Building the Executable:**
+   - Build the solution by selecting `Build Solution` from the `Build` menu in Visual Studio.
+   - The compiled executable will be generated in the output directory specified in the project settings.
+
+#### **Running the Program on the Virtual Machine:**
+   - Transfer the compiled executable (`.exe`) to the virtual machine running the infected firmware. You can use any file transfer method, such as using a simple HTTP file server.
+   - Rename the executable to `smm_rootkit.exe` to ensure it matches the name expected by the rootkit.
+   - Execute the program on the VM to interact with the rootkit.
+
 ## How to Run
 
 In this part, you should provide instructions on how to run your project. Also if your project requires any prerequisites, mention them. 
