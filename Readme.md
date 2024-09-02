@@ -48,6 +48,12 @@ first we need to compile our SMM with the rootkit on it. We can use docker for t
    cp -r ../SMM-Rootkit/* edk2/
    ```
 
+#### **Making Some Minor changes in the code**
+##### Change Saving directory
+Since writing directly to driver C is not possible for regular users, we need to change saving directory of `smm.txt` to something else. We changed the directory to `C:/smm/smm.txt`. keep in mind to create folder smm in drive C after creating the virtual machine.  
+##### Removing the part for restoring that IAT hook
+Remove the part for restoring IAT hook as indicated in the following [link](https://github.com/jussihi/SMM-Rootkit/blob/1ac885f1cd1496159aad08fe072250fbb34ca079/SMM%20Rootkit/SMMRootkit/WinUmdIATHook.c#L213-L239)
+
 #### **Final Compilation**
 
    Re-enter the Docker environment and proceed with the final compilation:
@@ -138,8 +144,6 @@ sudo virt-manager
 ```
 Now your Virtual Machine would be ready for testing.
 
-The section titled "اجرای برنامه نمونه" (Running the Sample Program) outlines how to execute a sample program that interacts with the rootkit embedded in the firmware. Here are the detailed instructions translated and explained in English:
-
 ### **Running the Sample Program**
 
 #### **Program Description:**
@@ -186,7 +190,7 @@ since we don't have visual studio already installed on our virtual machine. we n
 After following the steps described above, you now have a virtual machine with the infected firmware on it.
 Once you have placed the `smm_target.exe` file on your virtual machine, the next steps involve running the program, monitoring its interaction with the rootkit, and verifying that the rootkit is functioning as intended. Here’s how you can proceed:
 
-### **Step 1: Running `smm_target.exe` on the Virtual Machine**
+### **Running `smm_target.exe` on the Virtual Machine**
 #### **Launch the Virtual Machine:**
    - Start your virtual machine (VM) with the infected firmware using your virtualization software (e.g., QEMU, Virt-Manager).
    - Ensure that the VM is configured to use the modified firmware that contains the rootkit.
