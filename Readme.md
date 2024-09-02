@@ -67,6 +67,77 @@ first we need to compile our SMM with the rootkit on it. We can use docker for t
    ```
    Look for files starting with `OVMF`, which will include the compiled firmware that now contains the rootkit.
 
+### Create a Virtual Machine with the infected Firmware
+In the next step, we need to create a virtual macine with the infected firmware we built in our previous step.
+
+#### Move Compiled Firmware Files
+Move the firmware files (`OVMF_CODE.fd`, `OVMF_VARS.fd`) to a directory accessible by QEMU or libvirt. `/usr/share/OVMF/rootkit/` is used as an example.
+
+#### Create a JSON Firmware Descriptor
+Create a firmware descriptor file to map the firmware files. Create file `/usr/share/qemu/firmware/60-ovmf-rootkit-x86_64.json` with the following content:
+```json
+{
+    "description": "UEFI SMM rootkit OVMF firmware for x86_64",
+    "interface-types": [
+        "uefi"
+    ],
+    "mapping": {
+        "device": "flash",
+        "executable": {
+            "filename": "/usr/share/OVMF/rootkit/OVMF_CODE.fd",
+            "format": "raw"
+        },
+        "nvram-template": {
+            "filename": "/usr/share/OVMF/rootkit/OVMF_VARS.fd",
+            "format": "raw"
+        }
+    },
+    "targets": [
+        {
+            "architecture": "x86_64",
+            "machines": [
+                "pc-i440fx-*",
+                "pc-q35-*"
+            ]
+        }
+    ],
+    "features": [
+        "acpi-s3",
+        "amd-sev",
+        "verbose-dynamic"
+    ],
+    "tags": [
+
+    ]
+}
+```
+#### Create and Configure the Virtual Machine: 
+1. Launch virt-manager
+```bash
+sudo virt-manager
+```
+2. Start the creation of a new virtual machine and select "Local install media" for the installation method.
+3. Choose the installation media. for this project we used Windows 10 22H2 Build 19045 version 64-bit Interprise edition. You can download the iso from this [link](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise). keep in mind that downloading any other version or edition of windows would cause problem in the following steps.
+![image](https://github.com/user-attachments/assets/6e7709d9-70dd-46bd-b439-abd82f77fe2d)
+4. Allocate the necessary CPU and memory resources
+5. check "customize configuration before install"
+   - Set the chipset to Q35
+   - Select Firmware to `OVMF_CODE_4M.fd` (this is not the infected firmware. we first need to install windows before changing our firmware to infected firmware)
+6. We select `Begin Installation` at the top left corner.
+7. Now you must start Installing windows.
+8. After Installing windows, turn of your virtual machine and navigate to `edit->prefernces' in `virt-manager` and select `enable XML editing` in the general section.
+9. after applying your changes, navigate to details of your virual machine and view its XML version.
+10. change the loader from the default OVMF to your infected firmware
+```XML
+  <os>
+    <type arch="x86_64" machine="pc-q35-6.2">hvm</type>
+    <loader readonly="yes" type="pflash">/usr/share/OVMF/rootkit2/OVMF_CODE.fd</loader>
+    <nvram>/var/lib/libvirt/qemu/nvram/win10-3_VARS.fd</nvram>
+    <boot dev="hd"/>
+  </os>
+```
+Now your Virtual Machine would be ready for testing.
+
 ## How to Run
 
 In this part, you should provide instructions on how to run your project. Also if your project requires any prerequisites, mention them. 
