@@ -216,9 +216,12 @@ Once you have placed the `smm_target.exe` file on your virtual machine, the next
    - Review the contents of the log file to confirm that the rootkit has successfully intercepted the function calls made by `smm_target.exe`.
 
 ## Results
-In this section, you should present your results and provide an explanation for them.
+![Screenshot from 2024-09-02 23-51-32](https://github.com/user-attachments/assets/8537d93e-b8af-467c-8d60-0447a7f4cdd2)
+![Screenshot from 2024-09-02 23-52-19](https://github.com/user-attachments/assets/48f64ca1-6dc4-4bc7-b68f-1cc0e4d2d477)
+![Screenshot from 2024-09-02 23-52-45](https://github.com/user-attachments/assets/f173f958-7c94-4ce6-bf34-b5a7903a8061)
+As you can see in the screenshots provided, in the serial we can see that after IAT hooking is done, the file `smm.txt` is created in the path provided to our rootkit.
 
-Using image is required.
+
 
 ## Related Links
 Some links related to your project come here.
