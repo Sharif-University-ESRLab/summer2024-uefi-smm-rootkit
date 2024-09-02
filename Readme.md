@@ -1,5 +1,5 @@
 
-![Logo](![image](https://github.com/user-attachments/assets/e6c80e83-b4ab-42b1-b9ea-a42109bc75cc))
+![image](https://github.com/user-attachments/assets/e6c80e83-b4ab-42b1-b9ea-a42109bc75cc)
 
 
 # Designing a rootkit in SMM
