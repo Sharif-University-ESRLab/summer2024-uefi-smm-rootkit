@@ -1,23 +1,24 @@
 
-![Logo](https://via.placeholder.com/600x150?text=Your+Logo+Here+600x150)
+![Logo](![image](https://github.com/user-attachments/assets/e6c80e83-b4ab-42b1-b9ea-a42109bc75cc))
 
 
 # Designing a rootkit in SMM
-
-A brief description of what this project does and who it's for comes here.
-
+The project involves working with the System Management Mode (SMM) in UEFI firmware, which is a specialized mode in Intel processors used for low-level hardware control. In this project, the aim is to develop and implement an SMM rootkit.
+The project demonstrates how an SMM rootkit can be designed and implemented in UEFI, showcasing the security implications of such a rootkit by operating at a level higher than the operating system, making it difficult to detect or remove. The outcome includes implementing these features in a proof-of-concept rootkit and demonstrating the results.
 
 ## Tools
 In this section, you should mention the hardware or simulators utilized in your project.
 - Qemu
 - libvirt
 - virt-manager
-- docker
+- docker (change your docker registery to arvan cloud: [link](https://www.arvancloud.ir/fa/dev/docker)
 
 ## Implementation Details
 the implementation details of this project are given to you in the following steps:
 
 ### Setting Up the Environment
+
+You can skip this part, if you use the firmware already built by cloning our repo and accessing the firmware through `SMM-Rootkit/edk2/Build/OvmfX64/RELEASE_GCC5/FV`.
 
 #### **Clone the Rootkit and EDK II repositories:**
 first we need to compile our SMM with the rootkit on it. We can use docker for this matter. Docker would give us an OS-level virtualization. since SMM support is depricated in the newer versions of EDK II, keep in mind to use version `vUDK2018` of EDK II. Please note that you may need sudo permissions for running some of the following commands.
@@ -226,12 +227,14 @@ As you can see in the screenshots provided, in the serial we can see that after 
 ## Related Links
 Some links related to your project come here.
  - [EDK II](https://github.com/tianocore/edk2)
- - [ESP32 Pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
- - [Django Doc](https://docs.djangoproject.com/en/5.0/)
-
-
+ - [Uefi Lessons](https://github.com/Kostr/UEFI-Lessons)
+ - [Smm-Rootkit](https://github.com/jussihi/SMM-Rootkit)
+ - [UEFI](https://uefi.org/)
+   
 ## Authors
 Authors and their github link come here.
-- [@Author1](https://github.com/Sharif-University-ESRLab)
-- [@Author2](https://github.com/Sharif-University-ESRLab)
+- [Pouya Lahabi](https://github.com/PouyaL03)
+- [Aylin Rasteh](https://github.com/aylinraste)
+- [Hossein Sobhi](https://github.com/Oasis99hs)
+Special Thanks to [Hirbod Behnam](https://github.com/HirbodBehnam)
 
