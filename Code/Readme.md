@@ -1,20 +1,7 @@
-
 # Code
 
-Please upload your final codes to this folder.
+## KeyboardSmiHandler.c
+A cutom SMI handler to read key presses and send them to an ip address using UDP (e.g. localhost in this code)
 
-If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate folder for each one.
-
-
-Please edit this *readme* file and give brief description of each part.
-
-**Example:**
-
-## Server
-Server implemeted using `Django`.
-
-## Client
-Pure `HTML`, `CSS`& `JS` is used for user interface.
-
-## ESP32
-ESP32 is prgorammed using `C++` in `Arduino IDE`. 
+## TriggerSMI.c
+A trigger to activate our custom handler using a custom SMI value
