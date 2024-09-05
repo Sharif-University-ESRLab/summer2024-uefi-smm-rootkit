@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_SMM_DEPEX -o /root/edk2/Build/OvmfX64/RELEASE_GCC5/FV/Ffs/33FB3535-F15E-4c17-B303-5EB94595ECB6SmmLockBox/33FB3535-F15E-4c17-B303-5EB94595ECB6SEC1.1.dpx /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/LockBox/SmmLockBox/SmmLockBox/OUTPUT/SmmLockBox.depex

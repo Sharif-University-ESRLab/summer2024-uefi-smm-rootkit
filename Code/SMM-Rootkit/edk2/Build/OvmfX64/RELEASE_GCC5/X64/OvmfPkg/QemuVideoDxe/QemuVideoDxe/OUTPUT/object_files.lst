@@ -1,0 +1,8 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/ComponentName.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/Driver.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/DriverSupportedEfiVersion.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/Gop.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/Initialize.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/VbeShim.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/UnalignedIoGcc.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuVideoDxe/QemuVideoDxe/OUTPUT/AutoGen.obj

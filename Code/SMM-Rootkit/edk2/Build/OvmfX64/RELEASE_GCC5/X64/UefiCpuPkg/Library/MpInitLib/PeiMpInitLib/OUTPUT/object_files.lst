@@ -1,0 +1,4 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/MpInitLib/PeiMpInitLib/OUTPUT/X64/MpFuncs.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/MpInitLib/PeiMpInitLib/OUTPUT/PeiMpLib.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/MpInitLib/PeiMpInitLib/OUTPUT/MpLib.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/MpInitLib/PeiMpInitLib/OUTPUT/Microcode.obj

@@ -1,0 +1,1592 @@
+Archive member included to satisfy reference by file (symbol)
+
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLibDetect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(FormDisplay.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(ProcessOptions.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(InputHandler.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(Popup.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .text.unlikely.FormDisplay
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.HiiRemovePackages
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.InternalSafeStringNoStrOverlap
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.RefreshKeyHelp
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.UnicodeSPrint
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.BasePrintLibFillBuffer
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.CompareMem
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.ZeroMem
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.AllocateZeroPool
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.HiiGetSupportedLanguages
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.HiiAddPackages
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.4.lto_priv.27
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.StrLen
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.StrnLenS
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.StrCatS
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.StrnCpyS
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.StrCpyS
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.RemoveEntryList
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.SwapListEntries
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.EmptyEventProcess
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.DriverClearDisplayPage
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.RefreshTimeOutProcess
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.NewStrCat
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.SetArrayData
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.GetArrayData
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.ValueToOption
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.HiiValueToUINT64
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.unlikely.ProcessOptions
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.SetDisplayAttribute
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.UpdateSkipInfoForMenu
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.DisplayMenuString
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.DisplayOneMenu
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.GetIndexInfoForOpcode
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.UpdateHighlightMenuInfo
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.FindHighLightMenuOption
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.LibGetFieldFromNum
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.AdjustDateAndTimePosition
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.IsSelectable
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.UpdateOptionSkipLines
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.FindTopOfScreenMenuOption
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.FindTopOfScreenMenu
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.MoveToNextStatement
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.unlikely.LibGetStringWidth
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .rodata._gDriverUnloadImageCount
+                0x0000000000000000        0x1 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.GetLineByWidth
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.GetToken
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.GetWidth
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.UiAddMenuOption
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.PrintAt
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.WaitForKeyStroke
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.FreeLibStrings
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.PrintHotKeyHelpString
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.LibGetToken
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.ProcessUserOpcode
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.ClearLines
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text.unlikely.PrintCharAt
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .text.unlikely.AddOneSelectableOption
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .text.unlikely.CreatePopup
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdBrowserFieldTextHighlightColor
+                0x0000000000000000        0x1 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.GetBestLanguage.constprop.14
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.20
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.19
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.InternalAllocateCopyPool.constprop.17
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.HiiSetString.constprop.13
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.HiiGetString.constprop.12
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.LibSetUnicodeMem.constprop.11
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.PrintFormattedNumber.constprop.5
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.CompareHiiValue.constprop.4
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.CreateMultiStringPopUp.constprop.7
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.unlikely.ParseMessageString.part.0.lto_priv.28
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .text.unlikely.GetNumericInput
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .text.unlikely.BasePrintLibSPrintMarker.constprop.21
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000000000        0x4 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .text.unlikely.SetValuesByType
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .text.unlikely.GetSelectionInputPopUp
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .text.unlikely.ProcessHelpString
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .text.unlikely.ReadString
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .text.unlikely.PrintStringAtWithWidth
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .text.unlikely.PrintStringAt
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .text.unlikely.CreateDialog
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .text.unlikely.ConfirmDataChange
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .text.unlikely.UpdateStatusBar
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvhO66s.ltrans11.ltrans.o
+ .text          0x0000000000000000        0x0 DxePcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+ .text          0x0000000000000000       0x2a /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000      0x116 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLibDetect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiHiiServicesLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLanguage.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CustomizedDisplayLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CustomizedDisplayLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FormDisplay.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ProcessOptions.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 InputHandler.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Popup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccvhO66s.ltrans0.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans1.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans2.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans3.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans4.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans5.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans6.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans7.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans8.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans9.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans10.ltrans.o
+LOAD /tmp/ccvhO66s.ltrans11.ltrans.o
+START GROUP
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0xc05e
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.FormDisplay
+                0x0000000000000240     0x2b2b /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x0000000000000240                FormDisplay
+ .text.HiiRemovePackages
+                0x0000000000002d6b        0xd /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.InternalSafeStringNoStrOverlap
+                0x0000000000002d78       0x29 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.RefreshKeyHelp
+                0x0000000000002da1      0x5c1 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000002da1                RefreshKeyHelp
+ .text.FreePool
+                0x0000000000003362        0xa /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000003362                FreePool
+ .text._DriverUnloadHandler
+                0x000000000000336c      0x2b2 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text.UnicodeSPrint
+                0x000000000000361e       0x32 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x000000000000361e                UnicodeSPrint
+ .text.BasePrintLibFillBuffer
+                0x0000000000003650       0x2e /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000003650                BasePrintLibFillBuffer
+ .text.CopyMem  0x000000000000367e       0x13 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x000000000000367e                CopyMem
+ .text.CompareMem
+                0x0000000000003691       0x12 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000003691                CompareMem
+ .text.ZeroMem  0x00000000000036a3        0xe /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x00000000000036a3                ZeroMem
+ .text.AllocateZeroPool
+                0x00000000000036b1       0x27 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x00000000000036b1                AllocateZeroPool
+ .text.HiiGetSupportedLanguages
+                0x00000000000036d8       0x81 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x00000000000036d8                HiiGetSupportedLanguages
+ .text.HiiAddPackages
+                0x0000000000003759       0xfb /tmp/ccvhO66s.ltrans1.ltrans.o
+ .text._ModuleEntryPoint
+                0x0000000000003854      0x8f7 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000003854                _ModuleEntryPoint
+ .text.AsciiStrnCmp.part.4.lto_priv.27
+                0x000000000000414b       0x47 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x000000000000414b                AsciiStrnCmp.part.4.lto_priv.27
+ .text.StrLen   0x0000000000004192        0xf /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000004192                StrLen
+ .text.StrnLenS
+                0x00000000000041a1       0x27 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x00000000000041a1                StrnLenS
+ .text.StrCatS  0x00000000000041c8       0xba /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x00000000000041c8                StrCatS
+ .text.StrnCpyS
+                0x0000000000004282       0xbe /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000004282                StrnCpyS
+ .text.StrCpyS  0x0000000000004340       0x98 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x0000000000004340                StrCpyS
+ .text.RemoveEntryList
+                0x00000000000043d8       0x19 /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x00000000000043d8                RemoveEntryList
+ .text.SwapListEntries
+                0x00000000000043f1       0x6a /tmp/ccvhO66s.ltrans1.ltrans.o
+                0x00000000000043f1                SwapListEntries
+ .text.EmptyEventProcess
+                0x000000000000445b        0x1 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000445b                EmptyEventProcess
+ .text.DriverClearDisplayPage
+                0x000000000000445c       0x3e /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000445c                DriverClearDisplayPage
+ .text.RefreshTimeOutProcess
+                0x000000000000449a       0x81 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000449a                RefreshTimeOutProcess
+ .text.NewStrCat
+                0x000000000000451b       0x3b /tmp/ccvhO66s.ltrans2.ltrans.o
+ .text.SetArrayData
+                0x0000000000004556       0x27 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x0000000000004556                SetArrayData
+ .text.GetArrayData
+                0x000000000000457d       0x2a /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000457d                GetArrayData
+ .text.ValueToOption
+                0x00000000000045a7       0xa5 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x00000000000045a7                ValueToOption
+ .text.HiiValueToUINT64
+                0x000000000000464c       0x35 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000464c                HiiValueToUINT64
+ .text.ProcessOptions
+                0x0000000000004681      0xe46 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x0000000000004681                ProcessOptions
+ .text.SetDisplayAttribute
+                0x00000000000054c7       0x69 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.UpdateSkipInfoForMenu
+                0x0000000000005530       0xba /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.DisplayMenuString
+                0x00000000000055ea       0x82 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .text.DisplayOneMenu
+                0x000000000000566c      0x6bb /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x000000000000566c                DisplayOneMenu
+ .text.GetIndexInfoForOpcode
+                0x0000000000005d27       0x64 /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000005d27                GetIndexInfoForOpcode
+ .text.UpdateHighlightMenuInfo
+                0x0000000000005d8b      0x1a7 /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000005d8b                UpdateHighlightMenuInfo
+ .text.FindHighLightMenuOption
+                0x0000000000005f32       0xdf /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000005f32                FindHighLightMenuOption
+ .text.LibGetFieldFromNum
+                0x0000000000006011       0x25 /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000006011                LibGetFieldFromNum
+                0x0000000000006011                GetFieldFromNum
+ .text.AdjustDateAndTimePosition
+                0x0000000000006036       0x5e /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000006036                AdjustDateAndTimePosition
+ .text.IsSelectable
+                0x0000000000006094       0xc1 /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000006094                IsSelectable
+ .text.UpdateOptionSkipLines
+                0x0000000000006155       0x99 /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000006155                UpdateOptionSkipLines
+ .text.FindTopOfScreenMenuOption
+                0x00000000000061ee      0x10e /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x00000000000061ee                FindTopOfScreenMenuOption
+ .text.FindTopOfScreenMenu
+                0x00000000000062fc       0x94 /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x00000000000062fc                FindTopOfScreenMenu
+ .text.MoveToNextStatement
+                0x0000000000006390       0xbe /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x0000000000006390                MoveToNextStatement
+ .text.LibGetStringWidth
+                0x000000000000644e       0x51 /tmp/ccvhO66s.ltrans3.ltrans.o
+                0x000000000000644e                GetStringWidth
+                0x000000000000644e                LibGetStringWidth
+ .text.GetLineByWidth
+                0x000000000000649f      0x1c3 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000649f                GetLineByWidth
+ .text.GetToken
+                0x0000000000006662       0x43 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x0000000000006662                GetToken
+ .text.GetWidth
+                0x00000000000066a5       0xe6 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x00000000000066a5                GetWidth
+ .text.UiAddMenuOption
+                0x000000000000678b      0x234 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000678b                UiAddMenuOption
+ .text.PrintAt  0x00000000000069bf      0x1ba /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x00000000000069bf                PrintAt
+ .text.WaitForKeyStroke
+                0x0000000000006b79       0x70 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x0000000000006b79                WaitForKeyStroke
+ .text.FreeLibStrings
+                0x0000000000006be9       0xed /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x0000000000006be9                FreeLibStrings
+ .text.PrintHotKeyHelpString
+                0x0000000000006cd6      0x21a /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x0000000000006cd6                PrintHotKeyHelpString
+ .text.LibGetToken
+                0x0000000000006ef0       0x43 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x0000000000006ef0                LibGetToken
+ .text.ProcessUserOpcode
+                0x0000000000006f33      0x10e /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x0000000000006f33                ProcessUserOpcode
+ .text.ClearLines
+                0x0000000000007041       0x96 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x0000000000007041                ClearLines
+ .text.PrintCharAt
+                0x00000000000070d7       0x26 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x00000000000070d7                PrintCharAt
+ .text.AddOneSelectableOption
+                0x00000000000070fd       0xf3 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .text.CreatePopup
+                0x00000000000071f0      0xb22 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x00000000000071f0                CreatePopup
+ .text.GetBestLanguage.constprop.14
+                0x0000000000007d12      0x103 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .text.BasePrintLibSPrint.constprop.20
+                0x0000000000007e15       0x29 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x0000000000007e15                BasePrintLibSPrint.constprop.20
+ .text.InternalAllocatePool.constprop.19
+                0x0000000000007e3e       0x37 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x0000000000007e3e                InternalAllocatePool.constprop.19
+ .text.InternalAllocateCopyPool.constprop.17
+                0x0000000000007e75       0x35 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x0000000000007e75                InternalAllocateCopyPool.constprop.17
+ .text.HiiSetString.constprop.13
+                0x0000000000007eaa      0x122 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x0000000000007eaa                HiiSetString.constprop.13
+ .text.HiiGetString.constprop.12
+                0x0000000000007fcc      0x1ae /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x0000000000007fcc                HiiGetString.constprop.12
+ .text.LibSetUnicodeMem.constprop.11
+                0x000000000000817a       0x13 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000817a                LibSetUnicodeMem.constprop.11
+ .text.PrintFormattedNumber.constprop.5
+                0x000000000000818d       0x89 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000818d                PrintFormattedNumber.constprop.5
+ .text.CompareHiiValue.constprop.4
+                0x0000000000008216      0x287 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x0000000000008216                CompareHiiValue.constprop.4
+ .text.CreateMultiStringPopUp.constprop.7
+                0x000000000000849d      0x24e /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000849d                CreateMultiStringPopUp.constprop.7
+ .text.ParseMessageString.part.0.lto_priv.28
+                0x00000000000086eb      0x11c /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x00000000000086eb                ParseMessageString.part.0.lto_priv.28
+ .text.GetNumericInput
+                0x0000000000008807      0xc78 /tmp/ccvhO66s.ltrans7.ltrans.o
+                0x0000000000008807                GetNumericInput
+ .text.BasePrintLibSPrintMarker.constprop.21
+                0x000000000000947f      0xee9 /tmp/ccvhO66s.ltrans8.ltrans.o
+                0x000000000000947f                BasePrintLibSPrintMarker.constprop.21
+ .text.SetValuesByType
+                0x000000000000a368       0x30 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .text.GetSelectionInputPopUp
+                0x000000000000a398      0xae4 /tmp/ccvhO66s.ltrans9.ltrans.o
+                0x000000000000a398                GetSelectionInputPopUp
+ .text.ProcessHelpString
+                0x000000000000ae7c      0x12a /tmp/ccvhO66s.ltrans10.ltrans.o
+                0x000000000000ae7c                ProcessHelpString
+ .text.ReadString
+                0x000000000000afa6      0x7a9 /tmp/ccvhO66s.ltrans10.ltrans.o
+                0x000000000000afa6                ReadString
+ .text.PrintStringAtWithWidth
+                0x000000000000b74f       0x26 /tmp/ccvhO66s.ltrans11.ltrans.o
+                0x000000000000b74f                PrintStringAtWithWidth
+ .text.PrintStringAt
+                0x000000000000b775       0x22 /tmp/ccvhO66s.ltrans11.ltrans.o
+                0x000000000000b775                PrintStringAt
+ .text.CreateDialog
+                0x000000000000b797      0x399 /tmp/ccvhO66s.ltrans11.ltrans.o
+                0x000000000000b797                CreateDialog
+ .text.ConfirmDataChange
+                0x000000000000bb30       0xa8 /tmp/ccvhO66s.ltrans11.ltrans.o
+                0x000000000000bb30                ConfirmDataChange
+ .text.UpdateStatusBar
+                0x000000000000bbd8      0x16a /tmp/ccvhO66s.ltrans11.ltrans.o
+                0x000000000000bbd8                UpdateStatusBar
+ *fill*         0x000000000000bd42        0xe 
+ .text          0x000000000000bd50       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                0x000000000000bd50                InternalMemCompareMem
+ *fill*         0x000000000000bd6d        0x3 
+ .text          0x000000000000bd70       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                0x000000000000bd70                InternalMemZeroMem
+ *fill*         0x000000000000bd8d        0x3 
+ .text          0x000000000000bd90       0x3c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                0x000000000000bd90                InternalMemCopyMem
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str2.2
+                0x000000000000bdcc        0x0 /tmp/ccvhO66s.ltrans0.ltrans.o
+                                          0x2 (size before relaxing)
+ .rodata.FormDisplay
+                0x000000000000bdcc       0x78 /tmp/ccvhO66s.ltrans0.ltrans.o
+ *fill*         0x000000000000be44       0x1c 
+ .rodata.gScreenOperationToControlFlag
+                0x000000000000be60       0x50 /tmp/ccvhO66s.ltrans0.ltrans.o
+ *fill*         0x000000000000beb0       0x10 
+ .rodata.gScanCodeToOperation
+                0x000000000000bec0       0x38 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x000000000000bef8       0x1a /tmp/ccvhO66s.ltrans1.ltrans.o
+                                         0x28 (size before relaxing)
+ .rodata.mEndOfPakageList
+                0x000000000000bf12        0x4 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .rodata.str2.2
+                0x000000000000bf16       0x24 /tmp/ccvhO66s.ltrans2.ltrans.o
+                                         0x2a (size before relaxing)
+ *fill*         0x000000000000bf3a        0x2 
+ .rodata.HiiValueToUINT64
+                0x000000000000bf3c       0x1c /tmp/ccvhO66s.ltrans2.ltrans.o
+ .rodata.str2.2
+                0x000000000000bf58        0x2 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .rodata.str2.2
+                0x000000000000bf58        0x6 /tmp/ccvhO66s.ltrans4.ltrans.o
+ *fill*         0x000000000000bf5e        0x2 
+ .rodata._gPcd_FixedAtBuild_PcdFrontPageFormSetGuid
+                0x000000000000bf60       0x10 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .rodata.str2.2
+                0x000000000000bf70        0xe /tmp/ccvhO66s.ltrans5.ltrans.o
+                                         0x16 (size before relaxing)
+ .rodata._gPcd_FixedAtBuild_PcdBrowserFieldBackgroundHighlightColor
+                0x000000000000bf7e        0x1 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000bf7e                _gPcd_FixedAtBuild_PcdBrowerGrayOutReadOnlyMenu
+                0x000000000000bf7e                _gPcd_FixedAtBuild_PcdBrowserGrayOutTextStatement
+                0x000000000000bf7e                _gPcd_FixedAtBuild_PcdBrowserFieldTextColor
+                0x000000000000bf7e                _gPcd_FixedAtBuild_PcdBrowserFieldBackgroundHighlightColor
+ .rodata.str1.1
+                0x000000000000bf7f        0x7 /tmp/ccvhO66s.ltrans6.ltrans.o
+                                          0x8 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000bf86       0x2c /tmp/ccvhO66s.ltrans6.ltrans.o
+                                         0x34 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000bfb2       0x2c /tmp/ccvhO66s.ltrans7.ltrans.o
+                                         0x18 (size before relaxing)
+ *fill*         0x000000000000bfb2        0x6 
+ .rodata.CSWTCH.51
+                0x000000000000bfb8        0x8 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .rodata.str1.1
+                0x000000000000bfc0      0x29f /tmp/ccvhO66s.ltrans8.ltrans.o
+                                        0x2b0 (size before relaxing)
+ *fill*         0x000000000000c25f        0x1 
+ .rodata.mHexStr
+                0x000000000000c260       0x10 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .rodata.SetValuesByType
+                0x000000000000c270       0x14 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .rodata.str2.2
+                0x000000000000c284        0x8 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .rodata.GetSelectionInputPopUp
+                0x000000000000c284       0x14 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .rodata.str2.2
+                0x000000000000c298        0x6 /tmp/ccvhO66s.ltrans11.ltrans.o
+                                          0xc (size before relaxing)
+ *(.got .got.*)
+ .got           0x000000000000c29e        0x0 DxePcdLib.obj (symbol from plugin)
+ .got.plt       0x000000000000c29e        0x0 DxePcdLib.obj (symbol from plugin)
+                0x000000000000c29e                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x000000000000c2a0        0x0
+ .plt           0x000000000000c2a0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.data           0x000000000000c2c0     0x2370
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEdkiiFormBrowserEx2ProtocolGuid
+                0x000000000000c2c0       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiHiiPopupProtocolGuid
+                0x000000000000c2d0       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEdkiiFormDisplayEngineProtocolGuid
+                0x000000000000c2e0       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ *fill*         0x000000000000c2f0       0x10 
+ .data.rel.local.mPrivateData
+                0x000000000000c300       0x38 /tmp/ccvhO66s.ltrans1.ltrans.o
+ *fill*         0x000000000000c338        0x8 
+ .data.DisplayEngineStrings
+                0x000000000000c340     0x15c6 /tmp/ccvhO66s.ltrans1.ltrans.o
+ *fill*         0x000000000000d906        0xa 
+ .data.gDisplayEngineGuid
+                0x000000000000d910       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x000000000000d920       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x000000000000d930       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x000000000000d940       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x000000000000d950       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x000000000000d960       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x000000000000d970       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.CustomizedDisplayLibStrings
+                0x000000000000d980      0x6ea /tmp/ccvhO66s.ltrans1.ltrans.o
+ *fill*         0x000000000000e06a        0x6 
+ .data.gCustomizedDisplayLibGuid
+                0x000000000000e070       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gEfiLoadedImageProtocolGuid
+                0x000000000000e080       0x10 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .data.gLibIsFirstForm
+                0x000000000000e090        0x1 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e090                gLibIsFirstForm
+ .data.mIsFirstForm
+                0x000000000000e091        0x1 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e091                mIsFirstForm
+ *fill*         0x000000000000e092        0xe 
+ .data.gEfiIfrTianoGuid
+                0x000000000000e0a0       0x10 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .data.gEfiGlobalVariableGuid
+                0x000000000000e0b0       0x10 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .data.rel.ro.local.mStatusString
+                0x000000000000e0c0      0x138 /tmp/ccvhO66s.ltrans8.ltrans.o
+ *(.bss .bss.*)
+ .bss.gCheckError
+                0x000000000000e1f8        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e1f8                gCheckError
+ .bss.gSaveNoSubmitProcess
+                0x000000000000e200        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e200                gSaveNoSubmitProcess
+ .bss.gChangesOpt
+                0x000000000000e208        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e208                gChangesOpt
+ .bss.gDiscardChange
+                0x000000000000e210        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e210                gDiscardChange
+ .bss.gJumpToFormSet
+                0x000000000000e218        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e218                gJumpToFormSet
+ .bss.gSaveProcess
+                0x000000000000e220        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e220                gSaveProcess
+ .bss.gBrowserError
+                0x000000000000e228        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e228                gBrowserError
+ .bss.gReconnectRequired
+                0x000000000000e230        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e230                gReconnectRequired
+ .bss.gReconnectConfirmChanges
+                0x000000000000e238        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e238                gReconnectConfirmChanges
+ .bss.gReconnectFail
+                0x000000000000e240        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e240                gReconnectFail
+ .bss.gNoSubmitIfFailed
+                0x000000000000e248        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e248                gNoSubmitIfFailed
+ .bss.gProtocolNotFound
+                0x000000000000e250        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e250                gProtocolNotFound
+ .bss.gFormSuppress
+                0x000000000000e258        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e258                gFormSuppress
+ .bss.gFormNotFound
+                0x000000000000e260        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e260                gFormNotFound
+ .bss.gSaveFailed
+                0x000000000000e268        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e268                gSaveFailed
+ .bss.gBannerData
+                0x000000000000e270        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e270                gBannerData
+ .bss.gLibEmptyString
+                0x000000000000e278        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e278                gLibEmptyString
+ .bss.gScreenDimensions
+                0x000000000000e280       0x20 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e280                gScreenDimensions
+ .bss.gFooterHeight
+                0x000000000000e2a0        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e2a0                gFooterHeight
+ *fill*         0x000000000000e2a8       0x18 
+ .bss.gHighligthMenuInfo
+                0x000000000000e2c0       0x48 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e2c0                gHighligthMenuInfo
+ .bss.gClassOfVfr
+                0x000000000000e308        0x2 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e308                gClassOfVfr
+ *fill*         0x000000000000e30a        0x6 
+ .bss.gConfirmOpt
+                0x000000000000e310        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e310                gConfirmOpt
+ .bss.gConfirmMsgEnd
+                0x000000000000e318        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e318                gConfirmMsgEnd
+ .bss.gConfirmExitMsg2nd
+                0x000000000000e320        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e320                gConfirmExitMsg2nd
+ .bss.gConfirmResetMsg2nd
+                0x000000000000e328        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e328                gConfirmResetMsg2nd
+ .bss.gConfirmSubmitMsg2nd
+                0x000000000000e330        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e330                gConfirmSubmitMsg2nd
+ .bss.gConfirmDefaultMsg2nd
+                0x000000000000e338        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e338                gConfirmDefaultMsg2nd
+ .bss.gConfirmExitMsg
+                0x000000000000e340        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e340                gConfirmExitMsg
+ .bss.gConfirmResetMsg
+                0x000000000000e348        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e348                gConfirmResetMsg
+ .bss.gConfirmSubmitMsg
+                0x000000000000e350        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e350                gConfirmSubmitMsg
+ .bss.gConfirmDefaultMsg
+                0x000000000000e358        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e358                gConfirmDefaultMsg
+ .bss.gConfirmDiscardMsg
+                0x000000000000e360        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e360                gConfirmDiscardMsg
+ .bss.gConfirmMsgConnect
+                0x000000000000e368        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e368                gConfirmMsgConnect
+ .bss.gHiiHandle
+                0x000000000000e370        0x8 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e370                gHiiHandle
+ .bss.gModalSkipColumn
+                0x000000000000e378        0x2 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e378                gModalSkipColumn
+ *fill*         0x000000000000e37a        0x6 
+ .bss.gMenuOption
+                0x000000000000e380       0x10 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e380                gMenuOption
+ *fill*         0x000000000000e390       0x10 
+ .bss.gOldFormEntry
+                0x000000000000e3a0       0x38 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e3a0                gOldFormEntry
+ .bss.gPromptBlockWidth
+                0x000000000000e3d8        0x2 /tmp/ccvhO66s.ltrans0.ltrans.o
+                0x000000000000e3d8                gPromptBlockWidth
+ *fill*         0x000000000000e3da        0x6 
+ .bss.gNoSubmitIf
+                0x000000000000e3e0        0x8 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss.mDevicePathLibDevicePathUtilities
+                0x000000000000e3e8        0x8 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss.gHiiImage
+                0x000000000000e3f0        0x8 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss.gHiiFont  0x000000000000e3f8        0x8 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss.gHiiConfigRouting
+                0x000000000000e400        0x8 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss.gHiiDatabase
+                0x000000000000e408        0x8 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss.mCDLStringPackHandle
+                0x000000000000e410        0x8 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .bss.gPassowordInvalid
+                0x000000000000e418        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e418                gPassowordInvalid
+ .bss.gConfirmError
+                0x000000000000e420        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e420                gConfirmError
+ .bss.gConfirmPassword
+                0x000000000000e428        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e428                gConfirmPassword
+ .bss.gPromptForNewPassword
+                0x000000000000e430        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e430                gPromptForNewPassword
+ .bss.gPromptForPassword
+                0x000000000000e438        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e438                gPromptForPassword
+ .bss.gPasswordUnsupported
+                0x000000000000e440        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e440                gPasswordUnsupported
+ .bss.gPromptForData
+                0x000000000000e448        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e448                gPromptForData
+ .bss.gMisMatch
+                0x000000000000e450        0x1 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e450                gMisMatch
+ *fill*         0x000000000000e451        0x7 
+ .bss.gEmptyString
+                0x000000000000e458        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e458                gEmptyString
+ .bss.gOptionMismatch
+                0x000000000000e460        0x8 /tmp/ccvhO66s.ltrans2.ltrans.o
+                0x000000000000e460                gOptionMismatch
+ .bss.mLibUnknownString
+                0x000000000000e468        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e468                mLibUnknownString
+ .bss.gInputErrorMessage
+                0x000000000000e470        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e470                gInputErrorMessage
+ .bss.gNvUpdateMessage
+                0x000000000000e478        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e478                gNvUpdateMessage
+ .bss.gSaveChanges
+                0x000000000000e480        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e480                gSaveChanges
+ .bss.gAdjustNumber
+                0x000000000000e488        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e488                gAdjustNumber
+ .bss.gMinusString
+                0x000000000000e490        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e490                gMinusString
+ .bss.gPlusString
+                0x000000000000e498        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e498                gPlusString
+ .bss.gNoResponse
+                0x000000000000e4a0        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4a0                gNoResponse
+ .bss.gYesResponse
+                0x000000000000e4a8        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4a8                gYesResponse
+ .bss.gAreYouSure
+                0x000000000000e4b0        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4b0                gAreYouSure
+ .bss.gToggleCheckBox
+                0x000000000000e4b8        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4b8                gToggleCheckBox
+ .bss.gHexNumericInput
+                0x000000000000e4c0        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4c0                gHexNumericInput
+ .bss.gDecNumericInput
+                0x000000000000e4c8        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4c8                gDecNumericInput
+ .bss.gMoveHighlight
+                0x000000000000e4d0        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4d0                gMoveHighlight
+ .bss.gEscapeString
+                0x000000000000e4d8        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4d8                gEscapeString
+ .bss.gEnterEscapeString
+                0x000000000000e4e0        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4e0                gEnterEscapeString
+ .bss.gEnterCommitString
+                0x000000000000e4e8        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4e8                gEnterCommitString
+ .bss.gEnterString
+                0x000000000000e4f0        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4f0                gEnterString
+ .bss.mSpaceBuffer
+                0x000000000000e4f8        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e4f8                mSpaceBuffer
+ .bss.mUnknownString
+                0x000000000000e500        0x8 /tmp/ccvhO66s.ltrans4.ltrans.o
+                0x000000000000e500                mUnknownString
+ .bss.gConfirmOptCancel
+                0x000000000000e508        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e508                gConfirmOptCancel
+ .bss.gConfirmOptOk
+                0x000000000000e510        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e510                gConfirmOptOk
+ .bss.gConfirmOptNo
+                0x000000000000e518        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e518                gConfirmOptNo
+ .bss.gConfirmOptYes
+                0x000000000000e520        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e520                gConfirmOptYes
+ .bss.gInfoPopup
+                0x000000000000e528        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e528                gInfoPopup
+ .bss.gWarningPopup
+                0x000000000000e530        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e530                gWarningPopup
+ .bss.gErrorPopup
+                0x000000000000e538        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e538                gErrorPopup
+ .bss.gNoOption
+                0x000000000000e540        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e540                gNoOption
+ .bss.gYesOption
+                0x000000000000e548        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e548                gYesOption
+ .bss.gCancelOption
+                0x000000000000e550        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e550                gCancelOption
+ .bss.gOkOption
+                0x000000000000e558        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+                0x000000000000e558                gOkOption
+ .bss.gUserSelectableOptions
+                0x000000000000e560       0x10 /tmp/ccvhO66s.ltrans5.ltrans.o
+ *fill*         0x000000000000e570       0x10 
+ .bss.gPopupDimensions
+                0x000000000000e580       0x20 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .bss.gMesStrLineNum
+                0x000000000000e5a0        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .bss.gMaxRowWidth
+                0x000000000000e5a8        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .bss.gMessageString
+                0x000000000000e5b0        0x8 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .bss.gST       0x000000000000e5b8        0x8 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000e5b8                gST
+ .bss.gStatementDimensions
+                0x000000000000e5c0       0x20 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000e5c0                gStatementDimensions
+ .bss.gRT       0x000000000000e5e0        0x8 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000e5e0                gRT
+ .bss.gHiiString
+                0x000000000000e5e8        0x8 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000e5e8                gHiiString
+ .bss.gBS       0x000000000000e5f0        0x8 /tmp/ccvhO66s.ltrans6.ltrans.o
+                0x000000000000e5f0                gBS
+ .bss.gOptionBlockWidth
+                0x000000000000e5f8        0x2 /tmp/ccvhO66s.ltrans7.ltrans.o
+                0x000000000000e5f8                gOptionBlockWidth
+ *fill*         0x000000000000e5fa        0x6 
+ .bss.gUserInput
+                0x000000000000e600        0x8 /tmp/ccvhO66s.ltrans9.ltrans.o
+                0x000000000000e600                gUserInput
+ .bss.gDirection
+                0x000000000000e608        0x2 /tmp/ccvhO66s.ltrans9.ltrans.o
+                0x000000000000e608                gDirection
+ *fill*         0x000000000000e60a        0x6 
+ .bss.gFormData
+                0x000000000000e610        0x8 /tmp/ccvhO66s.ltrans9.ltrans.o
+                0x000000000000e610                gFormData
+ .bss.gHelpBlockWidth
+                0x000000000000e618        0x2 /tmp/ccvhO66s.ltrans10.ltrans.o
+                0x000000000000e618                gHelpBlockWidth
+ *fill*         0x000000000000e61a        0x6 
+ .bss.gMiniString
+                0x000000000000e620        0x8 /tmp/ccvhO66s.ltrans10.ltrans.o
+                0x000000000000e620                gMiniString
+ .bss.gPressEnter
+                0x000000000000e628        0x8 /tmp/ccvhO66s.ltrans10.ltrans.o
+                0x000000000000e628                gPressEnter
+
+.eh_frame       0x000000000000e640        0x0
+ *(.eh_frame)
+ .eh_frame      0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.dynbss         0x000000000000e640        0x0
+ .dynbss        0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x000000000000e640        0x0
+ .gnu.version_d
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version    0x000000000000e640        0x0
+ .gnu.version   0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x000000000000e640        0x0
+ .gnu.version_r
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.rela           0x000000000000e640      0x408
+ *(.rela .rela.*)
+ .rela.plt      0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.got      0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.bss      0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text     0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FormDisplay
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RefreshKeyHelp
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FreePool
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text._DriverUnloadHandler
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UnicodeSPrint
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AllocateZeroPool
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetSupportedLanguages
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text._ModuleEntryPoint
+                0x000000000000e640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPrivateData
+                0x000000000000e640       0x60 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DriverClearDisplayPage
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RefreshTimeOutProcess
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ValueToOption
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ProcessOptions
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SetDisplayAttribute
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateSkipInfoForMenu
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DisplayMenuString
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DisplayOneMenu
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateHighlightMenuInfo
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.IsSelectable
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateOptionSkipLines
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FindTopOfScreenMenuOption
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetToken
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetWidth
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UiAddMenuOption
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.PrintAt
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.WaitForKeyStroke
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.PrintHotKeyHelpString
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.LibGetToken
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ClearLines
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.CreatePopup
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BasePrintLibSPrint.constprop.20
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.CreateMultiStringPopUp.constprop.7
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetNumericInput
+                0x000000000000e6a0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x000000000000e6a0      0x3a8 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetSelectionInputPopUp
+                0x000000000000ea48        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ReadString
+                0x000000000000ea48        0x0 DxePcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000000ea48       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000000ea48       0x24 DxePcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/DEBUG/DisplayEngine.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x1899a
+ .debug_info    0x0000000000000000     0x367f /tmp/ccvhO66s.ltrans0.ltrans.o
+ .debug_info    0x000000000000367f     0x6078 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .debug_info    0x00000000000096f7     0x1d82 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .debug_info    0x000000000000b479     0x1e14 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .debug_info    0x000000000000d28d     0x1fe2 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .debug_info    0x000000000000f26f     0x1854 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .debug_info    0x0000000000010ac3     0x3448 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .debug_info    0x0000000000013f0b     0x1287 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .debug_info    0x0000000000015192      0xa66 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .debug_info    0x0000000000015bf8     0x14b4 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .debug_info    0x00000000000170ac     0x1186 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .debug_info    0x0000000000018232      0x768 /tmp/ccvhO66s.ltrans11.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x2513
+ .debug_abbrev  0x0000000000000000      0x328 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000328      0x58c /tmp/ccvhO66s.ltrans1.ltrans.o
+ .debug_abbrev  0x00000000000008b4      0x399 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000c4d      0x380 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000000fcd      0x3d4 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .debug_abbrev  0x00000000000013a1      0x2d5 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .debug_abbrev  0x0000000000001676      0x3ce /tmp/ccvhO66s.ltrans6.ltrans.o
+ .debug_abbrev  0x0000000000001a44      0x2a5 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .debug_abbrev  0x0000000000001ce9      0x1b6 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .debug_abbrev  0x0000000000001e9f      0x2b2 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .debug_abbrev  0x0000000000002151      0x256 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .debug_abbrev  0x00000000000023a7      0x16c /tmp/ccvhO66s.ltrans11.ltrans.o
+
+.debug_loc      0x0000000000000000    0x13999
+ .debug_loc     0x0000000000000000     0x2e15 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .debug_loc     0x0000000000002e15     0x2645 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .debug_loc     0x000000000000545a     0x18cd /tmp/ccvhO66s.ltrans2.ltrans.o
+ .debug_loc     0x0000000000006d27     0x1e82 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .debug_loc     0x0000000000008ba9     0x1e8f /tmp/ccvhO66s.ltrans4.ltrans.o
+ .debug_loc     0x000000000000aa38     0x1201 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .debug_loc     0x000000000000bc39     0x1e7c /tmp/ccvhO66s.ltrans6.ltrans.o
+ .debug_loc     0x000000000000dab5     0x199b /tmp/ccvhO66s.ltrans7.ltrans.o
+ .debug_loc     0x000000000000f450     0x176f /tmp/ccvhO66s.ltrans8.ltrans.o
+ .debug_loc     0x0000000000010bbf     0x173f /tmp/ccvhO66s.ltrans9.ltrans.o
+ .debug_loc     0x00000000000122fe      0xed5 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .debug_loc     0x00000000000131d3      0x7c6 /tmp/ccvhO66s.ltrans11.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x6c0
+ .debug_aranges
+                0x0000000000000000       0x30 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000030      0x190 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .debug_aranges
+                0x00000000000001c0       0xb0 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .debug_aranges
+                0x0000000000000270      0x110 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000380       0xe0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .debug_aranges
+                0x0000000000000460       0x40 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .debug_aranges
+                0x00000000000004a0       0xd0 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .debug_aranges
+                0x0000000000000570       0x30 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .debug_aranges
+                0x00000000000005a0       0x30 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .debug_aranges
+                0x00000000000005d0       0x40 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .debug_aranges
+                0x0000000000000610       0x40 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .debug_aranges
+                0x0000000000000650       0x70 /tmp/ccvhO66s.ltrans11.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x2320
+ .debug_ranges  0x0000000000000000      0xbd0 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000bd0      0x680 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000001250      0x210 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .debug_ranges  0x0000000000001460      0x2b0 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000001710      0x2e0 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .debug_ranges  0x00000000000019f0      0x3b0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000001da0      0x300 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .debug_ranges  0x00000000000020a0       0x80 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .debug_ranges  0x0000000000002120       0x20 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .debug_ranges  0x0000000000002140      0x120 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .debug_ranges  0x0000000000002260       0x60 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .debug_ranges  0x00000000000022c0       0x60 /tmp/ccvhO66s.ltrans11.ltrans.o
+
+.debug_line     0x0000000000000000     0x4d61
+ .debug_line    0x0000000000000000      0xa8e /tmp/ccvhO66s.ltrans0.ltrans.o
+ .debug_line    0x0000000000000a8e      0xe6f /tmp/ccvhO66s.ltrans1.ltrans.o
+ .debug_line    0x00000000000018fd      0x663 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .debug_line    0x0000000000001f60      0x6c7 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .debug_line    0x0000000000002627      0x748 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .debug_line    0x0000000000002d6f      0x4ae /tmp/ccvhO66s.ltrans5.ltrans.o
+ .debug_line    0x000000000000321d      0x85c /tmp/ccvhO66s.ltrans6.ltrans.o
+ .debug_line    0x0000000000003a79      0x4a9 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .debug_line    0x0000000000003f22      0x432 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .debug_line    0x0000000000004354      0x4a6 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .debug_line    0x00000000000047fa      0x316 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .debug_line    0x0000000000004b10      0x251 /tmp/ccvhO66s.ltrans11.ltrans.o
+
+.debug_str      0x0000000000000000     0x5237
+ .debug_str     0x0000000000000000     0x10ac /tmp/ccvhO66s.ltrans0.ltrans.o
+                                       0x1334 (size before relaxing)
+ .debug_str     0x00000000000010ac     0x2842 /tmp/ccvhO66s.ltrans1.ltrans.o
+                                       0x326d (size before relaxing)
+ .debug_str     0x00000000000038ee      0x2b7 /tmp/ccvhO66s.ltrans2.ltrans.o
+                                        0xc44 (size before relaxing)
+ .debug_str     0x0000000000003ba5      0x3eb /tmp/ccvhO66s.ltrans3.ltrans.o
+                                        0xd20 (size before relaxing)
+ .debug_str     0x0000000000003f90      0x40d /tmp/ccvhO66s.ltrans4.ltrans.o
+                                        0xf12 (size before relaxing)
+ .debug_str     0x000000000000439d      0x401 /tmp/ccvhO66s.ltrans5.ltrans.o
+                                        0xbaa (size before relaxing)
+ .debug_str     0x000000000000479e      0x472 /tmp/ccvhO66s.ltrans6.ltrans.o
+                                       0x1ded (size before relaxing)
+ .debug_str     0x0000000000004c10      0x151 /tmp/ccvhO66s.ltrans7.ltrans.o
+                                        0x9c7 (size before relaxing)
+ .debug_str     0x0000000000004d61      0x22c /tmp/ccvhO66s.ltrans8.ltrans.o
+                                        0x5d5 (size before relaxing)
+ .debug_str     0x0000000000004f8d      0x13d /tmp/ccvhO66s.ltrans9.ltrans.o
+                                        0xac2 (size before relaxing)
+ .debug_str     0x00000000000050ca       0xf4 /tmp/ccvhO66s.ltrans10.ltrans.o
+                                        0x9a2 (size before relaxing)
+ .debug_str     0x00000000000051be       0x79 /tmp/ccvhO66s.ltrans11.ltrans.o
+                                        0x3db (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1ad0
+ .debug_frame   0x0000000000000000       0x88 /tmp/ccvhO66s.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000088      0x430 /tmp/ccvhO66s.ltrans1.ltrans.o
+ .debug_frame   0x00000000000004b8      0x358 /tmp/ccvhO66s.ltrans2.ltrans.o
+ .debug_frame   0x0000000000000810      0x480 /tmp/ccvhO66s.ltrans3.ltrans.o
+ .debug_frame   0x0000000000000c90      0x3b8 /tmp/ccvhO66s.ltrans4.ltrans.o
+ .debug_frame   0x0000000000001048       0xd0 /tmp/ccvhO66s.ltrans5.ltrans.o
+ .debug_frame   0x0000000000001118      0x320 /tmp/ccvhO66s.ltrans6.ltrans.o
+ .debug_frame   0x0000000000001438      0x120 /tmp/ccvhO66s.ltrans7.ltrans.o
+ .debug_frame   0x0000000000001558       0xe8 /tmp/ccvhO66s.ltrans8.ltrans.o
+ .debug_frame   0x0000000000001640      0x170 /tmp/ccvhO66s.ltrans9.ltrans.o
+ .debug_frame   0x00000000000017b0      0x1b0 /tmp/ccvhO66s.ltrans10.ltrans.o
+ .debug_frame   0x0000000000001960      0x170 /tmp/ccvhO66s.ltrans11.ltrans.o

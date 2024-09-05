@@ -1,0 +1,15 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/PiSmmCore.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Page.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Pool.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Handle.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Locate.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Notify.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Dependency.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Dispatcher.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Smi.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/InstallConfigurationTable.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/SmramProfileRecord.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/MemoryAttributesTable.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/SmiHandlerProfile.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/HeapGuard.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/AutoGen.obj

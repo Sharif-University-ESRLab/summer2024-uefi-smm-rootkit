@@ -1,0 +1,1131 @@
+Archive member included to satisfy reference by file (symbol)
+
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLibDetect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib(ReportStatusCodeLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/OUTPUT/XhciDxe.lib(Xhci.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/OUTPUT/XhciDxe.lib(XhciReg.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/OUTPUT/XhciDxe.lib(XhciSched.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/OUTPUT/XhciDxe.lib(UsbHcMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/OUTPUT/XhciDxe.lib(ComponentName.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/OUTPUT/XhciDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .text.unlikely.XhcTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .text.unlikely.XhcControlTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhcUpdateAsyncRequest
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.IsTransferRingTrb
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhcCheckUrbResult
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhcMonitorAsyncRequests
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhcEndpointToDci
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhcPollPortStatusChange
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhciDelAllAsyncIntTransfers
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhcExecTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.unlikely.XhcFreeSched
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcReadCapReg
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcDriverBindingSupported
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcAsyncIsochronousTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcIsochronousTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcExitBootService
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcDriverBindingStop
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcSyncInterruptTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcBulkTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcAsyncInterruptTransfer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcReadExtCapReg
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcWriteRuntimeReg
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcReadRuntimeReg
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcWriteOpReg
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcReadOpReg
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcDriverBindingStart
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.unlikely.XhcGetState.part.1.lto_priv.35
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.XhciComponentNameGetControllerName
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.XhciComponentNameGetDriverName
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.24
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.AddUnicodeString2.part.6.constprop.19
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.ReportStatusCodeEx.constprop.14
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.UsbHcGetHostAddrForPciAddr.constprop.8
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.XhcCmdTransfer.constprop.6
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.XhcResetHC.constprop.4
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.XhcRunHC.constprop.3
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.UsbHcAllocateAlignedPages
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.UsbHcFreeMem
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.UsbHcAllocateMem
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.UsbHcGetPciAddrForHostAddr
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text.unlikely.CreateTransferRing.constprop.9
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdReportStatusCodePropertyMask
+                0x0000000000000000        0x1 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.XhcGetCapability
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.XhcClearRootHubPortFeature
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.XhcSetRootHubPortFeature
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.XhcGetRootHubPortStatus
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.XhcGetState
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.XhcSetState
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.XhcReset
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.4.lto_priv.33
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.LookupUnicodeString2.part.4.lto_priv.34
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.ZeroMem
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text.unlikely.AllocateZeroPool
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.UsbHcAllocMemFromBlock
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.UsbHcFreeMemBlock
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.UsbHcAllocMemBlock
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcSetTrDequeuePointer
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcStopEndpoint
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcDisableSlotCmd64
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcDisableSlotCmd
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcRingDoorBell
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcSyncTrsRing
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcRouteStringToSlotId
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.XhcBusDevAddrToSlotId
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text.unlikely.RingIntTransferDoorBell
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcDequeueTrbFromEndpoint
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcInitSched
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcCreateTransferTrb
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcFreeUrb
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcIsSysError
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcIsHalt
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcGetCapabilityAddr
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcClearBiosOwnership
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcWaitOpRegBit
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text.unlikely.XhcHaltHC
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceHCXMp.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 DxePcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+ .text          0x0000000000000000       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+ .text          0x0000000000000000       0x2a /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000      0x116 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLibDetect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ReportStatusCodeLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Xhci.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 XhciReg.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 XhciSched.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UsbHcMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ComponentName.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/cceHCXMp.ltrans0.ltrans.o
+LOAD /tmp/cceHCXMp.ltrans1.ltrans.o
+LOAD /tmp/cceHCXMp.ltrans2.ltrans.o
+LOAD /tmp/cceHCXMp.ltrans3.ltrans.o
+LOAD /tmp/cceHCXMp.ltrans4.ltrans.o
+LOAD /tmp/cceHCXMp.ltrans5.ltrans.o
+LOAD /tmp/cceHCXMp.ltrans6.ltrans.o
+START GROUP
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/OUTPUT/XhciDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x61d8
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.XhcTransfer
+                0x0000000000000240      0x260 /tmp/cceHCXMp.ltrans0.ltrans.o
+                0x0000000000000240                XhcTransfer
+ .text.XhcControlTransfer
+                0x00000000000004a0      0xf67 /tmp/cceHCXMp.ltrans0.ltrans.o
+                0x00000000000004a0                XhcControlTransfer
+ .text.XhcUpdateAsyncRequest
+                0x0000000000001407       0x2b /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.IsTransferRingTrb
+                0x0000000000001432       0x59 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.XhcCheckUrbResult
+                0x000000000000148b      0x30f /tmp/cceHCXMp.ltrans1.ltrans.o
+ .text.XhcMonitorAsyncRequests
+                0x000000000000179a      0x1a9 /tmp/cceHCXMp.ltrans1.ltrans.o
+                0x000000000000179a                XhcMonitorAsyncRequests
+ .text.XhcEndpointToDci
+                0x0000000000001943       0x11 /tmp/cceHCXMp.ltrans1.ltrans.o
+                0x0000000000001943                XhcEndpointToDci
+ .text.XhcPollPortStatusChange
+                0x0000000000001954      0x71f /tmp/cceHCXMp.ltrans1.ltrans.o
+                0x0000000000001954                XhcPollPortStatusChange
+ .text.XhciDelAllAsyncIntTransfers
+                0x0000000000002073       0x73 /tmp/cceHCXMp.ltrans1.ltrans.o
+                0x0000000000002073                XhciDelAllAsyncIntTransfers
+ .text.XhcExecTransfer
+                0x00000000000020e6       0xd4 /tmp/cceHCXMp.ltrans1.ltrans.o
+                0x00000000000020e6                XhcExecTransfer
+ .text.XhcFreeSched
+                0x00000000000021ba      0x1e5 /tmp/cceHCXMp.ltrans1.ltrans.o
+                0x00000000000021ba                XhcFreeSched
+ .text.XhcReadCapReg
+                0x000000000000239f       0x3f /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.XhcDriverBindingSupported
+                0x00000000000023de       0xbe /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x00000000000023de                XhcDriverBindingSupported
+ .text.XhcAsyncIsochronousTransfer
+                0x000000000000249c        0xb /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.XhcIsochronousTransfer
+                0x00000000000024a7        0xb /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.XhcExitBootService
+                0x00000000000024b2       0x6d /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.XhcDriverBindingStop
+                0x000000000000251f      0x1aa /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x000000000000251f                XhcDriverBindingStop
+ .text.XhcSyncInterruptTransfer
+                0x00000000000026c9      0x199 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.XhcBulkTransfer
+                0x0000000000002862      0x1b1 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.XhcAsyncInterruptTransfer
+                0x0000000000002a13      0x2cf /tmp/cceHCXMp.ltrans2.ltrans.o
+ .text.XhcReadExtCapReg
+                0x0000000000002ce2       0x46 /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x0000000000002ce2                XhcReadExtCapReg
+ .text.XhcWriteRuntimeReg
+                0x0000000000002d28       0x35 /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x0000000000002d28                XhcWriteRuntimeReg
+ .text.XhcReadRuntimeReg
+                0x0000000000002d5d       0x46 /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x0000000000002d5d                XhcReadRuntimeReg
+ .text.XhcWriteOpReg
+                0x0000000000002da3       0x36 /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x0000000000002da3                XhcWriteOpReg
+ .text.XhcReadOpReg
+                0x0000000000002dd9       0x47 /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x0000000000002dd9                XhcReadOpReg
+ .text.XhcDriverBindingStart
+                0x0000000000002e20      0x4de /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x0000000000002e20                XhcDriverBindingStart
+ .text.XhcGetState.part.1.lto_priv.35
+                0x00000000000032fe       0x51 /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x00000000000032fe                XhcGetState.part.1.lto_priv.35
+ .text.XhciComponentNameGetControllerName
+                0x000000000000334f      0x148 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x000000000000334f                XhciComponentNameGetControllerName
+ .text.XhciComponentNameGetDriverName
+                0x0000000000003497       0x5c /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003497                XhciComponentNameGetDriverName
+ .text.InternalAllocatePool.constprop.24
+                0x00000000000034f3       0x37 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x00000000000034f3                InternalAllocatePool.constprop.24
+ .text.AddUnicodeString2.part.6.constprop.19
+                0x000000000000352a      0x20e /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x000000000000352a                AddUnicodeString2.part.6.constprop.19
+ .text.ReportStatusCodeEx.constprop.14
+                0x0000000000003738      0x1a9 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003738                ReportStatusCodeEx.constprop.14
+ .text.UsbHcGetHostAddrForPciAddr.constprop.8
+                0x00000000000038e1       0x45 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x00000000000038e1                UsbHcGetHostAddrForPciAddr.constprop.8
+ .text.XhcCmdTransfer.constprop.6
+                0x0000000000003926      0x13a /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003926                XhcCmdTransfer.constprop.6
+ .text.XhcResetHC.constprop.4
+                0x0000000000003a60       0xaa /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003a60                XhcResetHC.constprop.4
+ .text.XhcRunHC.constprop.3
+                0x0000000000003b0a       0x35 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003b0a                XhcRunHC.constprop.3
+ .text.UsbHcAllocateAlignedPages
+                0x0000000000003b3f      0x189 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003b3f                UsbHcAllocateAlignedPages
+ .text.UsbHcFreeMem
+                0x0000000000003cc8       0xda /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003cc8                UsbHcFreeMem
+ .text.UsbHcAllocateMem
+                0x0000000000003da2       0xd5 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003da2                UsbHcAllocateMem
+ .text.UsbHcGetPciAddrForHostAddr
+                0x0000000000003e77       0x4c /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003e77                UsbHcGetPciAddrForHostAddr
+ .text.CreateTransferRing.constprop.9
+                0x0000000000003ec3       0x96 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000003ec3                CreateTransferRing.constprop.9
+ .text.XhcGetCapability
+                0x0000000000003f59       0x71 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000003f59                XhcGetCapability
+ .text.XhcClearRootHubPortFeature
+                0x0000000000003fca      0x101 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000003fca                XhcClearRootHubPortFeature
+ .text.XhcSetRootHubPortFeature
+                0x00000000000040cb      0x12b /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x00000000000040cb                XhcSetRootHubPortFeature
+ .text.XhcGetRootHubPortStatus
+                0x00000000000041f6      0x167 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x00000000000041f6                XhcGetRootHubPortStatus
+ .text.XhcGetState
+                0x000000000000435d       0x15 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x000000000000435d                XhcGetState
+ .text.XhcSetState
+                0x0000000000004372       0xd8 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004372                XhcSetState
+ .text.XhcReset
+                0x000000000000444a      0x13a /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x000000000000444a                XhcReset
+ .text._ModuleEntryPoint
+                0x0000000000004584       0xa3 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004584                _ModuleEntryPoint
+ .text.FreePool
+                0x0000000000004627        0xa /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004627                FreePool
+ .text.AsciiStrnCmp.part.4.lto_priv.33
+                0x0000000000004631       0x47 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004631                AsciiStrnCmp.part.4.lto_priv.33
+ .text.LookupUnicodeString2.part.4.lto_priv.34
+                0x0000000000004678       0xee /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004678                LookupUnicodeString2.part.4.lto_priv.34
+ .text.CopyMem  0x0000000000004766       0x13 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004766                CopyMem
+ .text.ZeroMem  0x0000000000004779        0xe /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004779                ZeroMem
+ .text.AllocateZeroPool
+                0x0000000000004787       0x27 /tmp/cceHCXMp.ltrans4.ltrans.o
+                0x0000000000004787                AllocateZeroPool
+ .text.UsbHcAllocMemFromBlock
+                0x00000000000047ae       0xbc /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000047ae                UsbHcAllocMemFromBlock
+ .text.UsbHcFreeMemBlock
+                0x000000000000486a       0x57 /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x000000000000486a                UsbHcFreeMemBlock
+ .text.UsbHcAllocMemBlock
+                0x00000000000048c1      0x11e /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000048c1                UsbHcAllocMemBlock
+ .text.XhcSetTrDequeuePointer
+                0x00000000000049df       0xb1 /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000049df                XhcSetTrDequeuePointer
+ .text.XhcStopEndpoint
+                0x0000000000004a90       0x90 /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x0000000000004a90                XhcStopEndpoint
+ .text.unlikely.XhcInitializeEndpointContext64
+                0x0000000000004b20      0x2db /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x0000000000004b20                XhcInitializeEndpointContext64
+ .text.unlikely.XhcInitializeEndpointContext
+                0x0000000000004dfb      0x2cc /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x0000000000004dfb                XhcInitializeEndpointContext
+ .text.XhcDisableSlotCmd64
+                0x00000000000050c7      0x1db /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000050c7                XhcDisableSlotCmd64
+ .text.XhcDisableSlotCmd
+                0x00000000000052a2      0x1db /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000052a2                XhcDisableSlotCmd
+ .text.XhcRingDoorBell
+                0x000000000000547d       0x6e /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x000000000000547d                XhcRingDoorBell
+ .text.XhcSyncTrsRing
+                0x00000000000054eb       0x8d /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000054eb                XhcSyncTrsRing
+ .text.XhcRouteStringToSlotId
+                0x0000000000005578       0x31 /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x0000000000005578                XhcRouteStringToSlotId
+ .text.XhcBusDevAddrToSlotId
+                0x00000000000055a9       0x31 /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000055a9                XhcBusDevAddrToSlotId
+ .text.RingIntTransferDoorBell
+                0x00000000000055da       0x47 /tmp/cceHCXMp.ltrans5.ltrans.o
+                0x00000000000055da                RingIntTransferDoorBell
+ .text.XhcDequeueTrbFromEndpoint
+                0x0000000000005621       0xaa /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x0000000000005621                XhcDequeueTrbFromEndpoint
+ .text.XhcInitSched
+                0x00000000000056cb      0x449 /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x00000000000056cb                XhcInitSched
+ .text.XhcCreateTransferTrb
+                0x0000000000005b14      0x501 /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x0000000000005b14                XhcCreateTransferTrb
+ .text.XhcFreeUrb
+                0x0000000000006015       0x3b /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x0000000000006015                XhcFreeUrb
+ .text.XhcIsSysError
+                0x0000000000006050       0x13 /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x0000000000006050                XhcIsSysError
+ .text.XhcIsHalt
+                0x0000000000006063       0x10 /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x0000000000006063                XhcIsHalt
+ .text.XhcGetCapabilityAddr
+                0x0000000000006073       0x37 /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x0000000000006073                XhcGetCapabilityAddr
+ .text.XhcClearBiosOwnership
+                0x00000000000060aa       0x58 /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x00000000000060aa                XhcClearBiosOwnership
+ .text.XhcWaitOpRegBit
+                0x0000000000006102       0x7d /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x0000000000006102                XhcWaitOpRegBit
+ .text.XhcHaltHC
+                0x000000000000617f       0x43 /tmp/cceHCXMp.ltrans6.ltrans.o
+                0x000000000000617f                XhcHaltHC
+ *fill*         0x00000000000061c2        0xe 
+ .text          0x00000000000061d0       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                0x00000000000061d0                InternalMemZeroMem
+ *fill*         0x00000000000061ed        0x3 
+ .text          0x00000000000061f0       0x3c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                0x00000000000061f0                InternalMemCopyMem
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ *fill*         0x000000000000622c       0x14 
+ .rodata.mUsbPortStateMap
+                0x0000000000006240       0x20 /tmp/cceHCXMp.ltrans0.ltrans.o
+                0x0000000000006240                mUsbPortStateMap
+ .rodata.mUsbHubClearPortChangeMap
+                0x0000000000006260       0x28 /tmp/cceHCXMp.ltrans0.ltrans.o
+ *fill*         0x0000000000006288       0x18 
+ .rodata.mUsbHubPortChangeMap
+                0x00000000000062a0       0x20 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x00000000000062c0       0x4a /tmp/cceHCXMp.ltrans2.ltrans.o
+ .rodata.str1.1
+                0x000000000000630a        0x4 /tmp/cceHCXMp.ltrans2.ltrans.o
+                                          0x7 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000630e       0x20 /tmp/cceHCXMp.ltrans3.ltrans.o
+                                         0x6a (size before relaxing)
+ .rodata.str1.1
+                0x000000000000632e        0x7 /tmp/cceHCXMp.ltrans3.ltrans.o
+                                          0xb (size before relaxing)
+ *fill*         0x0000000000006335        0x3 
+ .rodata.XhcClearRootHubPortFeature
+                0x0000000000006338       0x50 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .rodata.XhcSetRootHubPortFeature
+                0x0000000000006388       0x34 /tmp/cceHCXMp.ltrans4.ltrans.o
+ *fill*         0x00000000000063bc        0x4 
+ .rodata.mUsbClearPortChangeMap
+                0x00000000000063c0       0x20 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .rodata.mUsbPortChangeMap
+                0x00000000000063e0       0x20 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .rodata.XhcCreateTransferTrb
+                0x0000000000006400       0x18 /tmp/cceHCXMp.ltrans6.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000006418        0x0 DxePcdLib.obj (symbol from plugin)
+ .got.plt       0x0000000000006418        0x0 DxePcdLib.obj (symbol from plugin)
+                0x0000000000006418                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000006420        0x0
+ .plt           0x0000000000006420        0x0 DxePcdLib.obj (symbol from plugin)
+
+.data           0x0000000000006440      0x1e0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local.gXhciUsb2HcTemplate
+                0x0000000000006440       0x70 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .data.rel.local.gXhciComponentName2
+                0x00000000000064b0       0x18 /tmp/cceHCXMp.ltrans2.ltrans.o
+                0x00000000000064b0                gXhciComponentName2
+ *fill*         0x00000000000064c8        0x8 
+ .data.gEfiEventExitBootServicesGuid
+                0x00000000000064d0       0x10 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .data.gEfiDevicePathProtocolGuid
+                0x00000000000064e0       0x10 /tmp/cceHCXMp.ltrans2.ltrans.o
+ *fill*         0x00000000000064f0       0x10 
+ .data.rel.local.mXhciDriverNameTable
+                0x0000000000006500       0x20 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .data.rel.local.gXhciComponentName
+                0x0000000000006520       0x18 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000006520                gXhciComponentName
+ *fill*         0x0000000000006538        0x8 
+ .data.gEfiUsb2HcProtocolGuid
+                0x0000000000006540       0x10 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000006540                gEfiUsb2HcProtocolGuid
+ .data.gEfiPciIoProtocolGuid
+                0x0000000000006550       0x10 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000006550                gEfiPciIoProtocolGuid
+ .data.rel.local.gXhciDriverBinding
+                0x0000000000006560       0x30 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000006560                gXhciDriverBinding
+ .data.gEfiStatusCodeRuntimeProtocolGuid
+                0x0000000000006590       0x10 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .data.gEfiCallerIdGuid
+                0x00000000000065a0       0x10 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .data.gEfiStatusCodeSpecificDataGuid
+                0x00000000000065b0       0x10 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .data.gEfiComponentNameProtocolGuid
+                0x00000000000065c0       0x10 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .data.gEfiComponentName2ProtocolGuid
+                0x00000000000065d0       0x10 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .data.gEfiDriverBindingProtocolGuid
+                0x00000000000065e0       0x10 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x00000000000065f0       0x10 /tmp/cceHCXMp.ltrans4.ltrans.o
+ *(.bss .bss.*)
+ .bss.mReportStatusCodeLibStatusCodeProtocol
+                0x0000000000006600        0x8 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .bss.gBS       0x0000000000006608        0x8 /tmp/cceHCXMp.ltrans3.ltrans.o
+                0x0000000000006608                gBS
+ .bss.gST       0x0000000000006610        0x8 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .bss.mDevicePathLibDevicePathUtilities
+                0x0000000000006618        0x8 /tmp/cceHCXMp.ltrans4.ltrans.o
+
+.eh_frame       0x0000000000006640        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000006640        0x0
+ .dynbss        0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000006640        0x0
+ .gnu.version_d
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000006640        0x0
+ .gnu.version   0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000006640        0x0
+ .gnu.version_r
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+
+.rela           0x0000000000006640      0x240
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text     0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcTransfer
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcControlTransfer
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcUpdateAsyncRequest
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.IsTransferRingTrb
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcCheckUrbResult
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcMonitorAsyncRequests
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcPollPortStatusChange
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhciDelAllAsyncIntTransfers
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcExecTransfer
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcFreeSched
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcDriverBindingSupported
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcExitBootService
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcDriverBindingStop
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcSyncInterruptTransfer
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcBulkTransfer
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcAsyncInterruptTransfer
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcDriverBindingStart
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcGetState.part.1.lto_priv.35
+                0x0000000000006640        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gXhciUsb2HcTemplate
+                0x0000000000006640      0x138 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gXhciComponentName2
+                0x0000000000006778       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhciComponentNameGetControllerName
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhciComponentNameGetDriverName
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AddUnicodeString2.part.6.constprop.19
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ReportStatusCodeEx.constprop.14
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcCmdTransfer.constprop.6
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcResetHC.constprop.4
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcRunHC.constprop.3
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UsbHcFreeMem
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UsbHcAllocateMem
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.CreateTransferRing.constprop.9
+                0x00000000000067c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mXhciDriverNameTable
+                0x00000000000067c0       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gXhciComponentName
+                0x00000000000067f0       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gXhciDriverBinding
+                0x0000000000006838       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcSetRootHubPortFeature
+                0x0000000000006880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcSetState
+                0x0000000000006880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.XhcReset
+                0x0000000000006880        0x0 DxePcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000006880       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000006880       0x24 DxePcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe/DEBUG/XhciDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x19d28
+ .debug_info    0x0000000000000000     0x3f92 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .debug_info    0x0000000000003f92     0x38a8 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .debug_info    0x000000000000783a     0x3bcf /tmp/cceHCXMp.ltrans2.ltrans.o
+ .debug_info    0x000000000000b409     0x4438 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .debug_info    0x000000000000f841     0x4929 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .debug_info    0x000000000001416a     0x30d5 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .debug_info    0x000000000001723f     0x2ae9 /tmp/cceHCXMp.ltrans6.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x2127
+ .debug_abbrev  0x0000000000000000      0x3f3 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .debug_abbrev  0x00000000000003f3      0x40d /tmp/cceHCXMp.ltrans1.ltrans.o
+ .debug_abbrev  0x0000000000000800      0x521 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000d21      0x5ba /tmp/cceHCXMp.ltrans3.ltrans.o
+ .debug_abbrev  0x00000000000012db      0x584 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .debug_abbrev  0x000000000000185f      0x454 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .debug_abbrev  0x0000000000001cb3      0x474 /tmp/cceHCXMp.ltrans6.ltrans.o
+
+.debug_loc      0x0000000000000000     0xd93f
+ .debug_loc     0x0000000000000000     0x26d3 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .debug_loc     0x00000000000026d3     0x1cf9 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .debug_loc     0x00000000000043cc     0x2490 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .debug_loc     0x000000000000685c     0x2830 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .debug_loc     0x000000000000908c     0x1e8c /tmp/cceHCXMp.ltrans4.ltrans.o
+ .debug_loc     0x000000000000af18     0x16d6 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .debug_loc     0x000000000000c5ee     0x1351 /tmp/cceHCXMp.ltrans6.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x5f0
+ .debug_aranges
+                0x0000000000000000       0x40 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000040       0xb0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .debug_aranges
+                0x00000000000000f0      0x120 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .debug_aranges
+                0x0000000000000210      0x100 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000310      0x120 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .debug_aranges
+                0x0000000000000430      0x100 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .debug_aranges
+                0x0000000000000530       0xc0 /tmp/cceHCXMp.ltrans6.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x1130
+ .debug_ranges  0x0000000000000000      0x330 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000330      0x220 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000000550      0x350 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .debug_ranges  0x00000000000008a0      0x320 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000000bc0      0x310 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000000ed0       0xf0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000000fc0      0x170 /tmp/cceHCXMp.ltrans6.ltrans.o
+
+.debug_line     0x0000000000000000     0x3140
+ .debug_line    0x0000000000000000      0x55f /tmp/cceHCXMp.ltrans0.ltrans.o
+ .debug_line    0x000000000000055f      0x62d /tmp/cceHCXMp.ltrans1.ltrans.o
+ .debug_line    0x0000000000000b8c      0x78f /tmp/cceHCXMp.ltrans2.ltrans.o
+ .debug_line    0x000000000000131b      0x8c4 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .debug_line    0x0000000000001bdf      0x9c0 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .debug_line    0x000000000000259f      0x60b /tmp/cceHCXMp.ltrans5.ltrans.o
+ .debug_line    0x0000000000002baa      0x596 /tmp/cceHCXMp.ltrans6.ltrans.o
+
+.debug_str      0x0000000000000000     0x43f5
+ .debug_str     0x0000000000000000     0x1a3c /tmp/cceHCXMp.ltrans0.ltrans.o
+                                       0x1eed (size before relaxing)
+ .debug_str     0x0000000000001a3c      0x2f5 /tmp/cceHCXMp.ltrans1.ltrans.o
+                                       0x1df6 (size before relaxing)
+ .debug_str     0x0000000000001d31      0x5bd /tmp/cceHCXMp.ltrans2.ltrans.o
+                                       0x1e30 (size before relaxing)
+ .debug_str     0x00000000000022ee      0xefc /tmp/cceHCXMp.ltrans3.ltrans.o
+                                       0x2992 (size before relaxing)
+ .debug_str     0x00000000000031ea      0xd61 /tmp/cceHCXMp.ltrans4.ltrans.o
+                                       0x3103 (size before relaxing)
+ .debug_str     0x0000000000003f4b      0x20c /tmp/cceHCXMp.ltrans5.ltrans.o
+                                       0x1dab (size before relaxing)
+ .debug_str     0x0000000000004157      0x29e /tmp/cceHCXMp.ltrans6.ltrans.o
+                                       0x1ad8 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1678
+ .debug_frame   0x0000000000000000      0x120 /tmp/cceHCXMp.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000120      0x2f0 /tmp/cceHCXMp.ltrans1.ltrans.o
+ .debug_frame   0x0000000000000410      0x430 /tmp/cceHCXMp.ltrans2.ltrans.o
+ .debug_frame   0x0000000000000840      0x3d0 /tmp/cceHCXMp.ltrans3.ltrans.o
+ .debug_frame   0x0000000000000c10      0x3a8 /tmp/cceHCXMp.ltrans4.ltrans.o
+ .debug_frame   0x0000000000000fb8      0x3d0 /tmp/cceHCXMp.ltrans5.ltrans.o
+ .debug_frame   0x0000000000001388      0x2f0 /tmp/cceHCXMp.ltrans6.ltrans.o

@@ -1,0 +1,12 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Include/Library/DebugLib.h
+/root/edk2/MdePkg/Library/BasePeCoffLib/PeCoffLoaderEx.c
+/root/edk2/MdePkg/Library/BasePeCoffLib/BasePeCoffLibInternals.h
+/root/edk2/MdePkg/Library/BasePeCoffLib/BasePeCoff.c
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Include/Library/PeCoffExtraActionLib.h
+/root/edk2/MdePkg/Include/Library/PeCoffLib.h
+/root/edk2/MdePkg/Library/BasePeCoffLib/BasePeCoffLib.inf
+/root/edk2/MdePkg/Include/Library/BaseMemoryLib.h
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/MdePkg/Include/IndustryStandard/PeImage.h

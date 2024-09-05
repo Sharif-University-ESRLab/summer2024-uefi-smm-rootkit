@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_SMM_DEPEX -o /root/edk2/Build/OvmfX64/RELEASE_GCC5/FV/Ffs/470CB248-E8AC-473c-BB4F-81069A1FE6FDSmmFaultTolerantWriteDxe/470CB248-E8AC-473c-BB4F-81069A1FE6FDSEC1.1.dpx /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm/OUTPUT/SmmFaultTolerantWriteDxe.depex

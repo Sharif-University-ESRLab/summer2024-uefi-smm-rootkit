@@ -1,0 +1,7 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Include/Library/DebugPrintErrorLevelLib.h
+/root/edk2/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib.c
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/MdePkg/Include/Library/PcdLib.h
+/root/edk2/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib.inf

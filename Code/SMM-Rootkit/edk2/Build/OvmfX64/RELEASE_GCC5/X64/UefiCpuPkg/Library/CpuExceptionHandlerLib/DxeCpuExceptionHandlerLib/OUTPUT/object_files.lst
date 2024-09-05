@@ -1,0 +1,5 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/X64/ExceptionHandlerAsm.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/X64/ArchExceptionHandler.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/CpuExceptionCommon.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/PeiDxeSmmCpuException.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeException.obj

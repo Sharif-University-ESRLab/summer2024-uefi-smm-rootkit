@@ -1,0 +1,2713 @@
+Archive member included to satisfy reference by file (symbol)
+
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLibDetect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiSortLib/UefiSortLib/OUTPUT/UefiSortLib.lib(UefiSortLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib(DxeServicesLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib(DxeServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib(PeCoffGetEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib(PerformanceLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib(ReportStatusCodeLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConnect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmMisc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConsole.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBoot.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBootDescription.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmLoadOption.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmHotkey.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmDriverHealth.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib(FileExplorerVfr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib(FileExplorer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib(DeviceManagerVfr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib(DeviceManager.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib(BootManagerVfr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib(BootManager.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenanceManager.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenance.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootOption.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(ConsoleOption.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(Data.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(Variable.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(UpdatePage.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BmLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenanceManagerCustomizedUi.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenanceManagerCustomizedUiSupport.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPageVfr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPage.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPageCustomizedUi.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPageCustomizedUiSupport.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .text.unlikely.BootMaintCallback
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.EfiEventEmptyFunction
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.HiiRemovePackages
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.PerformanceMeasurementEnabled
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.PerformanceMeasurementEnabled
+                0x0000000000000000        0xa /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.UefiLibGetStringWidth
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.DevicePathFromHandle
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.GetNextDevicePathInstance
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AppendDevicePathInstance
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AppendDevicePathNode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AppendDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.DuplicateDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.GetDevicePathSize
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.IsDevicePathEnd
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AllocatePool
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.GetVariable2
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.GetEfiGlobalVariable2
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.Print
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.UnicodeSPrint
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.BasePrintLibValueToString
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.BasePrintLibFillBuffer
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.UnicodeValueToStringS
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.4.lto_priv.77
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrnCmp.part.0.lto_priv.80
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrLen
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrStr
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrCmp
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrLen
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrSize
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrnLenS
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrToUnicodeStrS
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrnLenS
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.InternalSafeStringNoStrOverlap
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrCatS
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.StrCpyS
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.RemoveEntryList
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.CompareGuid
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.EfiGetSystemConfigurationTable
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.GetHobList
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.SetDevicePathEndNode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.FileDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AllocateCopyPool
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.SetMem16
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.CompareMem
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.ZeroMem
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.ReallocatePool
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.HiiGetFormSetFromHiiHandle
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.AllocateZeroPool
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.HiiAddPackages
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.GetBestLanguage
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.GetPcdProtocol
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.LibPcdSet32S
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text.unlikely.LibPcdGet32
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .text.unlikely.EfiBootManagerBoot
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdResetOnMemoryTypeInformationChange
+                0x0000000000000000        0x1 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .text.unlikely.BmGetNextLoadOptionDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiConstructConfigHdr.constprop.41
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiIsConfigHdrMatch.constprop.40
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiCreateGuidOpCode.constprop.37
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiCreateActionOpCode.constprop.36
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiCreateSubTitleOpCode.constprop.35
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiCreateGotoExOpCode.constprop.34
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiCreateCheckBoxOpCode.constprop.33
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiCreateOneOfOpCode.constprop.30
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiSetString.constprop.27
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.HiiGetString.constprop.26
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.ReportStatusCodeEx.constprop.23
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.EfiBootManagerGetLoadOptions.part.7.constprop.19
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.EfiBootManagerAddLoadOptionVariable.constprop.11
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.ChooseFile.constprop.8
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.EfiLibDeleteVariable.constprop.2
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text.unlikely.IsRequiredDriver
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibRouteConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibExtractConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibGetDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibAppendFileName
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibCreateNewFile
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibUpdateFileExplorePage
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibToLowerString
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibStrDuplicate
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibDestroyMenuEntry
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibFreeMenu
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibCreateMenuEntry
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.LibCallback
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.unlikely.BmRepairAllControllers
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdDebugPropertyMask
+                0x0000000000000000        0x1 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmEliminateExtraSpaces
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetMiscDescription
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetUsbDescription
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetNvmeDescription
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetLoadFileDescription
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetNetworkDescription
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetDescriptionFromDiskInfo
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetFreeOptionNumber
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmGetBootDescription
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.unlikely.BmMatchPartitionDevicePathNode.part.5.lto_priv.82
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.BmGetSingleControllerHealthStatus
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.BmRepairNotify
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerIsValidLoadOptionVariableName
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerFreeDriverHealthInfo
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerGetDriverHealthInfo
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.BmGetControllerName
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.BmDisplayMessages
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerFreeLoadOption
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerFreeLoadOptions
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerDeleteLoadOptionVariable
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerFindLoadOption
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerInitializeLoadOption
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerVariableToLoadOptionEx.part.5.lto_priv.79
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.BmCollectLoadOptions
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.BmCollectLoadOptions
+                0x0000000000000000      0x10f /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.BmHotkeyCallback
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.unlikely.EfiBootManagerLoadOptionToVariable
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.BasePrintLibSPrintMarker.constprop.66
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.65
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.63
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.ConvertDevicePathToText.constprop.58
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.CreatePopUp.constprop.53
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.EfiAcquireLock.constprop.52
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.HiiGetHiiHandles.constprop.44
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.unlikely.InternalHiiBrowserCallback.constprop.42
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .text.unlikely.BootMaintExtractConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .text.unlikely.UpdateConsoleContent
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .text.unlikely.BootMaintRouteConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.BmUpdateSystemTableConsole
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.EfiBootManagerConnectAllDefaultConsoles
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.BmPrintDp
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.BmDelPartMatchInstance
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.EfiBootManagerConnectDevicePath.part.0.lto_priv.81
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.BmConnectUsbShortFormDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.EfiBootManagerConnectAll
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.InternalGetReportStatusCode.part.0.lto_priv.78
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.ReportDebugCodeEnabled
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.ReportErrorCodeEnabled
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.ReportProgressCodeEnabled
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.BmSetVariableAndReportStatusCodeOnError
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.ReportStatusCode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.HiiGetSupportedLanguages
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.HiiUpdateForm
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.InternalHiiGrowOpCodeHandle
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.InternalHiiCreateOpCodeExtended
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.InternalHiiCreateOpCode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.HiiCreateGotoOpCode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.HiiCreateOneOfOptionOpCode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.HiiCreateEndOpCode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.HiiFreeOpCodeHandle
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.HiiAllocateOpCodeHandle
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.unlikely.InternalHiiCompareSubString
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.ReSendForm
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.CreateDriverOptionFromFile
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.CreateBootOptionFromFile
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.BootFromFile
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.IsIsaSerialNode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.UpdateComAttributeFromVariable
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.RetrieveUartUid
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.ChangeTerminalDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.BmMatchDevicePaths
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.GetDriverOrder
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.GetBootOrder
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.BOpt_GetOptionNumber
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.GetConsoleMenu
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.unlikely.BOpt_GetDriverOptions
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .data.rel.ro.local.mBmmCallbackInfo
+                0x0000000000000000        0x8 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.BootManagerExtractConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.BmSetConsoleMode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.BootManagerRouteConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.DeviceManagerRouteConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.DeviceManagerCallback
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.LibDevicePathToStr
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.ExtractFileNameFromDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.BootManagerCallback
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.unlikely.BmmSetConsoleMode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.FakeRouteConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.FakeExtractConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.DmExtractDevicePathFromHiiHandle
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.GetNextLanguage
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.FrontPageCallback
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.UiCustomizeFrontPageBanner
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.UiSetConsoleMode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.GetOptionalStringByIndex
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.UpdatePageEnd
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.RefreshUpdateData
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.CleanUpPage
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.UpdatePageStart
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.UpdateOrderPage
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.UpdateConsolePage
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.UpdatePageBody
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.Var_UpdateConsoleOption
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.unlikely.GetConsoleOutMode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.BmEndOfBdsPerfCode
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.BmEndOfBdsPerfCode
+                0x0000000000000000        0x1 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.BmDestroyRamDisk
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.BmGetRamDiskDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.BmExpandMediaDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.BmExpandLoadFile
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.BmCachePartitionDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.BmAdjustFvFilePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text.unlikely.EfiBootManagerConnectConsoleVariable.part.1.lto_priv.83
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .text.unlikely.DeviceManagerExtractConfig
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .text.unlikely.IsMacAddressDevicePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .text.unlikely.CreateDeviceManagerForm
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .text.unlikely.EfiBootManagerRefreshAllBootOption
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .text.unlikely.BOpt_GetMenuEntry
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .text.unlikely.BOpt_DestroyMenuEntry
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .text.unlikely.BOpt_FreeMenu
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .text.unlikely.BOpt_CreateMenuEntry
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .text.unlikely.CleanUselessBeforeSubmit
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .text.unlikely.BOpt_GetBootOptions
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans19.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans19.ltrans.o
+ .text.unlikely.BmIsBootManagerMenuFilePath
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccrKEgem.ltrans19.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrKEgem.ltrans19.ltrans.o
+ .text          0x0000000000000000        0x0 DxePcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000      0x116 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLibDetect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiHiiServicesLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiSortLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DxeServicesLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DxeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PeCoffGetEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PerformanceLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HobLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLanguage.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ReportStatusCodeLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmConnect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmMisc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmConsole.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmBoot.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmBootDescription.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmLoadOption.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmHotkey.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmDriverHealth.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FileExplorerVfr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FileExplorer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ApplicationEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DeviceManagerVfr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DeviceManager.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BootManagerVfr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BootManager.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BootMaintenanceManager.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BootMaintenance.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BootOption.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ConsoleOption.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Data.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Variable.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UpdatePage.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BmLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BootMaintenanceManagerCustomizedUi.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BootMaintenanceManagerCustomizedUiSupport.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FrontPageVfr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FrontPage.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FrontPageCustomizedUi.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FrontPageCustomizedUiSupport.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccrKEgem.ltrans0.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans1.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans2.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans3.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans4.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans5.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans6.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans7.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans8.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans9.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans10.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans11.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans12.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans13.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans14.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans15.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans16.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans17.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans18.ltrans.o
+LOAD /tmp/ccrKEgem.ltrans19.ltrans.o
+START GROUP
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiSortLib/UefiSortLib/OUTPUT/UefiSortLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240    0x142d0
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text._ModuleEntryPoint
+                0x0000000000000240     0x23dd /tmp/ccrKEgem.ltrans0.ltrans.o
+                0x0000000000000240                _ModuleEntryPoint
+ .text.BootMaintCallback
+                0x000000000000261d     0x184a /tmp/ccrKEgem.ltrans1.ltrans.o
+                0x000000000000261d                BootMaintCallback
+ .text.EfiEventEmptyFunction
+                0x0000000000003e67        0x1 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003e67                EfiEventEmptyFunction
+ .text.HiiRemovePackages
+                0x0000000000003e68        0xd /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003e68                HiiRemovePackages
+ .text.UefiLibGetStringWidth
+                0x0000000000003e75       0x71 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003e75                UefiLibGetStringWidth
+ .text.DevicePathFromHandle
+                0x0000000000003ee6       0x35 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003ee6                DevicePathFromHandle
+ .text.GetNextDevicePathInstance
+                0x0000000000003f1b        0xd /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f1b                GetNextDevicePathInstance
+ .text.AppendDevicePathInstance
+                0x0000000000003f28        0xd /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f28                AppendDevicePathInstance
+ .text.AppendDevicePathNode
+                0x0000000000003f35        0xd /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f35                AppendDevicePathNode
+ .text.AppendDevicePath
+                0x0000000000003f42        0xd /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f42                AppendDevicePath
+ .text.DuplicateDevicePath
+                0x0000000000003f4f        0xd /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f4f                DuplicateDevicePath
+ .text.GetDevicePathSize
+                0x0000000000003f5c        0xc /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f5c                GetDevicePathSize
+ .text.IsDevicePathEnd
+                0x0000000000003f68       0x11 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f68                IsDevicePathEnd
+ .text.FreePool
+                0x0000000000003f79        0xa /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f79                FreePool
+ .text.AllocatePool
+                0x0000000000003f83        0xf /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f83                AllocatePool
+ .text.GetVariable2
+                0x0000000000003f92       0xd3 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000003f92                GetVariable2
+ .text.GetEfiGlobalVariable2
+                0x0000000000004065       0x12 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004065                GetEfiGlobalVariable2
+ .text.Print    0x0000000000004077       0x9d /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004077                Print
+ .text.UnicodeSPrint
+                0x0000000000004114       0x32 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004114                UnicodeSPrint
+ .text.BasePrintLibValueToString
+                0x0000000000004146       0x25 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004146                BasePrintLibValueToString
+ .text.BasePrintLibFillBuffer
+                0x000000000000416b       0x2e /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x000000000000416b                BasePrintLibFillBuffer
+ .text.UnicodeValueToStringS
+                0x0000000000004199      0x256 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004199                UnicodeValueToStringS
+ .text.AsciiStrnCmp.part.4.lto_priv.77
+                0x00000000000043ef       0x47 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000043ef                AsciiStrnCmp.part.4.lto_priv.77
+ .text.StrnCmp.part.0.lto_priv.80
+                0x0000000000004436       0x3c /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004436                StrnCmp.part.0.lto_priv.80
+ .text.AsciiStrLen
+                0x0000000000004472        0xe /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004472                AsciiStrLen
+ .text.StrStr   0x0000000000004480       0x44 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004480                StrStr
+ .text.StrCmp   0x00000000000044c4       0x1f /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000044c4                StrCmp
+ .text.StrLen   0x00000000000044e3        0xf /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000044e3                StrLen
+ .text.StrSize  0x00000000000044f2       0x13 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000044f2                StrSize
+ .text.AsciiStrnLenS
+                0x0000000000004505       0x26 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004505                AsciiStrnLenS
+ .text.AsciiStrToUnicodeStrS
+                0x000000000000452b       0xe9 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x000000000000452b                AsciiStrToUnicodeStrS
+ .text.StrnLenS
+                0x0000000000004614       0x27 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004614                StrnLenS
+ .text.InternalSafeStringNoStrOverlap
+                0x000000000000463b       0x29 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x000000000000463b                InternalSafeStringNoStrOverlap
+ .text.StrCatS  0x0000000000004664       0xba /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004664                StrCatS
+ .text.StrCpyS  0x000000000000471e       0x98 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x000000000000471e                StrCpyS
+ .text.RemoveEntryList
+                0x00000000000047b6       0x19 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000047b6                RemoveEntryList
+ .text.CompareGuid
+                0x00000000000047cf       0x19 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000047cf                CompareGuid
+ .text.EfiGetSystemConfigurationTable
+                0x00000000000047e8       0x60 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000047e8                EfiGetSystemConfigurationTable
+ .text.GetHobList
+                0x0000000000004848       0x35 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004848                GetHobList
+ .text.CopyMem  0x000000000000487d       0x13 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x000000000000487d                CopyMem
+ .text.SetDevicePathEndNode
+                0x0000000000004890       0x12 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004890                SetDevicePathEndNode
+ .text.FileDevicePath
+                0x00000000000048a2       0x8d /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000048a2                FileDevicePath
+ .text.AllocateCopyPool
+                0x000000000000492f       0x3c /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x000000000000492f                AllocateCopyPool
+ .text.SetMem16
+                0x000000000000496b       0x15 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x000000000000496b                SetMem16
+ .text.CompareMem
+                0x0000000000004980       0x12 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004980                CompareMem
+ .text.ZeroMem  0x0000000000004992        0xe /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004992                ZeroMem
+ .text.ReallocatePool
+                0x00000000000049a0       0x6a /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x00000000000049a0                ReallocatePool
+ .text.HiiGetFormSetFromHiiHandle
+                0x0000000000004a0a      0x1b0 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004a0a                HiiGetFormSetFromHiiHandle
+ .text.AllocateZeroPool
+                0x0000000000004bba       0x27 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004bba                AllocateZeroPool
+ .text.HiiAddPackages
+                0x0000000000004be1       0xfb /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004be1                HiiAddPackages
+ .text.GetBestLanguage
+                0x0000000000004cdc      0x113 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004cdc                GetBestLanguage
+ .text.GetPcdProtocol
+                0x0000000000004def       0x3f /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004def                GetPcdProtocol
+ .text.LibPcdSet32S
+                0x0000000000004e2e       0x28 /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004e2e                LibPcdSet32S
+ .text.LibPcdGet32
+                0x0000000000004e56       0x1d /tmp/ccrKEgem.ltrans2.ltrans.o
+                0x0000000000004e56                LibPcdGet32
+ .text.EfiBootManagerBoot
+                0x0000000000004e73      0xead /tmp/ccrKEgem.ltrans3.ltrans.o
+                0x0000000000004e73                EfiBootManagerBoot
+ .text.BmGetNextLoadOptionDevicePath
+                0x0000000000005d20      0xfe5 /tmp/ccrKEgem.ltrans4.ltrans.o
+                0x0000000000005d20                BmGetNextLoadOptionDevicePath
+ .text.HiiConstructConfigHdr.constprop.41
+                0x0000000000006d05      0x220 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000006d05                HiiConstructConfigHdr.constprop.41
+ .text.HiiIsConfigHdrMatch.constprop.40
+                0x0000000000006f25       0x76 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000006f25                HiiIsConfigHdrMatch.constprop.40
+ .text.HiiCreateGuidOpCode.constprop.37
+                0x0000000000006f9b       0x62 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000006f9b                HiiCreateGuidOpCode.constprop.37
+ .text.HiiCreateActionOpCode.constprop.36
+                0x0000000000006ffd       0x6e /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000006ffd                HiiCreateActionOpCode.constprop.36
+ .text.HiiCreateSubTitleOpCode.constprop.35
+                0x000000000000706b       0x67 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x000000000000706b                HiiCreateSubTitleOpCode.constprop.35
+ .text.HiiCreateGotoExOpCode.constprop.34
+                0x00000000000070d2       0xc1 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x00000000000070d2                HiiCreateGotoExOpCode.constprop.34
+ .text.HiiCreateCheckBoxOpCode.constprop.33
+                0x0000000000007193       0x9d /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007193                HiiCreateCheckBoxOpCode.constprop.33
+ .text.HiiCreateOneOfOpCode.constprop.30
+                0x0000000000007230      0x10b /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007230                HiiCreateOneOfOpCode.constprop.30
+ .text.HiiSetString.constprop.27
+                0x000000000000733b      0x127 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x000000000000733b                HiiSetString.constprop.27
+ .text.HiiGetString.constprop.26
+                0x0000000000007462      0x14e /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007462                HiiGetString.constprop.26
+ .text.ReportStatusCodeEx.constprop.23
+                0x00000000000075b0      0x174 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x00000000000075b0                ReportStatusCodeEx.constprop.23
+ .text.EfiBootManagerGetLoadOptions.part.7.constprop.19
+                0x0000000000007724       0xf1 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007724                EfiBootManagerGetLoadOptions.part.7.constprop.19
+ .text.EfiBootManagerAddLoadOptionVariable.constprop.11
+                0x0000000000007815      0x16d /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007815                EfiBootManagerAddLoadOptionVariable.constprop.11
+ .text.ChooseFile.constprop.8
+                0x0000000000007982      0x338 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007982                ChooseFile.constprop.8
+ .text.EfiLibDeleteVariable.constprop.2
+                0x0000000000007cba       0x29 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007cba                EfiLibDeleteVariable.constprop.2
+ .text.IsRequiredDriver
+                0x0000000000007ce3      0x102 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000007ce3                IsRequiredDriver
+                0x0000000000007ce3                RequiredDriver
+ .text.LibRouteConfig
+                0x0000000000007de5       0x23 /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x0000000000007de5                LibRouteConfig
+ .text.LibExtractConfig
+                0x0000000000007e08       0x23 /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x0000000000007e08                LibExtractConfig
+ .text.LibGetDevicePath
+                0x0000000000007e2b       0x61 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.LibAppendFileName
+                0x0000000000007e8c      0x178 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.LibCreateNewFile
+                0x0000000000008004      0x31b /tmp/ccrKEgem.ltrans6.ltrans.o
+ .text.LibUpdateFileExplorePage
+                0x000000000000831f      0x24d /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x000000000000831f                LibUpdateFileExplorePage
+ .text.LibToLowerString
+                0x000000000000856c       0x1e /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x000000000000856c                LibToLowerString
+ .text.LibStrDuplicate
+                0x000000000000858a       0x4c /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x000000000000858a                LibStrDuplicate
+ .text.LibDestroyMenuEntry
+                0x00000000000085d6       0xa0 /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x00000000000085d6                LibDestroyMenuEntry
+ .text.LibFreeMenu
+                0x0000000000008676       0x3c /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x0000000000008676                LibFreeMenu
+ .text.LibCreateMenuEntry
+                0x00000000000086b2       0x58 /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x00000000000086b2                LibCreateMenuEntry
+ .text.LibCallback
+                0x000000000000870a      0x512 /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x000000000000870a                LibCallback
+ .text.BmRepairAllControllers
+                0x0000000000008c1c      0x2f0 /tmp/ccrKEgem.ltrans6.ltrans.o
+                0x0000000000008c1c                BmRepairAllControllers
+ .text.BmEliminateExtraSpaces
+                0x0000000000008f0c       0x34 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.BmGetMiscDescription
+                0x0000000000008f40      0x184 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.BmGetUsbDescription
+                0x00000000000090c4      0x1e5 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.BmGetNvmeDescription
+                0x00000000000092a9      0x1fe /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.BmGetLoadFileDescription
+                0x00000000000094a7       0xb0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.BmGetNetworkDescription
+                0x0000000000009557      0x212 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.BmGetDescriptionFromDiskInfo
+                0x0000000000009769      0x27d /tmp/ccrKEgem.ltrans7.ltrans.o
+ .text.BmGetFreeOptionNumber
+                0x00000000000099e6       0xf2 /tmp/ccrKEgem.ltrans7.ltrans.o
+                0x00000000000099e6                BmGetFreeOptionNumber
+ .text.BmGetBootDescription
+                0x0000000000009ad8       0xdf /tmp/ccrKEgem.ltrans7.ltrans.o
+                0x0000000000009ad8                BmGetBootDescription
+ .text.BmMatchPartitionDevicePathNode.part.5.lto_priv.82
+                0x0000000000009bb7       0x7e /tmp/ccrKEgem.ltrans7.ltrans.o
+                0x0000000000009bb7                BmMatchPartitionDevicePathNode.part.5.lto_priv.82
+ .text.BmGetSingleControllerHealthStatus
+                0x0000000000009c35      0x1b9 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.BmRepairNotify
+                0x0000000000009dee       0x1d /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x0000000000009dee                BmRepairNotify
+ .text.EfiBootManagerIsValidLoadOptionVariableName
+                0x0000000000009e0b       0xd7 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .text.EfiBootManagerFreeDriverHealthInfo
+                0x0000000000009ee2       0x43 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x0000000000009ee2                EfiBootManagerFreeDriverHealthInfo
+ .text.EfiBootManagerGetDriverHealthInfo
+                0x0000000000009f25      0x1c2 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x0000000000009f25                EfiBootManagerGetDriverHealthInfo
+ .text.BmGetControllerName
+                0x000000000000a0e7      0x184 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a0e7                BmGetControllerName
+ .text.BmDisplayMessages
+                0x000000000000a26b       0xbc /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a26b                BmDisplayMessages
+ .text.EfiBootManagerFreeLoadOption
+                0x000000000000a327       0x4b /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a327                EfiBootManagerFreeLoadOption
+ .text.EfiBootManagerFreeLoadOptions
+                0x000000000000a372       0x4c /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a372                EfiBootManagerFreeLoadOptions
+ .text.EfiBootManagerDeleteLoadOptionVariable
+                0x000000000000a3be      0x129 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a3be                EfiBootManagerDeleteLoadOptionVariable
+ .text.EfiBootManagerFindLoadOption
+                0x000000000000a4e7       0x89 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a4e7                EfiBootManagerFindLoadOption
+ .text.EfiBootManagerInitializeLoadOption
+                0x000000000000a570       0xd7 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a570                EfiBootManagerInitializeLoadOption
+ .text.EfiBootManagerVariableToLoadOptionEx.part.5.lto_priv.79
+                0x000000000000a647      0x18e /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a647                EfiBootManagerVariableToLoadOptionEx.part.5.lto_priv.79
+ .text.BmHotkeyCallback
+                0x000000000000a7d5      0x10b /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a7d5                BmHotkeyCallback
+ .text.EfiBootManagerLoadOptionToVariable
+                0x000000000000a8e0      0x185 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x000000000000a8e0                EfiBootManagerLoadOptionToVariable
+ .text.BasePrintLibSPrintMarker.constprop.66
+                0x000000000000aa65      0xef8 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000000aa65                BasePrintLibSPrintMarker.constprop.66
+ .text.BasePrintLibSPrint.constprop.65
+                0x000000000000b95d       0x29 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .text.InternalAllocatePool.constprop.63
+                0x000000000000b986       0x37 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000000b986                InternalAllocatePool.constprop.63
+ .text.ConvertDevicePathToText.constprop.58
+                0x000000000000b9bd       0x60 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000000b9bd                ConvertDevicePathToText.constprop.58
+ .text.CreatePopUp.constprop.53
+                0x000000000000ba1d      0x421 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000000ba1d                CreatePopUp.constprop.53
+ .text.EfiAcquireLock.constprop.52
+                0x000000000000be3e       0x2b /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000000be3e                EfiAcquireLock.constprop.52
+ .text.HiiGetHiiHandles.constprop.44
+                0x000000000000be69       0x8b /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000000be69                HiiGetHiiHandles.constprop.44
+ .text.InternalHiiBrowserCallback.constprop.42
+                0x000000000000bef4      0x114 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000000bef4                InternalHiiBrowserCallback.constprop.42
+ .text.BootMaintExtractConfig
+                0x000000000000c008      0x165 /tmp/ccrKEgem.ltrans10.ltrans.o
+                0x000000000000c008                BootMaintExtractConfig
+ .text.UpdateConsoleContent
+                0x000000000000c16d      0x1ae /tmp/ccrKEgem.ltrans10.ltrans.o
+                0x000000000000c16d                UpdateConsoleContent
+ .text.BootMaintRouteConfig
+                0x000000000000c31b     0x1152 /tmp/ccrKEgem.ltrans10.ltrans.o
+                0x000000000000c31b                BootMaintRouteConfig
+ .text.BmUpdateSystemTableConsole
+                0x000000000000d46d      0x1b9 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.EfiBootManagerConnectAllDefaultConsoles
+                0x000000000000d626      0x103 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .text.BmPrintDp
+                0x000000000000d729       0x2c /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000d729                BmPrintDp
+ .text.BmDelPartMatchInstance
+                0x000000000000d755       0xff /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000d755                BmDelPartMatchInstance
+ .text.EfiBootManagerConnectDevicePath.part.0.lto_priv.81
+                0x000000000000d854      0x113 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000d854                EfiBootManagerConnectDevicePath.part.0.lto_priv.81
+ .text.BmConnectUsbShortFormDevicePath
+                0x000000000000d967      0x164 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000d967                BmConnectUsbShortFormDevicePath
+ .text.EfiBootManagerConnectAll
+                0x000000000000dacb       0x8a /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000dacb                EfiBootManagerConnectAll
+ .text.InternalGetReportStatusCode.part.0.lto_priv.78
+                0x000000000000db55       0x44 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000db55                InternalGetReportStatusCode.part.0.lto_priv.78
+ .text.ReportDebugCodeEnabled
+                0x000000000000db99        0x3 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000db99                ReportDebugCodeEnabled
+ .text.ReportErrorCodeEnabled
+                0x000000000000db9c        0x3 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000db9c                ReportErrorCodeEnabled
+ .text.ReportProgressCodeEnabled
+                0x000000000000db9f        0x3 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000db9f                ReportProgressCodeEnabled
+ .text.BmSetVariableAndReportStatusCodeOnError
+                0x000000000000dba2      0x137 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000dba2                BmSetVariableAndReportStatusCodeOnError
+ .text.ReportStatusCode
+                0x000000000000dcd9       0x7f /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000dcd9                ReportStatusCode
+ .text.HiiGetSupportedLanguages
+                0x000000000000dd58       0x81 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000dd58                HiiGetSupportedLanguages
+ .text.HiiUpdateForm
+                0x000000000000ddd9      0x4c0 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000ddd9                HiiUpdateForm
+ .text.InternalHiiGrowOpCodeHandle
+                0x000000000000e299       0x57 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e299                InternalHiiGrowOpCodeHandle
+ .text.InternalHiiCreateOpCodeExtended
+                0x000000000000e2f0       0x46 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e2f0                InternalHiiCreateOpCodeExtended
+ .text.InternalHiiCreateOpCode
+                0x000000000000e336       0x23 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e336                InternalHiiCreateOpCode
+ .text.HiiCreateGotoOpCode
+                0x000000000000e359       0x82 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e359                HiiCreateGotoOpCode
+ .text.HiiCreateOneOfOptionOpCode
+                0x000000000000e3db       0x86 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e3db                HiiCreateOneOfOptionOpCode
+ .text.HiiCreateEndOpCode
+                0x000000000000e461       0x1f /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e461                HiiCreateEndOpCode
+ .text.HiiFreeOpCodeHandle
+                0x000000000000e480       0x22 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e480                HiiFreeOpCodeHandle
+ .text.HiiAllocateOpCodeHandle
+                0x000000000000e4a2       0x58 /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e4a2                HiiAllocateOpCodeHandle
+ .text.InternalHiiCompareSubString
+                0x000000000000e4fa       0x9d /tmp/ccrKEgem.ltrans11.ltrans.o
+                0x000000000000e4fa                InternalHiiCompareSubString
+ .text.ReSendForm
+                0x000000000000e597      0x1ba /tmp/ccrKEgem.ltrans12.ltrans.o
+ .text.CreateDriverOptionFromFile
+                0x000000000000e751       0x14 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000e751                CreateDriverOptionFromFile
+ .text.CreateBootOptionFromFile
+                0x000000000000e765       0x14 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000e765                CreateBootOptionFromFile
+ .text.BootFromFile
+                0x000000000000e779      0x167 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000e779                BootFromFile
+ .text.IsIsaSerialNode
+                0x000000000000e8e0       0x1a /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000e8e0                IsIsaSerialNode
+ .text.UpdateComAttributeFromVariable
+                0x000000000000e8fa      0x1c7 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000e8fa                UpdateComAttributeFromVariable
+ .text.RetrieveUartUid
+                0x000000000000eac1       0xa9 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000eac1                RetrieveUartUid
+ .text.ChangeTerminalDevicePath
+                0x000000000000eb6a      0x18d /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000eb6a                ChangeTerminalDevicePath
+ .text.BmMatchDevicePaths
+                0x000000000000ecf7       0x8f /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000ecf7                BmMatchDevicePaths
+                0x000000000000ecf7                MatchDevicePaths
+ .text.GetDriverOrder
+                0x000000000000ed86       0x90 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000ed86                GetDriverOrder
+ .text.GetBootOrder
+                0x000000000000ee16       0x90 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000ee16                GetBootOrder
+ .text.BOpt_GetOptionNumber
+                0x000000000000eea6       0xef /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000eea6                BOpt_GetOptionNumber
+ .text.GetConsoleMenu
+                0x000000000000ef95      0x417 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000ef95                GetConsoleMenu
+ .text.BOpt_GetDriverOptions
+                0x000000000000f3ac      0x2a5 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000000f3ac                BOpt_GetDriverOptions
+ .text.BootManagerExtractConfig
+                0x000000000000f651       0x23 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.BmSetConsoleMode
+                0x000000000000f674      0x3ae /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.BootManagerRouteConfig
+                0x000000000000fa22        0x5 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.DeviceManagerRouteConfig
+                0x000000000000fa27        0x5 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.DeviceManagerCallback
+                0x000000000000fa2c       0xad /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.LibDevicePathToStr
+                0x000000000000fad9       0x48 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000000fad9                UiDevicePathToStr
+                0x000000000000fad9                LibDevicePathToStr
+ .text.ExtractFileNameFromDevicePath
+                0x000000000000fb21       0x81 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000000fb21                ExtractFileNameFromDevicePath
+ .text.BootManagerCallback
+                0x000000000000fba2      0x5f3 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .text.BmmSetConsoleMode
+                0x0000000000010195      0x3ae /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x0000000000010195                BmmSetConsoleMode
+ .text.FakeRouteConfig
+                0x0000000000010543       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.FakeExtractConfig
+                0x0000000000010563       0x23 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.DmExtractDevicePathFromHiiHandle
+                0x0000000000010586       0x52 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000010586                ExtractDevicePathFromHiiHandle
+                0x0000000000010586                ExtractDevicePathFromHandle
+                0x0000000000010586                DmExtractDevicePathFromHiiHandle
+ .text.GetNextLanguage
+                0x00000000000105d8       0x63 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x00000000000105d8                GetNextLanguage
+ .text.FrontPageCallback
+                0x000000000001063b      0x17a /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.UiCustomizeFrontPageBanner
+                0x00000000000107b5       0x5e /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x00000000000107b5                UiCustomizeFrontPageBanner
+ .text.UiSetConsoleMode
+                0x0000000000010813      0x3ae /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000010813                UiSetConsoleMode
+ .text.GetOptionalStringByIndex
+                0x0000000000010bc1       0xac /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000010bc1                GetOptionalStringByIndex
+ .text.UpdatePageEnd
+                0x0000000000010c6d       0xaa /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000010c6d                UpdatePageEnd
+ .text.RefreshUpdateData
+                0x0000000000010d17       0x52 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000010d17                RefreshUpdateData
+ .text.CleanUpPage
+                0x0000000000010d69       0x45 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000010d69                CleanUpPage
+ .text.UpdatePageStart
+                0x0000000000010dae       0x4c /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000010dae                UpdatePageStart
+ .text.UpdateOrderPage
+                0x0000000000010dfa      0x222 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.UpdateConsolePage
+                0x000000000001101c      0x20d /tmp/ccrKEgem.ltrans14.ltrans.o
+ .text.UpdatePageBody
+                0x0000000000011229       0x84 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x0000000000011229                UpdatePageBody
+ .text.Var_UpdateConsoleOption
+                0x00000000000112ad      0x1c1 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x00000000000112ad                Var_UpdateConsoleOption
+ .text.GetConsoleOutMode
+                0x000000000001146e       0x95 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001146e                GetConsoleOutMode
+ .text.BmDestroyRamDisk
+                0x0000000000011503       0xb0 /tmp/ccrKEgem.ltrans15.ltrans.o
+                0x0000000000011503                BmDestroyRamDisk
+ .text.BmGetRamDiskDevicePath
+                0x00000000000115b3       0x87 /tmp/ccrKEgem.ltrans15.ltrans.o
+                0x00000000000115b3                BmGetRamDiskDevicePath
+ .text.BmExpandMediaDevicePath
+                0x000000000001163a      0x255 /tmp/ccrKEgem.ltrans15.ltrans.o
+                0x000000000001163a                BmExpandMediaDevicePath
+ .text.BmExpandLoadFile
+                0x000000000001188f      0x298 /tmp/ccrKEgem.ltrans15.ltrans.o
+                0x000000000001188f                BmExpandLoadFile
+ .text.BmCachePartitionDevicePath
+                0x0000000000011b27       0xb0 /tmp/ccrKEgem.ltrans15.ltrans.o
+                0x0000000000011b27                BmCachePartitionDevicePath
+ .text.BmAdjustFvFilePath
+                0x0000000000011bd7      0x1a0 /tmp/ccrKEgem.ltrans15.ltrans.o
+                0x0000000000011bd7                BmAdjustFvFilePath
+ .text.EfiBootManagerConnectConsoleVariable.part.1.lto_priv.83
+                0x0000000000011d77      0x266 /tmp/ccrKEgem.ltrans15.ltrans.o
+                0x0000000000011d77                EfiBootManagerConnectConsoleVariable.part.1.lto_priv.83
+ .text.DeviceManagerExtractConfig
+                0x0000000000011fdd       0x23 /tmp/ccrKEgem.ltrans16.ltrans.o
+                0x0000000000011fdd                DeviceManagerExtractConfig
+ .text.IsMacAddressDevicePath
+                0x0000000000012000      0x378 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .text.CreateDeviceManagerForm
+                0x0000000000012378      0x6f7 /tmp/ccrKEgem.ltrans16.ltrans.o
+                0x0000000000012378                CreateDeviceManagerForm
+ .text.EfiBootManagerRefreshAllBootOption
+                0x0000000000012a6f      0x50e /tmp/ccrKEgem.ltrans17.ltrans.o
+                0x0000000000012a6f                EfiBootManagerRefreshAllBootOption
+ .text.BOpt_GetMenuEntry
+                0x0000000000012f7d       0x18 /tmp/ccrKEgem.ltrans18.ltrans.o
+                0x0000000000012f7d                BOpt_GetMenuEntry
+ .text.BOpt_DestroyMenuEntry
+                0x0000000000012f95      0x10d /tmp/ccrKEgem.ltrans18.ltrans.o
+                0x0000000000012f95                BOpt_DestroyMenuEntry
+ .text.BOpt_FreeMenu
+                0x00000000000130a2       0x3c /tmp/ccrKEgem.ltrans18.ltrans.o
+                0x00000000000130a2                BOpt_FreeMenu
+ .text.BOpt_CreateMenuEntry
+                0x00000000000130de       0x7b /tmp/ccrKEgem.ltrans18.ltrans.o
+                0x00000000000130de                BOpt_CreateMenuEntry
+ .text.CleanUselessBeforeSubmit
+                0x0000000000013159       0x8f /tmp/ccrKEgem.ltrans18.ltrans.o
+                0x0000000000013159                CleanUselessBeforeSubmit
+ .text.BOpt_GetBootOptions
+                0x00000000000131e8      0x406 /tmp/ccrKEgem.ltrans18.ltrans.o
+                0x00000000000131e8                BOpt_GetBootOptions
+ .text.BmIsBootManagerMenuFilePath
+                0x00000000000135ee       0x66 /tmp/ccrKEgem.ltrans19.ltrans.o
+                0x00000000000135ee                BmIsBootManagerMenuFilePath
+ *fill*         0x0000000000013654        0xc 
+ .text          0x0000000000013660       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                0x0000000000013660                InternalMemCompareMem
+ *fill*         0x000000000001367d        0x3 
+ .text          0x0000000000013680       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                0x0000000000013680                InternalMemZeroMem
+ *fill*         0x000000000001369d        0x3 
+ .text          0x00000000000136a0       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                0x00000000000136a0                InternalMemSetMem16
+ *fill*         0x00000000000136b2        0xe 
+ .text          0x00000000000136c0       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                0x00000000000136c0                InternalMemSetMem
+ *fill*         0x00000000000136d1        0xf 
+ .text          0x00000000000136e0       0x3c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                0x00000000000136e0                InternalMemCopyMem
+ *fill*         0x000000000001371c        0x4 
+ .text          0x0000000000013720       0x2a /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                0x0000000000013720                InternalMemIsZeroBuffer
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str2.2
+                0x000000000001374a      0x106 /tmp/ccrKEgem.ltrans0.ltrans.o
+                                        0x10a (size before relaxing)
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultPlatformLangCodes
+                0x0000000000013850       0x12 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000013862        0x2 
+ .rodata._gUefiDriverRevision
+                0x0000000000013864        0x4 /tmp/ccrKEgem.ltrans0.ltrans.o
+                0x0000000000013864                _gPcd_FixedAtBuild_PcdMaximumDevicePathNodeCount
+                0x0000000000013864                _gUefiDriverRevision
+                0x0000000000013864                _gPcd_FixedAtBuild_PcdMaxRepairCount
+ .rodata.str2.2
+                0x0000000000013868       0x50 /tmp/ccrKEgem.ltrans1.ltrans.o
+                                         0x78 (size before relaxing)
+ .rodata.BootMaintCallback
+                0x00000000000138b8       0xc0 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .rodata.TerminalType
+                0x0000000000013978        0xa /tmp/ccrKEgem.ltrans1.ltrans.o
+ *fill*         0x0000000000013982       0x1e 
+ .rodata.StopBitsList
+                0x00000000000139a0       0x30 /tmp/ccrKEgem.ltrans1.ltrans.o
+                0x00000000000139a0                StopBitsList
+ *fill*         0x00000000000139d0       0x10 
+ .rodata.ParityList
+                0x00000000000139e0       0x50 /tmp/ccrKEgem.ltrans1.ltrans.o
+                0x00000000000139e0                ParityList
+ *fill*         0x0000000000013a30       0x10 
+ .rodata.DataBitsList
+                0x0000000000013a40       0x40 /tmp/ccrKEgem.ltrans1.ltrans.o
+                0x0000000000013a40                DataBitsList
+ .rodata.BaudRateList
+                0x0000000000013a80      0x130 /tmp/ccrKEgem.ltrans1.ltrans.o
+                0x0000000000013a80                BaudRateList
+ *fill*         0x0000000000013bb0       0x10 
+ .rodata.mConfigHdrTemplate
+                0x0000000000013bc0       0x70 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .rodata.mHexStr
+                0x0000000000013c30       0x10 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .rodata.mUefiDevicePathLibEndDevicePath
+                0x0000000000013c40        0x4 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .rodata.mEndOfPakageList
+                0x0000000000013c44        0x4 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .rodata.str2.2
+                0x0000000000013c48       0x5c /tmp/ccrKEgem.ltrans3.ltrans.o
+ .rodata.str2.2
+                0x0000000000013ca4        0xa /tmp/ccrKEgem.ltrans4.ltrans.o
+ .rodata.str2.2
+                0x0000000000013cae      0x10c /tmp/ccrKEgem.ltrans5.ltrans.o
+                                        0x148 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000013dba        0x7 /tmp/ccrKEgem.ltrans5.ltrans.o
+                                          0x8 (size before relaxing)
+ *fill*         0x0000000000013dc1        0x1 
+ .rodata.str2.2
+                0x0000000000013dc2        0xa /tmp/ccrKEgem.ltrans6.ltrans.o
+                                          0xe (size before relaxing)
+ *fill*         0x0000000000013dcc        0x4 
+ .rodata._gPcd_FixedAtBuild_PcdDriverHealthConfigureForm
+                0x0000000000013dd0       0x10 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .rodata.str2.2
+                0x0000000000013de0      0x196 /tmp/ccrKEgem.ltrans7.ltrans.o
+                                        0x1be (size before relaxing)
+ .rodata.str2.2
+                0x0000000000013f76       0x60 /tmp/ccrKEgem.ltrans8.ltrans.o
+                                         0x9c (size before relaxing)
+ .rodata.str1.1
+                0x0000000000013fd6        0xa /tmp/ccrKEgem.ltrans8.ltrans.o
+                                          0xb (size before relaxing)
+ .rodata.str1.1
+                0x0000000000013fe0      0x29f /tmp/ccrKEgem.ltrans9.ltrans.o
+                                        0x2b0 (size before relaxing)
+ *fill*         0x000000000001427f        0x1 
+ .rodata.str2.2
+                0x0000000000014280        0x8 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000014288        0x4 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x0000000000014288                _gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+                0x0000000000014288                _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+ .rodata.str2.2
+                0x000000000001428c       0x72 /tmp/ccrKEgem.ltrans10.ltrans.o
+                                        0x122 (size before relaxing)
+ .rodata.str2.2
+                0x00000000000142fe       0x28 /tmp/ccrKEgem.ltrans11.ltrans.o
+ *fill*         0x00000000000142fe        0x2 
+ .rodata.mHiiDefaultTypeToWidth
+                0x0000000000014300        0x8 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .rodata.str2.2
+                0x0000000000014308       0x4a /tmp/ccrKEgem.ltrans12.ltrans.o
+                                        0x134 (size before relaxing)
+ .rodata.str2.2
+                0x0000000000014352      0x11e /tmp/ccrKEgem.ltrans13.ltrans.o
+                                        0x1ce (size before relaxing)
+ .rodata.str2.2
+                0x0000000000014470       0x1a /tmp/ccrKEgem.ltrans14.ltrans.o
+ .rodata.UpdatePageBody
+                0x0000000000014470       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .rodata.str2.2
+                0x0000000000014490       0x2c /tmp/ccrKEgem.ltrans15.ltrans.o
+                                         0x8e (size before relaxing)
+ .rodata.str2.2
+                0x00000000000144bc       0x16 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .rodata.str2.2
+                0x00000000000144d2        0xc /tmp/ccrKEgem.ltrans17.ltrans.o
+ *fill*         0x00000000000144de        0x2 
+ .rodata.BOpt_DestroyMenuEntry
+                0x00000000000144e0       0x18 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .rodata.str2.2
+                0x00000000000144f8       0x38 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .rodata.CSWTCH.32
+                0x00000000000144f8        0x6 /tmp/ccrKEgem.ltrans18.ltrans.o
+ *fill*         0x00000000000144fe        0x2 
+ .rodata._gPcd_FixedAtBuild_PcdBootManagerMenuFile
+                0x0000000000014500       0x10 /tmp/ccrKEgem.ltrans19.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000014510        0x0 DxePcdLib.obj (symbol from plugin)
+ .got.plt       0x0000000000014510        0x0 DxePcdLib.obj (symbol from plugin)
+                0x0000000000014510                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000014510        0x0
+ .plt           0x0000000000014510        0x0 DxePcdLib.obj (symbol from plugin)
+
+.data           0x0000000000014540     0x7148
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.mFontBin
+                0x0000000000014540      0xda0 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.mFontPackageGuid
+                0x00000000000152e0       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.mUiStringPackGuid
+                0x00000000000152f0       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiIfrFrontPageGuid
+                0x0000000000015300       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiSmbiosProtocolGuid
+                0x0000000000015310       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.UiAppStrings
+                0x0000000000015320      0x424 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000015744       0x1c 
+ .data.FrontPageVfrBin
+                0x0000000000015760      0x147 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x00000000000158a7        0x9 
+ .data.mFrontPageGuid
+                0x00000000000158b0       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.mFrontPageHiiVendorDevicePath
+                0x00000000000158c0       0x18 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x00000000000158d8        0x8 
+ .data.gEfiBootLogoProtocolGuid
+                0x00000000000158e0       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+                0x00000000000158e0                gEfiBootLogoProtocolGuid
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x00000000000158f0       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000015900       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000015910       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x0000000000015920       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x0000000000015930       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiDxeServicesTableGuid
+                0x0000000000015940       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000015950       0x10 
+ .data.FileExplorerLibStrings
+                0x0000000000015960      0x81a /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x000000000001617a        0x6 
+ .data.FileExplorerVfrBin
+                0x0000000000016180       0xf9 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000016279        0x7 
+ .data.FeHiiVendorDevicePath
+                0x0000000000016280       0x18 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000016298        0x8 
+ .data.DeviceManagerUiLibStrings
+                0x00000000000162a0      0x4b8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000016758        0x8 
+ .data.DeviceManagerVfrBin
+                0x0000000000016760      0x12d /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x000000000001688d        0x3 
+ .data.mDeviceManagerHiiVendorDevicePath
+                0x0000000000016890       0x18 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x00000000000168a8       0x18 
+ .data.BootManagerUiLibStrings
+                0x00000000000168c0      0x434 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000016cf4        0xc 
+ .data.BootManagerVfrBin
+                0x0000000000016d00       0xb3 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000016db3        0xd 
+ .data.mBootManagerHiiVendorDevicePath
+                0x0000000000016dc0       0x18 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000016dd8        0x8 
+ .data.gEfiSerialIoProtocolGuid
+                0x0000000000016de0       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.gEfiLoadFileProtocolGuid
+                0x0000000000016df0       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+                0x0000000000016df0                gEfiLoadFileProtocolGuid
+ .data.BootMaintenanceManagerUiLibStrings
+                0x0000000000016e00     0x1b4e /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x000000000001894e       0x12 
+ .data.BootMaintenanceManagerBin
+                0x0000000000018960      0x594 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000018ef4        0xc 
+ .data.gEfiHiiConfigAccessProtocolGuid
+                0x0000000000018f00       0x10 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .data.mBmmHiiVendorDevicePath
+                0x0000000000018f10       0x18 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x0000000000018f28        0x8 
+ .data.gEfiIfrBootMaintenanceGuid
+                0x0000000000018f30       0x10 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .data.DriverMenu
+                0x0000000000018f40       0x20 /tmp/ccrKEgem.ltrans1.ltrans.o
+                0x0000000000018f40                DriverMenu
+ .data.gPcdProtocolGuid
+                0x0000000000018f60       0x10 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .data.gEfiHobListGuid
+                0x0000000000018f70       0x10 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .data.gEfiSimpleTextInputExProtocolGuid
+                0x0000000000018f80       0x10 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .data.gEfiEventReadyToBootGuid
+                0x0000000000018f90       0x10 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .data.gEfiMemoryTypeInformationGuid
+                0x0000000000018fa0       0x10 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .data.gEfiFileInfoGuid
+                0x0000000000018fb0       0x10 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .data.gEfiFirmwareVolume2ProtocolGuid
+                0x0000000000018fc0       0x10 /tmp/ccrKEgem.ltrans3.ltrans.o
+                0x0000000000018fc0                gEfiFirmwareVolume2ProtocolGuid
+ .data.gEfiLoadedImageProtocolGuid
+                0x0000000000018fd0       0x10 /tmp/ccrKEgem.ltrans3.ltrans.o
+                0x0000000000018fd0                gEfiLoadedImageProtocolGuid
+ .data.mBmHardDriveBootVariableGuid
+                0x0000000000018fe0       0x10 /tmp/ccrKEgem.ltrans4.ltrans.o
+ *fill*         0x0000000000018ff0       0x10 
+ .data.mFsOptionMenu
+                0x0000000000019000       0x21 /tmp/ccrKEgem.ltrans5.ltrans.o
+ *fill*         0x0000000000019021        0xf 
+ .data.gEfiFileSystemVolumeLabelInfoIdGuid
+                0x0000000000019030       0x10 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .data.gEfiSimpleFileSystemProtocolGuid
+                0x0000000000019040       0x10 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000019040                gEfiSimpleFileSystemProtocolGuid
+ .data.FileExplorerGuid
+                0x0000000000019050       0x10 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000019050                FileExplorerGuid
+ .data.rel.local.gFileExplorerPrivate
+                0x0000000000019060       0x58 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000019060                gFileExplorerPrivate
+ *fill*         0x00000000000190b8        0x8 
+ .data.gEfiGlobalVariableGuid
+                0x00000000000190c0       0x10 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x00000000000190c0                gEfiGlobalVariableGuid
+ *fill*         0x00000000000190d0       0x10 
+ .data.rel.ro.local.mBmLoadOptionName
+                0x00000000000190e0       0x20 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x00000000000190e0                mBmLoadOptionName
+ .data.rel.ro.local.mBmLoadOptionOrderName
+                0x0000000000019100       0x20 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000019100                mBmLoadOptionOrderName
+ .data.gEdkiiStatusCodeDataTypeVariableGuid
+                0x0000000000019120       0x10 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000019120                gEdkiiStatusCodeDataTypeVariableGuid
+ .data.gEfiCallerIdGuid
+                0x0000000000019130       0x10 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000019130                gEfiCallerIdGuid
+ .data.gEfiIfrTianoGuid
+                0x0000000000019140       0x10 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x0000000000019140                gEfiIfrTianoGuid
+ .data.mNewFolderQuestionId
+                0x0000000000019150        0x8 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .data.mNewFileQuestionId
+                0x0000000000019158        0x8 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .data.gEfiDiskInfoSdMmcInterfaceGuid
+                0x0000000000019160       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.gEfiDiskInfoScsiInterfaceGuid
+                0x0000000000019170       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.gEfiDiskInfoIdeInterfaceGuid
+                0x0000000000019180       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.gEfiDiskInfoAhciInterfaceGuid
+                0x0000000000019190       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.gEfiDiskInfoProtocolGuid
+                0x00000000000191a0       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.gEfiUsbIoProtocolGuid
+                0x00000000000191b0       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+                0x00000000000191b0                gEfiUsbIoProtocolGuid
+ .data.gEfiNvmExpressPassThruProtocolGuid
+                0x00000000000191c0       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.gEfiBlockIoProtocolGuid
+                0x00000000000191d0       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+                0x00000000000191d0                gEfiBlockIoProtocolGuid
+ .data.rel.local.mPlatformBootDescriptionHandlers
+                0x00000000000191e0       0x10 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.mBmUefiPrefix
+                0x00000000000191f0        0xc /tmp/ccrKEgem.ltrans7.ltrans.o
+ *fill*         0x00000000000191fc        0x4 
+ .data.rel.ro.local.mBmBootDescriptionHandlers
+                0x0000000000019200       0x30 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .data.gEdkiiVariableLockProtocolGuid
+                0x0000000000019230       0x10 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .data.rel.local.mBmHotkeyList
+                0x0000000000019240       0x10 /tmp/ccrKEgem.ltrans8.ltrans.o
+                0x0000000000019240                mBmHotkeyList
+ *fill*         0x0000000000019250       0x10 
+ .data.mBmHotkeyBootOption
+                0x0000000000019260       0x58 /tmp/ccrKEgem.ltrans8.ltrans.o
+ *fill*         0x00000000000192b8        0x8 
+ .data.gEfiComponentNameProtocolGuid
+                0x00000000000192c0       0x10 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .data.gEfiComponentName2ProtocolGuid
+                0x00000000000192d0       0x10 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .data.gEfiDriverHealthProtocolGuid
+                0x00000000000192e0       0x10 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .data.mBootMaintStorageName
+                0x00000000000192f0       0x10 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x00000000000192f0                mBootMaintStorageName
+ .data.mBootMaintGuid
+                0x0000000000019300       0x10 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x0000000000019300                mBootMaintGuid
+ .data.gEfiFormBrowser2ProtocolGuid
+                0x0000000000019310       0x10 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x0000000000019310                gEfiFormBrowser2ProtocolGuid
+ .data.mBmHotkeyLock
+                0x0000000000019320       0x18 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x0000000000019320                mBmHotkeyLock
+ *fill*         0x0000000000019338        0x8 
+ .data.gEfiDevicePathToTextProtocolGuid
+                0x0000000000019340       0x10 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x0000000000019340                gEfiDevicePathToTextProtocolGuid
+ *fill*         0x0000000000019350       0x10 
+ .data.rel.ro.local.mStatusString
+                0x0000000000019360      0x138 /tmp/ccrKEgem.ltrans9.ltrans.o
+ *fill*         0x0000000000019498        0x8 
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x00000000000194a0       0x10 /tmp/ccrKEgem.ltrans10.ltrans.o
+                0x00000000000194a0                gEfiHiiConfigRoutingProtocolGuid
+ .data.gEfiStatusCodeRuntimeProtocolGuid
+                0x00000000000194b0       0x10 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .data.gEfiSimpleTextInProtocolGuid
+                0x00000000000194c0       0x10 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .data.gEdkiiFormBrowserEx2ProtocolGuid
+                0x00000000000194d0       0x10 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x00000000000194d0                gEdkiiFormBrowserEx2ProtocolGuid
+ .data.rel.local.gBootMaintenancePrivate
+                0x00000000000194e0     0x1c60 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x00000000000194e0                gBootMaintenancePrivate
+ .data.gEfiDevicePathProtocolGuid
+                0x000000000001b140       0x10 /tmp/ccrKEgem.ltrans12.ltrans.o
+                0x000000000001b140                gEfiDevicePathProtocolGuid
+ *fill*         0x000000000001b150       0x10 
+ .data.rel.local.gDeviceManagerPrivate
+                0x000000000001b160       0x38 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b160                gDeviceManagerPrivate
+ *fill*         0x000000000001b198        0x8 
+ .data.mBootManagerGuid
+                0x000000000001b1a0       0x10 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b1a0                mBootManagerGuid
+ *fill*         0x000000000001b1b0       0x10 
+ .data.rel.ro.local.mDeviceTypeStr
+                0x000000000001b1c0       0x40 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .data.rel.local.gBootManagerPrivate
+                0x000000000001b200       0x30 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b200                gBootManagerPrivate
+ .data._gPcd_BinaryPatch_PcdSetupConOutRow
+                0x000000000001b230        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b230                _gPcd_BinaryPatch_PcdSetupConOutRow
+ .data._gPcd_BinaryPatch_PcdSetupConOutColumn
+                0x000000000001b234        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b234                _gPcd_BinaryPatch_PcdSetupConOutColumn
+ *fill*         0x000000000001b238        0x8 
+ .data.TerminalTypeGuid
+                0x000000000001b240       0x50 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b240                TerminalTypeGuid
+ *fill*         0x000000000001b290       0x10 
+ .data.TerminalMenu
+                0x000000000001b2a0       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b2a0                TerminalMenu
+ .data.DriverOptionMenu
+                0x000000000001b2c0       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b2c0                DriverOptionMenu
+ .data.BootOptionMenu
+                0x000000000001b2e0       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b2e0                BootOptionMenu
+ .data.ConsoleErrMenu
+                0x000000000001b300       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b300                ConsoleErrMenu
+ .data.ConsoleOutMenu
+                0x000000000001b320       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b320                ConsoleOutMenu
+ .data.ConsoleInpMenu
+                0x000000000001b340       0x20 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b340                ConsoleInpMenu
+ .data._gPcd_BinaryPatch_PcdConOutRow
+                0x000000000001b360        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b360                _gPcd_BinaryPatch_PcdConOutRow
+ .data._gPcd_BinaryPatch_PcdConOutColumn
+                0x000000000001b364        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b364                _gPcd_BinaryPatch_PcdConOutColumn
+ *fill*         0x000000000001b368        0x8 
+ .data.gEfiSimpleTextOutProtocolGuid
+                0x000000000001b370       0x10 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b370                gEfiSimpleTextOutProtocolGuid
+ .data.gEfiGraphicsOutputProtocolGuid
+                0x000000000001b380       0x10 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b380                gEfiGraphicsOutputProtocolGuid
+ *fill*         0x000000000001b390       0x10 
+ .data.rel.local.gFrontPagePrivate
+                0x000000000001b3a0       0x38 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b3a0                gFrontPagePrivate
+ *fill*         0x000000000001b3d8        0x8 
+ .data.rel.ro.local.mConVarName
+                0x000000000001b3e0       0x30 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .data.gEfiRamDiskProtocolGuid
+                0x000000000001b410       0x10 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .data.gEfiPciIoProtocolGuid
+                0x000000000001b420       0x10 /tmp/ccrKEgem.ltrans16.ltrans.o
+                0x000000000001b420                gEfiPciIoProtocolGuid
+ .data.mDeviceManagerGuid
+                0x000000000001b430       0x10 /tmp/ccrKEgem.ltrans16.ltrans.o
+                0x000000000001b430                mDeviceManagerGuid
+ .data.gEfiHiiPlatformSetupFormsetGuid
+                0x000000000001b440       0x10 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .data.mBmAutoCreateBootOptionGuid
+                0x000000000001b450       0x10 /tmp/ccrKEgem.ltrans17.ltrans.o
+                0x000000000001b450                mBmAutoCreateBootOptionGuid
+ *(.bss .bss.*)
+ .bss.mResetRequired
+                0x000000000001b460        0x1 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x000000000001b461        0x7 
+ .bss.gLanguageToken
+                0x000000000001b468        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.gHiiDriverList
+                0x000000000001b470        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.gFormBrowser2
+                0x000000000001b478        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.mLanguageString
+                0x000000000001b480        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.mModeInitialized
+                0x000000000001b488        0x1 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x000000000001b489        0x7 
+ .bss.gImageHandle
+                0x000000000001b490        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+                0x000000000001b490                gImageHandle
+ .bss.mDevicePathLibDevicePathUtilities
+                0x000000000001b498        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+                0x000000000001b498                mDevicePathLibDevicePathUtilities
+ .bss.gHiiImage
+                0x000000000001b4a0        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.gHiiFont  0x000000000001b4a8        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.gDS       0x000000000001b4b0        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+                0x000000000001b4b0                gDS
+ .bss.gHiiVendorDevicePath
+                0x000000000001b4b8        0x8 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.mBmModeInitialized
+                0x000000000001b4c0        0x1 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.mAllMenuInit
+                0x000000000001b4c1        0x1 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .bss.mBmmModeInitialized
+                0x000000000001b4c2        0x1 /tmp/ccrKEgem.ltrans0.ltrans.o
+ *fill*         0x000000000001b4c3        0x5 
+ .bss.gHiiConfigRouting
+                0x000000000001b4c8        0x8 /tmp/ccrKEgem.ltrans1.ltrans.o
+                0x000000000001b4c8                gHiiConfigRouting
+ .bss.gHiiDriverList
+                0x000000000001b4d0        0x8 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .bss.mFirstEnterBMMForm
+                0x000000000001b4d8        0x1 /tmp/ccrKEgem.ltrans1.ltrans.o
+ *fill*         0x000000000001b4d9        0x7 
+ .bss.mPcd      0x000000000001b4e0        0x8 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .bss.mHobList  0x000000000001b4e8        0x8 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .bss.mQuestionIdUpdate
+                0x000000000001b4f0        0x2 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x000000000001b4f0                mQuestionIdUpdate
+ *fill*         0x000000000001b4f2        0x6 
+ .bss.gRT       0x000000000001b4f8        0x8 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x000000000001b4f8                gRT
+ .bss.mReportStatusCodeLibStatusCodeProtocol
+                0x000000000001b500        0x8 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x000000000001b500                mReportStatusCodeLibStatusCodeProtocol
+ .bss.gHiiString
+                0x000000000001b508        0x8 /tmp/ccrKEgem.ltrans5.ltrans.o
+                0x000000000001b508                gHiiString
+ *fill*         0x000000000001b510       0x10 
+ .bss.mNewFolderName
+                0x000000000001b520       0x28 /tmp/ccrKEgem.ltrans6.ltrans.o
+ *fill*         0x000000000001b548       0x18 
+ .bss.mNewFileName
+                0x000000000001b560       0x28 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .bss.mLibEndOpCodeHandle
+                0x000000000001b588        0x8 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .bss.mLibStartOpCodeHandle
+                0x000000000001b590        0x8 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .bss.mUefiFormBrowser2
+                0x000000000001b598        0x8 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .bss.gHiiDatabase
+                0x000000000001b5a0        0x8 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000001b5a0                gHiiDatabase
+ .bss.gST       0x000000000001b5a8        0x8 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000001b5a8                gST
+ .bss.mDevicePathLibDevicePathToText
+                0x000000000001b5b0        0x8 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .bss.gBS       0x000000000001b5b8        0x8 /tmp/ccrKEgem.ltrans9.ltrans.o
+                0x000000000001b5b8                gBS
+ .bss.mSelectedMacAddrString
+                0x000000000001b5c0        0x8 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5c0                mSelectedMacAddrString
+ *fill*         0x000000000001b5c8        0x8 
+ .bss.mMacDeviceList
+                0x000000000001b5d0       0x18 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5d0                mMacDeviceList
+ .bss.mBmBootTextModeRow
+                0x000000000001b5e8        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5e8                mBmBootTextModeRow
+ .bss.mBmBootTextModeColumn
+                0x000000000001b5ec        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5ec                mBmBootTextModeColumn
+ .bss.mBmBootVerticalResolution
+                0x000000000001b5f0        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5f0                mBmBootVerticalResolution
+ .bss.mBmBootHorizontalResolution
+                0x000000000001b5f4        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5f4                mBmBootHorizontalResolution
+ .bss.mBmSetupTextModeRow
+                0x000000000001b5f8        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5f8                mBmSetupTextModeRow
+ .bss.mBmSetupTextModeColumn
+                0x000000000001b5fc        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b5fc                mBmSetupTextModeColumn
+ .bss.mBmSetupVerticalResolution
+                0x000000000001b600        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b600                mBmSetupVerticalResolution
+ .bss.mBmSetupHorizontalResolution
+                0x000000000001b604        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b604                mBmSetupHorizontalResolution
+ .bss.mKeyInput
+                0x000000000001b608        0x2 /tmp/ccrKEgem.ltrans13.ltrans.o
+ *fill*         0x000000000001b60a        0x2 
+ .bss.mBmmBootTextModeRow
+                0x000000000001b60c        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b60c                mBmmBootTextModeRow
+ .bss.mBmmBootTextModeColumn
+                0x000000000001b610        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b610                mBmmBootTextModeColumn
+ .bss.mBmmBootVerticalResolution
+                0x000000000001b614        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b614                mBmmBootVerticalResolution
+ .bss.mBmmBootHorizontalResolution
+                0x000000000001b618        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b618                mBmmBootHorizontalResolution
+ .bss.mBmmSetupTextModeRow
+                0x000000000001b61c        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b61c                mBmmSetupTextModeRow
+ .bss.mBmmSetupTextModeColumn
+                0x000000000001b620        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b620                mBmmSetupTextModeColumn
+ .bss.mBmmSetupVerticalResolution
+                0x000000000001b624        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b624                mBmmSetupVerticalResolution
+ .bss.mBmmSetupHorizontalResolution
+                0x000000000001b628        0x4 /tmp/ccrKEgem.ltrans13.ltrans.o
+                0x000000000001b628                mBmmSetupHorizontalResolution
+ *fill*         0x000000000001b62c        0x4 
+ .bss.mEndOpCodeHandle
+                0x000000000001b630        0x8 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b630                mEndOpCodeHandle
+ .bss.mStartLabel
+                0x000000000001b638        0x8 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b638                mStartLabel
+ .bss.mStartOpCodeHandle
+                0x000000000001b640        0x8 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b640                mStartOpCodeHandle
+ .bss.gLanguageString
+                0x000000000001b648        0x8 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b648                gLanguageString
+ .bss.gCurrentLanguageIndex
+                0x000000000001b650        0x1 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b650                gCurrentLanguageIndex
+ *fill*         0x000000000001b651        0x7 
+ .bss.gStringPackHandle
+                0x000000000001b658        0x8 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b658                gStringPackHandle
+ .bss.mBootTextModeRow
+                0x000000000001b660        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b660                mBootTextModeRow
+ .bss.mBootTextModeColumn
+                0x000000000001b664        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b664                mBootTextModeColumn
+ .bss.mBootVerticalResolution
+                0x000000000001b668        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b668                mBootVerticalResolution
+ .bss.mBootHorizontalResolution
+                0x000000000001b66c        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b66c                mBootHorizontalResolution
+ .bss.mSetupTextModeRow
+                0x000000000001b670        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b670                mSetupTextModeRow
+ .bss.mSetupTextModeColumn
+                0x000000000001b674        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b674                mSetupTextModeColumn
+ .bss.mSetupVerticalResolution
+                0x000000000001b678        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b678                mSetupVerticalResolution
+ .bss.mSetupHorizontalResolution
+                0x000000000001b67c        0x4 /tmp/ccrKEgem.ltrans14.ltrans.o
+                0x000000000001b67c                mSetupHorizontalResolution
+ .bss.mRamDisk  0x000000000001b680        0x8 /tmp/ccrKEgem.ltrans15.ltrans.o
+
+.eh_frame       0x000000000001b6c0        0x0
+ *(.eh_frame)
+ .eh_frame      0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.dynbss         0x000000000001b6c0        0x0
+ .dynbss        0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x000000000001b6c0        0x0
+ .gnu.version_d
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version    0x000000000001b6c0        0x0
+ .gnu.version   0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x000000000001b6c0        0x0
+ .gnu.version_r
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.rela           0x000000000001b6c0      0x810
+ *(.rela .rela.*)
+ .rela.plt      0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.got      0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.bss      0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text     0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text._ModuleEntryPoint
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BootMaintCallback
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiRemovePackages
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.PerformanceMeasurementEnabled
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DevicePathFromHandle
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FreePool
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AllocatePool
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetVariable2
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetEfiGlobalVariable2
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.Print
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UnicodeSPrint
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AsciiStrToUnicodeStrS
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiGetSystemConfigurationTable
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AllocateCopyPool
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ReallocatePool
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetFormSetFromHiiHandle
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AllocateZeroPool
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiAddPackages
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetPcdProtocol
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerBoot
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetNextLoadOptionDevicePath
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiConstructConfigHdr.constprop.41
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiIsConfigHdrMatch.constprop.40
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiCreateGuidOpCode.constprop.37
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiCreateActionOpCode.constprop.36
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiCreateSubTitleOpCode.constprop.35
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiCreateGotoExOpCode.constprop.34
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiCreateCheckBoxOpCode.constprop.33
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiCreateOneOfOpCode.constprop.30
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiSetString.constprop.27
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetString.constprop.26
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ReportStatusCodeEx.constprop.23
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerGetLoadOptions.part.7.constprop.19
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerAddLoadOptionVariable.constprop.11
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ChooseFile.constprop.8
+                0x000000000001b6c0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gFileExplorerPrivate
+                0x000000000001b6c0       0x60 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionName
+                0x000000000001b720       0x60 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionOrderName
+                0x000000000001b780       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.text.LibCreateNewFile
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.LibUpdateFileExplorePage
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmRepairAllControllers
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetMiscDescription
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetUsbDescription
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetNvmeDescription
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetLoadFileDescription
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetNetworkDescription
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetDescriptionFromDiskInfo
+                0x000000000001b7c8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPlatformBootDescriptionHandlers
+                0x000000000001b7c8       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmBootDescriptionHandlers
+                0x000000000001b7f8       0x90 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetSingleControllerHealthStatus
+                0x000000000001b888        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerFreeDriverHealthInfo
+                0x000000000001b888        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerGetDriverHealthInfo
+                0x000000000001b888        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmGetControllerName
+                0x000000000001b888        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmHotkeyCallback
+                0x000000000001b888        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerLoadOptionToVariable
+                0x000000000001b888        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mBmHotkeyList
+                0x000000000001b888       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x000000000001b8b8      0x3a8 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateConsoleContent
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BootMaintRouteConfig
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmUpdateSystemTableConsole
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerConnectAllDefaultConsoles
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerConnectDevicePath.part.0.lto_priv.81
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmConnectUsbShortFormDevicePath
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ReSendForm
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BootFromFile
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateComAttributeFromVariable
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ChangeTerminalDevicePath
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetDriverOrder
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetBootOrder
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetConsoleMenu
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BOpt_GetDriverOptions
+                0x000000000001bc60        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBootMaintenancePrivate
+                0x000000000001bc60       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmmCallbackInfo
+                0x000000000001bca8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmSetConsoleMode
+                0x000000000001bca8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DeviceManagerCallback
+                0x000000000001bca8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BootManagerCallback
+                0x000000000001bca8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BmmSetConsoleMode
+                0x000000000001bca8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gDeviceManagerPrivate
+                0x000000000001bca8       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mDeviceTypeStr
+                0x000000000001bcf0       0xc0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBootManagerPrivate
+                0x000000000001bdb0       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateOrderPage
+                0x000000000001bdf8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateConsolePage
+                0x000000000001bdf8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.Var_UpdateConsoleOption
+                0x000000000001bdf8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gFrontPagePrivate
+                0x000000000001bdf8       0x48 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mConVarName
+                0x000000000001be40       0x90 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiBootManagerRefreshAllBootOption
+                0x000000000001bed0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000001bed0       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000001bed0       0x24 DxePcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/DEBUG/UiApp.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x3cb79
+ .debug_info    0x0000000000000000     0x895c /tmp/ccrKEgem.ltrans0.ltrans.o
+ .debug_info    0x000000000000895c     0x4075 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .debug_info    0x000000000000c9d1     0x484e /tmp/ccrKEgem.ltrans2.ltrans.o
+ .debug_info    0x000000000001121f     0x4c2b /tmp/ccrKEgem.ltrans3.ltrans.o
+ .debug_info    0x0000000000015e4a     0x2292 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .debug_info    0x00000000000180dc     0x402b /tmp/ccrKEgem.ltrans5.ltrans.o
+ .debug_info    0x000000000001c107     0x2a7b /tmp/ccrKEgem.ltrans6.ltrans.o
+ .debug_info    0x000000000001eb82     0x3e90 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .debug_info    0x0000000000022a12     0x279b /tmp/ccrKEgem.ltrans8.ltrans.o
+ .debug_info    0x00000000000251ad     0x30a5 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .debug_info    0x0000000000028252     0x3054 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .debug_info    0x000000000002b2a6     0x2c07 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .debug_info    0x000000000002dead     0x2e28 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .debug_info    0x0000000000030cd5     0x2701 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .debug_info    0x00000000000333d6     0x3166 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .debug_info    0x000000000003653c     0x2d5f /tmp/ccrKEgem.ltrans15.ltrans.o
+ .debug_info    0x000000000003929b      0xff7 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .debug_info    0x000000000003a292      0xcf5 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .debug_info    0x000000000003af87     0x1907 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .debug_info    0x000000000003c88e      0x2eb /tmp/ccrKEgem.ltrans19.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x4720
+ .debug_abbrev  0x0000000000000000      0x468 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000468      0x321 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .debug_abbrev  0x0000000000000789      0x482 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000c0b      0x399 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000000fa4      0x27b /tmp/ccrKEgem.ltrans4.ltrans.o
+ .debug_abbrev  0x000000000000121f      0x3c7 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .debug_abbrev  0x00000000000015e6      0x460 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .debug_abbrev  0x0000000000001a46      0x46e /tmp/ccrKEgem.ltrans7.ltrans.o
+ .debug_abbrev  0x0000000000001eb4      0x41a /tmp/ccrKEgem.ltrans8.ltrans.o
+ .debug_abbrev  0x00000000000022ce      0x2f1 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .debug_abbrev  0x00000000000025bf      0x31b /tmp/ccrKEgem.ltrans10.ltrans.o
+ .debug_abbrev  0x00000000000028da      0x490 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .debug_abbrev  0x0000000000002d6a      0x483 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .debug_abbrev  0x00000000000031ed      0x39d /tmp/ccrKEgem.ltrans13.ltrans.o
+ .debug_abbrev  0x000000000000358a      0x4b6 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .debug_abbrev  0x0000000000003a40      0x3a6 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .debug_abbrev  0x0000000000003de6      0x289 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .debug_abbrev  0x000000000000406f      0x223 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .debug_abbrev  0x0000000000004292      0x318 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .debug_abbrev  0x00000000000045aa      0x176 /tmp/ccrKEgem.ltrans19.ltrans.o
+
+.debug_loc      0x0000000000000000    0x1fa16
+ .debug_loc     0x0000000000000000     0x2428 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .debug_loc     0x0000000000002428     0x1e57 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .debug_loc     0x000000000000427f     0x392f /tmp/ccrKEgem.ltrans2.ltrans.o
+ .debug_loc     0x0000000000007bae     0x13ee /tmp/ccrKEgem.ltrans3.ltrans.o
+ .debug_loc     0x0000000000008f9c     0x1578 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .debug_loc     0x000000000000a514     0x2461 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .debug_loc     0x000000000000c975     0x2050 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .debug_loc     0x000000000000e9c5     0x1242 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .debug_loc     0x000000000000fc07     0x1f42 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .debug_loc     0x0000000000011b49     0x2177 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .debug_loc     0x0000000000013cc0     0x1c55 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .debug_loc     0x0000000000015915     0x2123 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .debug_loc     0x0000000000017a38     0x1a29 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .debug_loc     0x0000000000019461     0x18e0 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .debug_loc     0x000000000001ad41     0x2210 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .debug_loc     0x000000000001cf51      0xf74 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .debug_loc     0x000000000001dec5      0xd90 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .debug_loc     0x000000000001ec55      0x5c6 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .debug_loc     0x000000000001f21b      0x76b /tmp/ccrKEgem.ltrans18.ltrans.o
+ .debug_loc     0x000000000001f986       0x90 /tmp/ccrKEgem.ltrans19.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xf20
+ .debug_aranges
+                0x0000000000000000       0x30 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000030       0x30 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000060      0x380 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000000000003e0       0x30 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000410       0x30 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .debug_aranges
+                0x0000000000000440      0x120 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .debug_aranges
+                0x0000000000000560       0xf0 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .debug_aranges
+                0x0000000000000650       0xc0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .debug_aranges
+                0x0000000000000710      0x120 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .debug_aranges
+                0x0000000000000830       0xa0 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .debug_aranges
+                0x00000000000008d0       0x50 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .debug_aranges
+                0x0000000000000920      0x1a0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .debug_aranges
+                0x0000000000000ac0      0x100 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .debug_aranges
+                0x0000000000000bc0       0x80 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .debug_aranges
+                0x0000000000000c40      0x120 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .debug_aranges
+                0x0000000000000d60       0xa0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .debug_aranges
+                0x0000000000000e00       0x40 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .debug_aranges
+                0x0000000000000e40       0x30 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .debug_aranges
+                0x0000000000000e70       0x80 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .debug_aranges
+                0x0000000000000ef0       0x30 /tmp/ccrKEgem.ltrans19.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x4b50
+ .debug_ranges  0x0000000000000000      0xbe0 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000be0      0x820 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000001400      0x7b0 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .debug_ranges  0x0000000000001bb0      0x4d0 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000002080      0x3c0 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000002440      0x450 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000002890      0x530 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .debug_ranges  0x0000000000002dc0       0xe0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .debug_ranges  0x0000000000002ea0      0x360 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .debug_ranges  0x0000000000003200      0x100 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .debug_ranges  0x0000000000003300      0x6c0 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .debug_ranges  0x00000000000039c0      0x450 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .debug_ranges  0x0000000000003e10      0x2d0 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .debug_ranges  0x00000000000040e0      0x220 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .debug_ranges  0x0000000000004300      0x2e0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .debug_ranges  0x00000000000045e0      0x1a0 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .debug_ranges  0x0000000000004780       0xf0 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .debug_ranges  0x0000000000004870      0x180 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .debug_ranges  0x00000000000049f0      0x110 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .debug_ranges  0x0000000000004b00       0x50 /tmp/ccrKEgem.ltrans19.ltrans.o
+
+.debug_line     0x0000000000000000     0xa072
+ .debug_line    0x0000000000000000     0x1296 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .debug_line    0x0000000000001296      0x87f /tmp/ccrKEgem.ltrans1.ltrans.o
+ .debug_line    0x0000000000001b15      0xd1a /tmp/ccrKEgem.ltrans2.ltrans.o
+ .debug_line    0x000000000000282f      0x937 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .debug_line    0x0000000000003166      0x4dd /tmp/ccrKEgem.ltrans4.ltrans.o
+ .debug_line    0x0000000000003643      0xaf0 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .debug_line    0x0000000000004133      0x8e4 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .debug_line    0x0000000000004a17      0x6a1 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .debug_line    0x00000000000050b8      0x82f /tmp/ccrKEgem.ltrans8.ltrans.o
+ .debug_line    0x00000000000058e7      0x912 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .debug_line    0x00000000000061f9      0x787 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .debug_line    0x0000000000006980      0x9e0 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .debug_line    0x0000000000007360      0x8b8 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .debug_line    0x0000000000007c18      0x724 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .debug_line    0x000000000000833c      0x905 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .debug_line    0x0000000000008c41      0x654 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .debug_line    0x0000000000009295      0x46a /tmp/ccrKEgem.ltrans16.ltrans.o
+ .debug_line    0x00000000000096ff      0x2d7 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .debug_line    0x00000000000099d6      0x465 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .debug_line    0x0000000000009e3b      0x237 /tmp/ccrKEgem.ltrans19.ltrans.o
+
+.debug_str      0x0000000000000000     0xc5d4
+ .debug_str     0x0000000000000000     0x42fc /tmp/ccrKEgem.ltrans0.ltrans.o
+                                       0x4a6f (size before relaxing)
+ .debug_str     0x00000000000042fc      0x5b5 /tmp/ccrKEgem.ltrans1.ltrans.o
+                                       0x1838 (size before relaxing)
+ .debug_str     0x00000000000048b1      0xb86 /tmp/ccrKEgem.ltrans2.ltrans.o
+                                       0x22b9 (size before relaxing)
+ .debug_str     0x0000000000005437     0x1433 /tmp/ccrKEgem.ltrans3.ltrans.o
+                                       0x2d53 (size before relaxing)
+ .debug_str     0x000000000000686a      0x9ec /tmp/ccrKEgem.ltrans4.ltrans.o
+                                        0xf33 (size before relaxing)
+ .debug_str     0x0000000000007256      0x90c /tmp/ccrKEgem.ltrans5.ltrans.o
+                                       0x1d04 (size before relaxing)
+ .debug_str     0x0000000000007b62      0x5df /tmp/ccrKEgem.ltrans6.ltrans.o
+                                       0x11fe (size before relaxing)
+ .debug_str     0x0000000000008141     0x144f /tmp/ccrKEgem.ltrans7.ltrans.o
+                                       0x261f (size before relaxing)
+ .debug_str     0x0000000000009590      0x5a5 /tmp/ccrKEgem.ltrans8.ltrans.o
+                                       0x10af (size before relaxing)
+ .debug_str     0x0000000000009b35      0x7b8 /tmp/ccrKEgem.ltrans9.ltrans.o
+                                       0x1e46 (size before relaxing)
+ .debug_str     0x000000000000a2ed      0x2dd /tmp/ccrKEgem.ltrans10.ltrans.o
+                                       0x13e1 (size before relaxing)
+ .debug_str     0x000000000000a5ca      0xb66 /tmp/ccrKEgem.ltrans11.ltrans.o
+                                       0x1821 (size before relaxing)
+ .debug_str     0x000000000000b130      0x4ae /tmp/ccrKEgem.ltrans12.ltrans.o
+                                       0x163c (size before relaxing)
+ .debug_str     0x000000000000b5de      0x4b1 /tmp/ccrKEgem.ltrans13.ltrans.o
+                                       0x14f0 (size before relaxing)
+ .debug_str     0x000000000000ba8f      0x46f /tmp/ccrKEgem.ltrans14.ltrans.o
+                                       0x1c7e (size before relaxing)
+ .debug_str     0x000000000000befe      0x322 /tmp/ccrKEgem.ltrans15.ltrans.o
+                                       0x1b58 (size before relaxing)
+ .debug_str     0x000000000000c220      0x19b /tmp/ccrKEgem.ltrans16.ltrans.o
+                                        0x78b (size before relaxing)
+ .debug_str     0x000000000000c3bb       0xf2 /tmp/ccrKEgem.ltrans17.ltrans.o
+                                        0x7ab (size before relaxing)
+ .debug_str     0x000000000000c4ad       0xe1 /tmp/ccrKEgem.ltrans18.ltrans.o
+                                       0x1116 (size before relaxing)
+ .debug_str     0x000000000000c58e       0x46 /tmp/ccrKEgem.ltrans19.ltrans.o
+                                        0x3ac (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x4240
+ .debug_frame   0x0000000000000000       0x88 /tmp/ccrKEgem.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000088       0x88 /tmp/ccrKEgem.ltrans1.ltrans.o
+ .debug_frame   0x0000000000000110      0x890 /tmp/ccrKEgem.ltrans2.ltrans.o
+ .debug_frame   0x00000000000009a0       0x88 /tmp/ccrKEgem.ltrans3.ltrans.o
+ .debug_frame   0x0000000000000a28      0x2c0 /tmp/ccrKEgem.ltrans4.ltrans.o
+ .debug_frame   0x0000000000000ce8      0x540 /tmp/ccrKEgem.ltrans5.ltrans.o
+ .debug_frame   0x0000000000001228      0x518 /tmp/ccrKEgem.ltrans6.ltrans.o
+ .debug_frame   0x0000000000001740      0x3c0 /tmp/ccrKEgem.ltrans7.ltrans.o
+ .debug_frame   0x0000000000001b00      0x598 /tmp/ccrKEgem.ltrans8.ltrans.o
+ .debug_frame   0x0000000000002098      0x278 /tmp/ccrKEgem.ltrans9.ltrans.o
+ .debug_frame   0x0000000000002310      0x140 /tmp/ccrKEgem.ltrans10.ltrans.o
+ .debug_frame   0x0000000000002450      0x688 /tmp/ccrKEgem.ltrans11.ltrans.o
+ .debug_frame   0x0000000000002ad8      0x5b8 /tmp/ccrKEgem.ltrans12.ltrans.o
+ .debug_frame   0x0000000000003090      0x328 /tmp/ccrKEgem.ltrans13.ltrans.o
+ .debug_frame   0x00000000000033b8      0x5d0 /tmp/ccrKEgem.ltrans14.ltrans.o
+ .debug_frame   0x0000000000003988      0x378 /tmp/ccrKEgem.ltrans15.ltrans.o
+ .debug_frame   0x0000000000003d00      0x268 /tmp/ccrKEgem.ltrans16.ltrans.o
+ .debug_frame   0x0000000000003f68       0x88 /tmp/ccrKEgem.ltrans17.ltrans.o
+ .debug_frame   0x0000000000003ff0      0x208 /tmp/ccrKEgem.ltrans18.ltrans.o
+ .debug_frame   0x00000000000041f8       0x48 /tmp/ccrKEgem.ltrans19.ltrans.o

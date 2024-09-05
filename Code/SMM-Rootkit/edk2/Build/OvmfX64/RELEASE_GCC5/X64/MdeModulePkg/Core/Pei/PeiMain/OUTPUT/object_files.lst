@@ -1,0 +1,15 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/StatusCode/StatusCode.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Security/Security.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Reset/Reset.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Ppi/Ppi.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiMain/PeiMain.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Memory/MemoryServices.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Image/Image.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Hob/Hob.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/FwVol/FwVol.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Dispatcher/Dispatcher.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/Dependency/Dependency.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/BootMode/BootMode.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/CpuIo/CpuIo.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PciCfg2/PciCfg2.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/AutoGen.obj

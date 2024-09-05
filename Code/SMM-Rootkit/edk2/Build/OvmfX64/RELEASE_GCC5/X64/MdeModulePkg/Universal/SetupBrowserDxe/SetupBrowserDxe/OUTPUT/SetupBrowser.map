@@ -1,0 +1,1879 @@
+Archive member included to satisfy reference by file (symbol)
+
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLibDetect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(Setup.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(IfrParse.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(Expression.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(Presentation.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .text.unlikely.EvaluateExpression
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .text.unlikely.InitializeFormSet
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .text.unlikely.SendForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .text.unlikely.ExtractDefault.part.20.lto_priv.26
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .text.unlikely.ValueChangeResetFlagUpdate.part.12.lto_priv.30
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .text.unlikely.SubmitCallbackForForm.part.9.lto_priv.29
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .text.unlikely.SubmitCallback.part.10.lto_priv.28
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .text.unlikely.SubmitForFormSet.part.13.lto_priv.27
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .text.unlikely.SetValueByName.part.4.lto_priv.24
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.FormUpdateNotify
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.ProcessChangedData
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.GetFormsetGuidFromHiiHandle
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.FindParentFormSet
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.HiiGetString.constprop.4
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.StorageToConfigResp.constprop.2
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.IsNvUpdateRequiredForForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.IsNvUpdateRequiredForFormSet
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.FindNextMenu
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.ProcessCallBackFunction.constprop.0
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.DevicePathToHiiHandle
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.ProcessGotoOpCode
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.UpdateStatementStatusForFormSet
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.unlikely.UpdateStatementStatus
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.unlikely.ValidateQuestion
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.unlikely.SynchronizeStorage
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.unlikely.NoSubmitCheck
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.unlikely.ValueChangedValidation
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.unlikely.SetQuestionValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.unlikely.GetQuestionValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.unlikely.SendDiscardInfoToDriver
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.EfiEventEmptyFunction
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.InternalSafeStringNoStrOverlap
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.AllocatePool
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.UnicodeSPrint
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.BasePrintLibValueToString
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.BasePrintLibFillBuffer
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.UnicodeValueToStringS
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.4.lto_priv.23
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrStr
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrCmp
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrLen
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrSize
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrnLenS
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrCatS
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrnCpyS
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.StrCpyS
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.RemoveEntryList
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.UiFreeMenuList
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.CompareGuid
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.UiFindParentMenu
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.AllocateCopyPool
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.CompareMem
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.ZeroMem
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.AllocateZeroPool
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.PopupErrorMessage
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.UiCopyMenuList
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.unlikely.HiiGetSupportedLanguages
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.DestroyExpression
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.GetFstStgFromBrsStg
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.GetFstStgFromVarId
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.InitializeRequestElement
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.CreateStorage
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.CreateExpression
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.CreateStatement
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text.unlikely.CreateQuestion
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .rodata._gDriverUnloadImageCount
+                0x0000000000000000        0x1 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.IdToQuestion2
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.HiiValueToUINT64
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.ExtendValueToU64
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.GetBufferForValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.GetLengthForValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.IsTypeInBuffer
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.CompareHiiValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.IfrStrToUpper
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.InitializeUnicodeCollationProtocol
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.IdToQuestion
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.PopExpression
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.PopScope
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.PushConditionalStack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.PushStack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.PushScope
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.IsStatementOpCode
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.IsExpressionOpCode
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.DestroyFormSet
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.unlikely.GetQuestionValueFromForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .text.unlikely.HiiToLower
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .text.unlikely.GetQuestionDefault
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .text.unlikely.SubmitForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text.unlikely.BasePrintLibSPrintMarker.constprop.15
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.14
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.13
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text.unlikely.GetBestLanguage.constprop.7
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text.unlikely.HiiGetHiiHandles.constprop.6
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text.unlikely.HiiSetString.constprop.5
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .text.unlikely.ConfigRequestAdjust
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .text.unlikely.CleanBrowserStorage
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .text.unlikely.LoadFormSetConfig
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .text.unlikely.IsQuestionValueChanged
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .text.unlikely.ExtractDefault
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .text.unlikely.InitializeCurrentSetting
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text.unlikely.ConfirmSaveFail
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text.unlikely.GetSyncRestoreConfigRequest
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text.unlikely.UpdateFlagForForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text.unlikely.ValidateHiiHandle
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text.unlikely.ValidateFormSet
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text.unlikely.SubmitForSystem
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text.unlikely.DiscardForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.FormDisplayCallback
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.SetBitsQuestionValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.GetBitsQuestionValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.BufferToValue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.ConfigRespToStorage
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.ProcessStorage
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.BrowserCallback
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.NewStringCpy
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.NewStringCat
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.GetToken
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.DeleteString
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.unlikely.NewString
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.IsResetRequired
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.RegiserExitHandler
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.SetScope
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.SaveReminder
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.ExecuteAction
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.IsBrowserDataModified
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.RegisterHotKey
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.PasswordCheck
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.GetValueByName.part.3.lto_priv.25
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.IsHiiHandleInBrowserContext
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text.unlikely.GetFormSetFromHiiHandle
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.RefreshEventNotifyForForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.FreeStatementData
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.UpdateStatement
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.RefreshIntervalProcess
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.RefreshEventNotifyForStatement
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.UpdateStatementStatusForForm
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.GetBrowserStatement
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.FreeDisplayFormData
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.IsTrue
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.unlikely.EvaluateExpressionList
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+ .text.unlikely.StrHexToUint64S.constprop.18
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+ .text          0x0000000000000000        0x0 DxePcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+ .text          0x0000000000000000       0x2a /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000      0x116 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLibDetect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiHiiServicesLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLanguage.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Setup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IfrParse.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Expression.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Presentation.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/cc4PSeEJ.ltrans0.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans1.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans2.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans3.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans4.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans5.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans6.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans7.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans8.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans9.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans10.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans11.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans12.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans13.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans14.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans15.ltrans.o
+LOAD /tmp/cc4PSeEJ.ltrans16.ltrans.o
+START GROUP
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0xfe6c
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.EvaluateExpression
+                0x0000000000000240     0x266c /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                0x0000000000000240                EvaluateExpression
+ .text.InitializeFormSet
+                0x00000000000028ac     0x22c7 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+                0x00000000000028ac                InitializeFormSet
+ .text.SendForm
+                0x0000000000004b73     0x183c /tmp/cc4PSeEJ.ltrans2.ltrans.o
+                0x0000000000004b73                SendForm
+ .text.ExtractDefault.part.20.lto_priv.26
+                0x00000000000063af      0x697 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x00000000000063af                ExtractDefault.part.20.lto_priv.26
+ .text.ValueChangeResetFlagUpdate.part.12.lto_priv.30
+                0x0000000000006a46       0x3d /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x0000000000006a46                ValueChangeResetFlagUpdate.part.12.lto_priv.30
+ .text.SubmitCallbackForForm.part.9.lto_priv.29
+                0x0000000000006a83       0x8d /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x0000000000006a83                SubmitCallbackForForm.part.9.lto_priv.29
+ .text.SubmitCallback.part.10.lto_priv.28
+                0x0000000000006b10       0x3a /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x0000000000006b10                SubmitCallback.part.10.lto_priv.28
+ .text.SubmitForFormSet.part.13.lto_priv.27
+                0x0000000000006b4a      0x55c /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x0000000000006b4a                SubmitForFormSet.part.13.lto_priv.27
+ .text.SetValueByName.part.4.lto_priv.24
+                0x00000000000070a6       0xfb /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x00000000000070a6                SetValueByName.part.4.lto_priv.24
+ .text.FormUpdateNotify
+                0x00000000000071a1        0xa /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000071a1                FormUpdateNotify
+ .text.ProcessChangedData
+                0x00000000000071ab       0x59 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.GetFormsetGuidFromHiiHandle
+                0x0000000000007204      0x16c /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.FindParentFormSet
+                0x0000000000007370       0x73 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .text.HiiGetString.constprop.4
+                0x00000000000073e3      0x1ae /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000073e3                HiiGetString.constprop.4
+ .text.StorageToConfigResp.constprop.2
+                0x0000000000007591       0xe8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000007591                StorageToConfigResp.constprop.2
+ .text.IsNvUpdateRequiredForForm
+                0x0000000000007679       0x21 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000007679                IsNvUpdateRequiredForForm
+ .text.IsNvUpdateRequiredForFormSet
+                0x000000000000769a       0x2f /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x000000000000769a                IsNvUpdateRequiredForFormSet
+ .text.FindNextMenu
+                0x00000000000076c9      0x121 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000076c9                FindNextMenu
+ .text.ProcessCallBackFunction.constprop.0
+                0x00000000000077ea      0x4d8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000077ea                ProcessCallBackFunction.constprop.0
+ .text.DevicePathToHiiHandle
+                0x0000000000007cc2       0xde /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000007cc2                DevicePathToHiiHandle
+ .text.ProcessGotoOpCode
+                0x0000000000007da0      0x2ed /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000007da0                ProcessGotoOpCode
+ .text.UpdateStatementStatusForFormSet
+                0x000000000000808d       0x30 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x000000000000808d                UpdateStatementStatusForFormSet
+ .text.UpdateStatementStatus
+                0x00000000000080bd       0x4f /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000080bd                UpdateStatementStatus
+ .text.ValidateQuestion
+                0x000000000000810c      0x130 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .text.SynchronizeStorage
+                0x000000000000823c      0x150 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                0x000000000000823c                SynchronizeStorage
+ .text.NoSubmitCheck
+                0x000000000000838c       0xb1 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                0x000000000000838c                NoSubmitCheck
+ .text.ValueChangedValidation
+                0x000000000000843d       0x59 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                0x000000000000843d                ValueChangedValidation
+ .text.SetQuestionValue
+                0x0000000000008496      0x671 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                0x0000000000008496                SetQuestionValue
+ .text.GetQuestionValue
+                0x0000000000008b07      0x599 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                0x0000000000008b07                GetQuestionValue
+ .text.SendDiscardInfoToDriver
+                0x00000000000090a0       0xe8 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                0x00000000000090a0                SendDiscardInfoToDriver
+ .text.EfiEventEmptyFunction
+                0x0000000000009188        0x1 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text.InternalSafeStringNoStrOverlap
+                0x0000000000009189       0x29 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .text._ModuleEntryPoint
+                0x00000000000091b2      0x2e8 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x00000000000091b2                _ModuleEntryPoint
+ .text.FreePool
+                0x000000000000949a        0xa /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x000000000000949a                FreePool
+ .text.AllocatePool
+                0x00000000000094a4        0xf /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x00000000000094a4                AllocatePool
+ .text.UnicodeSPrint
+                0x00000000000094b3       0x32 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x00000000000094b3                UnicodeSPrint
+ .text.BasePrintLibValueToString
+                0x00000000000094e5       0x25 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x00000000000094e5                BasePrintLibValueToString
+ .text.BasePrintLibFillBuffer
+                0x000000000000950a       0x2e /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x000000000000950a                BasePrintLibFillBuffer
+ .text.UnicodeValueToStringS
+                0x0000000000009538      0x256 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009538                UnicodeValueToStringS
+ .text.AsciiStrnCmp.part.4.lto_priv.23
+                0x000000000000978e       0x47 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x000000000000978e                AsciiStrnCmp.part.4.lto_priv.23
+ .text.StrStr   0x00000000000097d5       0x44 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x00000000000097d5                StrStr
+ .text.StrCmp   0x0000000000009819       0x1f /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009819                StrCmp
+ .text.StrLen   0x0000000000009838        0xf /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009838                StrLen
+ .text.StrSize  0x0000000000009847       0x13 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009847                StrSize
+ .text.StrnLenS
+                0x000000000000985a       0x27 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x000000000000985a                StrnLenS
+ .text.StrCatS  0x0000000000009881       0xba /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009881                StrCatS
+ .text.StrnCpyS
+                0x000000000000993b       0xbe /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x000000000000993b                StrnCpyS
+ .text.StrCpyS  0x00000000000099f9       0x98 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x00000000000099f9                StrCpyS
+ .text.RemoveEntryList
+                0x0000000000009a91       0x19 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009a91                RemoveEntryList
+ .text.UiFreeMenuList
+                0x0000000000009aaa       0x29 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009aaa                UiFreeMenuList
+ .text.CompareGuid
+                0x0000000000009ad3       0x19 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009ad3                CompareGuid
+ .text.UiFindParentMenu
+                0x0000000000009aec       0x48 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009aec                UiFindParentMenu
+ .text.CopyMem  0x0000000000009b34       0x13 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009b34                CopyMem
+ .text.AllocateCopyPool
+                0x0000000000009b47       0x3c /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009b47                AllocateCopyPool
+ .text.CompareMem
+                0x0000000000009b83       0x12 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009b83                CompareMem
+ .text.ZeroMem  0x0000000000009b95        0xe /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009b95                ZeroMem
+ .text.AllocateZeroPool
+                0x0000000000009ba3       0x27 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009ba3                AllocateZeroPool
+ .text.PopupErrorMessage
+                0x0000000000009bca       0xb1 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009bca                PopupErrorMessage
+ .text.UiCopyMenuList
+                0x0000000000009c7b       0x8f /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009c7b                UiCopyMenuList
+ .text.HiiGetSupportedLanguages
+                0x0000000000009d0a       0x81 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                0x0000000000009d0a                HiiGetSupportedLanguages
+ .text.DestroyExpression
+                0x0000000000009d8b       0xa9 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x0000000000009d8b                DestroyExpression
+ .text.GetFstStgFromBrsStg
+                0x0000000000009e34       0x3f /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x0000000000009e34                GetFstStgFromBrsStg
+ .text.GetFstStgFromVarId
+                0x0000000000009e73       0x25 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x0000000000009e73                GetFstStgFromVarId
+ .text.InitializeRequestElement
+                0x0000000000009e98      0x2b8 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x0000000000009e98                InitializeRequestElement
+ .text.CreateStorage
+                0x000000000000a150      0x58b /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x000000000000a150                CreateStorage
+ .text.CreateExpression
+                0x000000000000a6db       0x2f /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x000000000000a6db                CreateExpression
+ .text.CreateStatement
+                0x000000000000a70a      0x197 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x000000000000a70a                CreateStatement
+ .text.CreateQuestion
+                0x000000000000a8a1      0x185 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x000000000000a8a1                CreateQuestion
+ .text.IdToQuestion2
+                0x000000000000aa26       0x2d /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .text.HiiValueToUINT64
+                0x000000000000aa53       0x35 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000aa53                HiiValueToUINT64
+ .text.ExtendValueToU64
+                0x000000000000aa88       0x36 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000aa88                ExtendValueToU64
+ .text.GetBufferForValue
+                0x000000000000aabe       0x2a /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000aabe                GetBufferForValue
+ .text.GetLengthForValue
+                0x000000000000aae8       0x30 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000aae8                GetLengthForValue
+ .text.IsTypeInBuffer
+                0x000000000000ab18       0x1a /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000ab18                IsTypeInBuffer
+ .text.CompareHiiValue
+                0x000000000000ab32      0x1aa /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000ab32                CompareHiiValue
+ .text.IfrStrToUpper
+                0x000000000000acdc       0x1e /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000acdc                IfrStrToUpper
+ .text.InitializeUnicodeCollationProtocol
+                0x000000000000acfa       0x34 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000acfa                InitializeUnicodeCollationProtocol
+ .text.IdToQuestion
+                0x000000000000ad2e       0x74 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000ad2e                IdToQuestion
+ .text.PopExpression
+                0x000000000000ada2       0x4b /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000ada2                PopExpression
+ .text.PopScope
+                0x000000000000aded       0x53 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000aded                PopScope
+ .text.PushConditionalStack
+                0x000000000000ae40       0xd3 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000ae40                PushConditionalStack
+ .text.PushStack
+                0x000000000000af13      0x113 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000af13                PushStack
+ .text.PushScope
+                0x000000000000b026       0x32 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000b026                PushScope
+ .text.IsStatementOpCode
+                0x000000000000b058       0x5a /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000b058                IsStatementOpCode
+ .text.IsExpressionOpCode
+                0x000000000000b0b2       0x42 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000b0b2                IsExpressionOpCode
+ .text.DestroyFormSet
+                0x000000000000b0f4      0x3de /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000b0f4                DestroyFormSet
+ .text.GetQuestionValueFromForm
+                0x000000000000b4d2       0xfe /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x000000000000b4d2                GetQuestionValueFromForm
+ .text.HiiToLower
+                0x000000000000b5d0       0x3c /tmp/cc4PSeEJ.ltrans9.ltrans.o
+                0x000000000000b5d0                HiiToLower
+ .text.GetQuestionDefault
+                0x000000000000b60c      0x841 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+                0x000000000000b60c                GetQuestionDefault
+ .text.SubmitForm
+                0x000000000000be4d      0x2af /tmp/cc4PSeEJ.ltrans9.ltrans.o
+                0x000000000000be4d                SubmitForm
+ .text.BasePrintLibSPrintMarker.constprop.15
+                0x000000000000c0fc      0xe86 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x000000000000c0fc                BasePrintLibSPrintMarker.constprop.15
+ .text.BasePrintLibSPrint.constprop.14
+                0x000000000000cf82       0x29 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .text.InternalAllocatePool.constprop.13
+                0x000000000000cfab       0x37 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x000000000000cfab                InternalAllocatePool.constprop.13
+ .text.GetBestLanguage.constprop.7
+                0x000000000000cfe2      0x103 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x000000000000cfe2                GetBestLanguage.constprop.7
+ .text.HiiGetHiiHandles.constprop.6
+                0x000000000000d0e5       0x8b /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x000000000000d0e5                HiiGetHiiHandles.constprop.6
+ .text.HiiSetString.constprop.5
+                0x000000000000d170      0x122 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x000000000000d170                HiiSetString.constprop.5
+ .text.ConfigRequestAdjust
+                0x000000000000d292      0x266 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                0x000000000000d292                ConfigRequestAdjust
+ .text.CleanBrowserStorage
+                0x000000000000d4f8      0x1a4 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                0x000000000000d4f8                CleanBrowserStorage
+ .text.LoadFormSetConfig
+                0x000000000000d69c       0xb8 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                0x000000000000d69c                LoadFormSetConfig
+ .text.IsQuestionValueChanged
+                0x000000000000d754      0x24e /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                0x000000000000d754                IsQuestionValueChanged
+ .text.ExtractDefault
+                0x000000000000d9a2       0x42 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                0x000000000000d9a2                ExtractDefault
+ .text.InitializeCurrentSetting
+                0x000000000000d9e4      0x2c3 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                0x000000000000d9e4                InitializeCurrentSetting
+ .text.ConfirmSaveFail
+                0x000000000000dca7       0x78 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x000000000000dca7                ConfirmSaveFail
+ .text.GetSyncRestoreConfigRequest
+                0x000000000000dd1f      0x188 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x000000000000dd1f                GetSyncRestoreConfigRequest
+ .text.UpdateFlagForForm
+                0x000000000000dea7       0x81 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x000000000000dea7                UpdateFlagForForm
+ .text.ValidateHiiHandle
+                0x000000000000df28       0x49 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x000000000000df28                ValidateHiiHandle
+ .text.ValidateFormSet
+                0x000000000000df71       0x4b /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x000000000000df71                ValidateFormSet
+ .text.SubmitForSystem
+                0x000000000000dfbc      0x363 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x000000000000dfbc                SubmitForSystem
+ .text.DiscardForm
+                0x000000000000e31f      0x190 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x000000000000e31f                DiscardForm
+ .text.FormDisplayCallback
+                0x000000000000e4af       0x2b /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000e4af                FormDisplayCallback
+ .text.SetBitsQuestionValue
+                0x000000000000e4da       0x9d /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000e4da                SetBitsQuestionValue
+ .text.GetBitsQuestionValue
+                0x000000000000e577       0x76 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000e577                GetBitsQuestionValue
+ .text.BufferToValue
+                0x000000000000e5ed      0x23f /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000e5ed                BufferToValue
+ .text.ConfigRespToStorage
+                0x000000000000e82c      0x112 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000e82c                ConfigRespToStorage
+ .text.ProcessStorage
+                0x000000000000e93e      0x163 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .text.BrowserCallback
+                0x000000000000eaa1      0x1bb /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000eaa1                BrowserCallback
+ .text.NewStringCpy
+                0x000000000000ec5c       0x3f /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000ec5c                NewStringCpy
+ .text.NewStringCat
+                0x000000000000ec9b       0x74 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000ec9b                NewStringCat
+ .text.GetToken
+                0x000000000000ed0f       0x47 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000ed0f                GetToken
+ .text.DeleteString
+                0x000000000000ed56       0x25 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000ed56                DeleteString
+ .text.NewString
+                0x000000000000ed7b       0x19 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x000000000000ed7b                NewString
+ .text.IsResetRequired
+                0x000000000000ed94        0x7 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000ed94                IsResetRequired
+ .text.RegiserExitHandler
+                0x000000000000ed9b        0x8 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000ed9b                RegiserExitHandler
+ .text.SetScope
+                0x000000000000eda3       0x4e /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000eda3                SetScope
+ .text.SaveReminder
+                0x000000000000edf1       0x8e /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000edf1                SaveReminder
+ .text.ExecuteAction
+                0x000000000000ee7f      0x134 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000ee7f                ExecuteAction
+ .text.IsBrowserDataModified
+                0x000000000000efb3       0x8b /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000efb3                IsBrowserDataModified
+ .text.RegisterHotKey
+                0x000000000000f03e      0x125 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000f03e                RegisterHotKey
+ .text.PasswordCheck
+                0x000000000000f163       0xb8 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000f163                PasswordCheck
+ .text.GetValueByName.part.3.lto_priv.25
+                0x000000000000f21b       0x7f /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000f21b                GetValueByName.part.3.lto_priv.25
+ .text.IsHiiHandleInBrowserContext
+                0x000000000000f29a       0x2f /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000f29a                IsHiiHandleInBrowserContext
+ .text.GetFormSetFromHiiHandle
+                0x000000000000f2c9       0x46 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x000000000000f2c9                GetFormSetFromHiiHandle
+ .text.RefreshEventNotifyForForm
+                0x000000000000f30f       0x23 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f30f                RefreshEventNotifyForForm
+ .text.FreeStatementData
+                0x000000000000f332       0x71 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.UpdateStatement
+                0x000000000000f3a3       0x65 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .text.RefreshIntervalProcess
+                0x000000000000f408       0x54 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f408                RefreshIntervalProcess
+ .text.RefreshEventNotifyForStatement
+                0x000000000000f45c       0x22 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f45c                RefreshEventNotifyForStatement
+ .text.UpdateStatementStatusForForm
+                0x000000000000f47e       0x41 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f47e                UpdateStatementStatusForForm
+ .text.GetBrowserStatement
+                0x000000000000f4bf       0x2e /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f4bf                GetBrowserStatement
+ .text.FreeDisplayFormData
+                0x000000000000f4ed       0x9a /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f4ed                FreeDisplayFormData
+ .text.IsTrue   0x000000000000f587       0x3a /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f587                IsTrue
+ .text.EvaluateExpressionList
+                0x000000000000f5c1       0xa2 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x000000000000f5c1                EvaluateExpressionList
+ .text.StrHexToUint64S.constprop.18
+                0x000000000000f663      0x157 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+                0x000000000000f663                StrHexToUint64S.constprop.18
+ *fill*         0x000000000000f7ba        0x6 
+ .text          0x000000000000f7c0       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                0x000000000000f7c0                InternalMemCompareMem
+ *fill*         0x000000000000f7dd        0x3 
+ .text          0x000000000000f7e0       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                0x000000000000f7e0                InternalMemZeroMem
+ *fill*         0x000000000000f7fd        0x3 
+ .text          0x000000000000f800       0x3c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                0x000000000000f800                InternalMemCopyMem
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str2.2
+                0x000000000000f83c       0x50 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                                         0x56 (size before relaxing)
+ .rodata.EvaluateExpression
+                0x000000000000f88c      0x1c0 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .rodata.InitializeFormSet
+                0x000000000000fa4c      0x1c0 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .rodata.CSWTCH.89
+                0x000000000000fc0c        0x3 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .rodata.str2.2
+                0x000000000000fc0f       0x50 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+                                          0x2 (size before relaxing)
+ *fill*         0x000000000000fc0f        0x1 
+ .rodata.str2.2
+                0x000000000000fc10       0x22 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                                         0x32 (size before relaxing)
+ .rodata.str1.1
+                0x000000000000fc32        0x0 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                                          0x1 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000fc32       0x1e /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                                         0x22 (size before relaxing)
+ .rodata.ProcessCallBackFunction.constprop.0
+                0x000000000000fc50       0x20 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .rodata.str2.2
+                0x000000000000fc70        0xe /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                                         0x26 (size before relaxing)
+ *fill*         0x000000000000fc7e        0x2 
+ .rodata.mHexStr
+                0x000000000000fc80       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .rodata.str2.2
+                0x000000000000fc90       0x54 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                                         0x60 (size before relaxing)
+ .rodata.HiiValueToUINT64
+                0x000000000000fce4       0x1c /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .rodata.ExtendValueToU64
+                0x000000000000fd00       0x1c /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .rodata.str2.2
+                0x000000000000fd1c       0x10 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .rodata.str1.1
+                0x000000000000fd1c      0x2a6 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                                        0x2b7 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000ffc2       0x56 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                                         0x68 (size before relaxing)
+ .rodata.str2.2
+                0x0000000000010018       0x76 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                                         0xa8 (size before relaxing)
+ .rodata.str2.2
+                0x000000000001008e        0x4 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                                         0x16 (size before relaxing)
+ *fill*         0x0000000000010092        0x2 
+ .rodata.IsTrue
+                0x0000000000010094       0x14 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x00000000000100a8        0x4 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+                0x00000000000100a8                _gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+                0x00000000000100a8                _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+ *(.got .got.*)
+ .got           0x00000000000100ac        0x0 DxePcdLib.obj (symbol from plugin)
+ .got.plt       0x00000000000100ac        0x0 DxePcdLib.obj (symbol from plugin)
+                0x00000000000100ac                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x00000000000100b0        0x0
+ .plt           0x00000000000100b0        0x0 DxePcdLib.obj (symbol from plugin)
+
+.data           0x00000000000100c0      0x610
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiUserManagerProtocolGuid
+                0x00000000000100c0       0x10 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .data.gEfiRegularExpressionProtocolGuid
+                0x00000000000100d0       0x10 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .data.gEfiHiiPlatformSetupFormsetGuid
+                0x00000000000100e0       0x10 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+                0x00000000000100e0                gEfiHiiPlatformSetupFormsetGuid
+ .data.gEdkiiIfrBitVarstoreGuid
+                0x00000000000100f0       0x10 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .data.gEfiHiiStandardFormGuid
+                0x0000000000010100       0x10 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .data.gEfiHiiConfigAccessProtocolGuid
+                0x0000000000010110       0x10 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .data.rel.local.mPrivateData
+                0x0000000000010120       0x98 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x0000000000010120                mPrivateData
+ *fill*         0x00000000000101b8        0x8 
+ .data.rel.local.gBrowserSaveFailFormSetList
+                0x00000000000101c0       0x10 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x00000000000101c0                gBrowserSaveFailFormSetList
+ .data.rel.local.gBrowserFormSetList
+                0x00000000000101d0       0x10 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000101d0                gBrowserFormSetList
+ .data.gEfiDevicePathProtocolGuid
+                0x00000000000101e0       0x10 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000101e0                gEfiDevicePathProtocolGuid
+ .data.gBrowserSettingScope
+                0x00000000000101f0        0x4 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x00000000000101f0                gBrowserSettingScope
+ *fill*         0x00000000000101f4        0xc 
+ .data.gEfiGlobalVariableGuid
+                0x0000000000010200       0x10 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .data.gEdkiiFormBrowserExProtocolGuid
+                0x0000000000010210       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEdkiiFormBrowserEx2ProtocolGuid
+                0x0000000000010220       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiFormBrowser2ProtocolGuid
+                0x0000000000010230       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiDevicePathFromTextProtocolGuid
+                0x0000000000010240       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x0000000000010250       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000010260       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000010270       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x0000000000010280       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x0000000000010290       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x00000000000102a0       0x10 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .data.rel.local.gBrowserStorageList
+                0x00000000000102b0       0x10 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000102b0                gBrowserStorageList
+ .data.gEfiUnicodeCollation2ProtocolGuid
+                0x00000000000102c0       0x10 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ *fill*         0x00000000000102d0       0x10 
+ .data.rel.ro.local.mStatusString
+                0x00000000000102e0      0x138 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ *fill*         0x0000000000010418        0x8 
+ .data.gEdkiiFormDisplayEngineProtocolGuid
+                0x0000000000010420       0x10 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                0x0000000000010420                gEdkiiFormDisplayEngineProtocolGuid
+ .data.rel.local.gBrowserContextList
+                0x0000000000010430       0x10 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x0000000000010430                gBrowserContextList
+ .data.mBrowserScopeFirstSet
+                0x0000000000010440        0x1 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ *fill*         0x0000000000010441        0xf 
+ .data.rel.local.gBrowserHotKeyList
+                0x0000000000010450       0x10 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x0000000000010450                gBrowserHotKeyList
+ .data.rel.local.mRefreshEventList
+                0x0000000000010460       0x10 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x0000000000010460                mRefreshEventList
+ *(.bss .bss.*)
+ .bss.mUserManager
+                0x0000000000010470        0x8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .bss.mExpressionEvaluationStackEnd
+                0x0000000000010478        0x8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .bss.mExpressionEvaluationStackPointer
+                0x0000000000010480        0x8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                0x0000000000010480                mExpressionEvaluationStackPointer
+ .bss.mExpressionEvaluationStack
+                0x0000000000010488        0x8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                0x0000000000010488                mExpressionEvaluationStack
+ .bss.mExpressionEvaluationStackOffset
+                0x0000000000010490        0x8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                0x0000000000010490                mExpressionEvaluationStackOffset
+ .bss.mUnicodeCollation
+                0x0000000000010498        0x8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                0x0000000000010498                mUnicodeCollation
+ .bss.gEmptyString
+                0x00000000000104a0        0x8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                0x00000000000104a0                gEmptyString
+ *fill*         0x00000000000104a8        0x8 
+ .bss.gZeroGuid
+                0x00000000000104b0       0x10 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+                0x00000000000104b0                gZeroGuid
+ .bss.mMapExpressionListEnd
+                0x00000000000104c0        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mCurrentExpressionEnd
+                0x00000000000104c8        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mOptionExpressionEnd
+                0x00000000000104d0        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mStatementExpressionEnd
+                0x00000000000104d8        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mFormExpressionEnd
+                0x00000000000104e0        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mFormExpressionPointer
+                0x00000000000104e8        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mMapExpressionListPointer
+                0x00000000000104f0        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mMapExpressionListStack
+                0x00000000000104f8        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mCurrentExpressionPointer
+                0x0000000000010500        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mCurrentExpressionStack
+                0x0000000000010508        0x8 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mExpressionOpCodeIndex
+                0x0000000000010510        0x2 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mUsedQuestionId
+                0x0000000000010512        0x2 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .bss.mFinishRetrieveCall
+                0x0000000000010514        0x1 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ *fill*         0x0000000000010515        0x1 
+ .bss.mCurFakeQestId
+                0x0000000000010516        0x2 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ *fill*         0x0000000000010518        0x8 
+ .bss.mCurrentFormSetGuid
+                0x0000000000010520       0x10 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .bss.mCurrentFormId
+                0x0000000000010530        0x2 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ *fill*         0x0000000000010532        0x6 
+ .bss.gBrowserContextCount
+                0x0000000000010538        0x8 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .bss.mSystemLevelFormSet
+                0x0000000000010540        0x8 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                0x0000000000010540                mSystemLevelFormSet
+ .bss.mHiiDatabase
+                0x0000000000010548        0x8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010548                mHiiDatabase
+ .bss.mFormDisplay
+                0x0000000000010550        0x8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010550                mFormDisplay
+ .bss.mPathFromText
+                0x0000000000010558        0x8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010558                mPathFromText
+ .bss.mHiiPackageListUpdated
+                0x0000000000010560        0x1 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010560                mHiiPackageListUpdated
+ *fill*         0x0000000000010561        0x7 
+ .bss.gCurrentSelection
+                0x0000000000010568        0x8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010568                gCurrentSelection
+ .bss.gCallbackReconnect
+                0x0000000000010570        0x1 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010570                gCallbackReconnect
+ .bss.gResetRequiredSystemLevel
+                0x0000000000010571        0x1 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010571                gResetRequiredSystemLevel
+ .bss.gResetRequiredFormLevel
+                0x0000000000010572        0x1 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010572                gResetRequiredFormLevel
+ *fill*         0x0000000000010573        0x5 
+ .bss.mHiiConfigRouting
+                0x0000000000010578        0x8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010578                mHiiConfigRouting
+ .bss.gRT       0x0000000000010580        0x8 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                0x0000000000010580                gRT
+ .bss.gST       0x0000000000010588        0x8 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .bss.gHiiImage
+                0x0000000000010590        0x8 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .bss.gHiiFont  0x0000000000010598        0x8 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .bss.gHiiConfigRouting
+                0x00000000000105a0        0x8 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .bss.mOptionExpressionPointer
+                0x00000000000105a8        0x8 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000105a8                mOptionExpressionPointer
+ .bss.mStatementExpressionPointer
+                0x00000000000105b0        0x8 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000105b0                mStatementExpressionPointer
+ .bss.mOptionExpressionStack
+                0x00000000000105b8        0x8 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000105b8                mOptionExpressionStack
+ .bss.mStatementExpressionStack
+                0x00000000000105c0        0x8 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000105c0                mStatementExpressionStack
+ .bss.mFormExpressionStack
+                0x00000000000105c8        0x8 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000105c8                mFormExpressionStack
+ .bss.mStatementIndex
+                0x00000000000105d0        0x2 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000105d0                mStatementIndex
+ *fill*         0x00000000000105d2        0x6 
+ .bss.mDevicePathLibDevicePathUtilities
+                0x00000000000105d8        0x8 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                0x00000000000105d8                mDevicePathLibDevicePathUtilities
+ .bss.mOpCodeScopeStackEnd
+                0x00000000000105e0        0x8 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .bss.mOpCodeScopeStackPointer
+                0x00000000000105e8        0x8 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x00000000000105e8                mOpCodeScopeStackPointer
+ .bss.mOpCodeScopeStack
+                0x00000000000105f0        0x8 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                0x00000000000105f0                mOpCodeScopeStack
+ .bss.gHiiString
+                0x00000000000105f8        0x8 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x00000000000105f8                gHiiString
+ .bss.gHiiDatabase
+                0x0000000000010600        0x8 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x0000000000010600                gHiiDatabase
+ .bss.gBS       0x0000000000010608        0x8 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                0x0000000000010608                gBS
+ .bss.gFlagReconnect
+                0x0000000000010610        0x1 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x0000000000010610                gFlagReconnect
+ .bss.mSystemSubmit
+                0x0000000000010611        0x1 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                0x0000000000010611                mSystemSubmit
+ *fill*         0x0000000000010612        0x6 
+ .bss.mCurrentHiiHandle
+                0x0000000000010618        0x8 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x0000000000010618                mCurrentHiiHandle
+ .bss.gExitRequired
+                0x0000000000010620        0x1 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x0000000000010620                gExitRequired
+ *fill*         0x0000000000010621        0x7 
+ .bss.ExitHandlerFunction
+                0x0000000000010628        0x8 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                0x0000000000010628                ExitHandlerFunction
+ .bss.mValueChangedEvent
+                0x0000000000010630        0x8 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x0000000000010630                mValueChangedEvent
+ *fill*         0x0000000000010638        0x8 
+ .bss.gDisplayFormData
+                0x0000000000010640       0x90 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                0x0000000000010640                gDisplayFormData
+
+.eh_frame       0x0000000000010700        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000010700        0x0
+ .dynbss        0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000010700        0x0
+ .gnu.version_d
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000010700        0x0
+ .gnu.version   0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000010700        0x0
+ .gnu.version_r
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.rela           0x0000000000010700      0x5e8
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text     0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EvaluateExpression
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.InitializeFormSet
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SendForm
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ExtractDefault.part.20.lto_priv.26
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ValueChangeResetFlagUpdate.part.12.lto_priv.30
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SubmitForFormSet.part.13.lto_priv.27
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SetValueByName.part.4.lto_priv.24
+                0x0000000000010700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPrivateData
+                0x0000000000010700      0x120 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserSaveFailFormSetList
+                0x0000000000010820       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ProcessChangedData
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetFormsetGuidFromHiiHandle
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FindParentFormSet
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetString.constprop.4
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.StorageToConfigResp.constprop.2
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FindNextMenu
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ProcessCallBackFunction.constprop.0
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DevicePathToHiiHandle
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ProcessGotoOpCode
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateStatementStatusForFormSet
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UpdateStatementStatus
+                0x0000000000010850        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserFormSetList
+                0x0000000000010850       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ValidateQuestion
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SynchronizeStorage
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SetQuestionValue
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetQuestionValue
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SendDiscardInfoToDriver
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text._ModuleEntryPoint
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FreePool
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AllocatePool
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UnicodeSPrint
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AllocateCopyPool
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AllocateZeroPool
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.PopupErrorMessage
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetSupportedLanguages
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.InitializeRequestElement
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.CreateStorage
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.CreateQuestion
+                0x0000000000010880        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserStorageList
+                0x0000000000010880       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.text.CompareHiiValue
+                0x00000000000108b0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.InitializeUnicodeCollationProtocol
+                0x00000000000108b0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DestroyFormSet
+                0x00000000000108b0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetQuestionDefault
+                0x00000000000108b0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SubmitForm
+                0x00000000000108b0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BasePrintLibSPrintMarker.constprop.15
+                0x00000000000108b0        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x00000000000108b0      0x3a8 DxePcdLib.obj (symbol from plugin)
+ .rela.text.InitializeCurrentSetting
+                0x0000000000010c58        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ConfirmSaveFail
+                0x0000000000010c58        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.SubmitForSystem
+                0x0000000000010c58        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DiscardForm
+                0x0000000000010c58        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BufferToValue
+                0x0000000000010c58        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.PasswordCheck
+                0x0000000000010c58        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserContextList
+                0x0000000000010c58       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserHotKeyList
+                0x0000000000010c88       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mRefreshEventList
+                0x0000000000010cb8       0x30 DxePcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000010ce8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000010ce8       0x24 DxePcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/DEBUG/SetupBrowser.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x2b18b
+ .debug_info    0x0000000000000000     0x3c1c /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .debug_info    0x0000000000003c1c     0x35f7 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .debug_info    0x0000000000007213     0x3d6a /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .debug_info    0x000000000000af7d     0x2bbb /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .debug_info    0x000000000000db38     0x3a74 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .debug_info    0x00000000000115ac     0x2238 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .debug_info    0x00000000000137e4     0x4985 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .debug_info    0x0000000000018169     0x27de /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .debug_info    0x000000000001a947     0x2491 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .debug_info    0x000000000001cdd8     0x2202 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .debug_info    0x000000000001efda     0x22ce /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .debug_info    0x00000000000212a8     0x2259 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .debug_info    0x0000000000023501     0x2222 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .debug_info    0x0000000000025723     0x1c86 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .debug_info    0x00000000000273a9     0x1f86 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .debug_info    0x000000000002932f     0x1a04 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .debug_info    0x000000000002ad33      0x458 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x3ad5
+ .debug_abbrev  0x0000000000000000      0x35b /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000035b      0x332 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .debug_abbrev  0x000000000000068d      0x393 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000a20      0x346 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000000d66      0x483 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .debug_abbrev  0x00000000000011e9      0x340 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .debug_abbrev  0x0000000000001529      0x4e4 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .debug_abbrev  0x0000000000001a0d      0x3b0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .debug_abbrev  0x0000000000001dbd      0x3db /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .debug_abbrev  0x0000000000002198      0x300 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .debug_abbrev  0x0000000000002498      0x2ee /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .debug_abbrev  0x0000000000002786      0x337 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .debug_abbrev  0x0000000000002abd      0x362 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .debug_abbrev  0x0000000000002e1f      0x3bd /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .debug_abbrev  0x00000000000031dc      0x3bb /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .debug_abbrev  0x0000000000003597      0x3e9 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .debug_abbrev  0x0000000000003980      0x155 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+
+.debug_loc      0x0000000000000000    0x1e7ba
+ .debug_loc     0x0000000000000000     0x2dfc /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .debug_loc     0x0000000000002dfc     0x38d7 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .debug_loc     0x00000000000066d3     0x22c6 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .debug_loc     0x0000000000008999     0x201c /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .debug_loc     0x000000000000a9b5     0x1ff1 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .debug_loc     0x000000000000c9a6     0x2807 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .debug_loc     0x000000000000f1ad     0x287a /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .debug_loc     0x0000000000011a27     0x1be9 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .debug_loc     0x0000000000013610     0x19cb /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .debug_loc     0x0000000000014fdb     0x19a9 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .debug_loc     0x0000000000016984     0x1f3b /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .debug_loc     0x00000000000188bf     0x18a7 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .debug_loc     0x000000000001a166     0x14d1 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .debug_loc     0x000000000001b637     0x16e7 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .debug_loc     0x000000000001cd1e      0xded /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .debug_loc     0x000000000001db0b      0x95d /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .debug_loc     0x000000000001e468      0x352 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xb30
+ .debug_aranges
+                0x0000000000000000       0x30 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000030       0x30 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000060       0x30 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .debug_aranges
+                0x0000000000000090       0x80 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000110      0x100 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .debug_aranges
+                0x0000000000000210       0x90 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .debug_aranges
+                0x00000000000002a0      0x220 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .debug_aranges
+                0x00000000000004c0       0xa0 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .debug_aranges
+                0x0000000000000560      0x150 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .debug_aranges
+                0x00000000000006b0       0x50 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .debug_aranges
+                0x0000000000000700       0x80 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .debug_aranges
+                0x0000000000000780       0x80 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .debug_aranges
+                0x0000000000000800       0x90 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .debug_aranges
+                0x0000000000000890       0xe0 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .debug_aranges
+                0x0000000000000970       0xd0 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .debug_aranges
+                0x0000000000000a40       0xc0 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .debug_aranges
+                0x0000000000000b00       0x30 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x3850
+ .debug_ranges  0x0000000000000000      0x520 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000520      0x920 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000000e40      0xb70 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .debug_ranges  0x00000000000019b0      0x230 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000001be0      0x210 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000001df0      0x140 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000001f30      0x750 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .debug_ranges  0x0000000000002680      0x390 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .debug_ranges  0x0000000000002a10      0x2c0 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .debug_ranges  0x0000000000002cd0      0x280 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .debug_ranges  0x0000000000002f50      0x100 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .debug_ranges  0x0000000000003050      0x1b0 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .debug_ranges  0x0000000000003200       0xe0 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .debug_ranges  0x00000000000032e0      0x210 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .debug_ranges  0x00000000000034f0      0x170 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .debug_ranges  0x0000000000003660      0x150 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .debug_ranges  0x00000000000037b0       0xa0 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+
+.debug_line     0x0000000000000000     0x7451
+ .debug_line    0x0000000000000000      0xa2d /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .debug_line    0x0000000000000a2d      0xacc /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .debug_line    0x00000000000014f9      0x97f /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .debug_line    0x0000000000001e78      0x737 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .debug_line    0x00000000000025af      0x910 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .debug_line    0x0000000000002ebf      0x598 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .debug_line    0x0000000000003457      0xcc8 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .debug_line    0x000000000000411f      0x749 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .debug_line    0x0000000000004868      0x6a5 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .debug_line    0x0000000000004f0d      0x519 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .debug_line    0x0000000000005426      0x6fe /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .debug_line    0x0000000000005b24      0x4ce /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .debug_line    0x0000000000005ff2      0x4f8 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .debug_line    0x00000000000064ea      0x50b /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .debug_line    0x00000000000069f5      0x4a1 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .debug_line    0x0000000000006e96      0x3d9 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .debug_line    0x000000000000726f      0x1e2 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+
+.debug_str      0x0000000000000000     0x6375
+ .debug_str     0x0000000000000000     0x12eb /tmp/cc4PSeEJ.ltrans0.ltrans.o
+                                       0x1614 (size before relaxing)
+ .debug_str     0x00000000000012eb      0x70e /tmp/cc4PSeEJ.ltrans1.ltrans.o
+                                       0x1338 (size before relaxing)
+ .debug_str     0x00000000000019f9      0x7d3 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+                                       0x1502 (size before relaxing)
+ .debug_str     0x00000000000021cc      0x4f9 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+                                       0x1433 (size before relaxing)
+ .debug_str     0x00000000000026c5      0xc33 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+                                       0x1cd1 (size before relaxing)
+ .debug_str     0x00000000000032f8      0x114 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+                                        0xe43 (size before relaxing)
+ .debug_str     0x000000000000340c     0x1996 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+                                       0x28a3 (size before relaxing)
+ .debug_str     0x0000000000004da2      0x50b /tmp/cc4PSeEJ.ltrans7.ltrans.o
+                                       0x1269 (size before relaxing)
+ .debug_str     0x00000000000052ad      0x28e /tmp/cc4PSeEJ.ltrans8.ltrans.o
+                                        0xf32 (size before relaxing)
+ .debug_str     0x000000000000553b      0x12d /tmp/cc4PSeEJ.ltrans9.ltrans.o
+                                        0xedb (size before relaxing)
+ .debug_str     0x0000000000005668      0x3aa /tmp/cc4PSeEJ.ltrans10.ltrans.o
+                                       0x15cf (size before relaxing)
+ .debug_str     0x0000000000005a12      0x1ab /tmp/cc4PSeEJ.ltrans11.ltrans.o
+                                        0xfd7 (size before relaxing)
+ .debug_str     0x0000000000005bbd      0x14e /tmp/cc4PSeEJ.ltrans12.ltrans.o
+                                        0xe3e (size before relaxing)
+ .debug_str     0x0000000000005d0b      0x1e8 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+                                        0xc56 (size before relaxing)
+ .debug_str     0x0000000000005ef3      0x196 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+                                       0x1194 (size before relaxing)
+ .debug_str     0x0000000000006089      0x1db /tmp/cc4PSeEJ.ltrans15.ltrans.o
+                                        0xfbe (size before relaxing)
+ .debug_str     0x0000000000006264      0x111 /tmp/cc4PSeEJ.ltrans16.ltrans.o
+                                        0x3d4 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x3258
+ .debug_frame   0x0000000000000000      0x3e8 /tmp/cc4PSeEJ.ltrans0.ltrans.o
+ .debug_frame   0x00000000000003e8      0x270 /tmp/cc4PSeEJ.ltrans1.ltrans.o
+ .debug_frame   0x0000000000000658       0x88 /tmp/cc4PSeEJ.ltrans2.ltrans.o
+ .debug_frame   0x00000000000006e0      0x340 /tmp/cc4PSeEJ.ltrans3.ltrans.o
+ .debug_frame   0x0000000000000a20      0x480 /tmp/cc4PSeEJ.ltrans4.ltrans.o
+ .debug_frame   0x0000000000000ea0      0x470 /tmp/cc4PSeEJ.ltrans5.ltrans.o
+ .debug_frame   0x0000000000001310      0x558 /tmp/cc4PSeEJ.ltrans6.ltrans.o
+ .debug_frame   0x0000000000001868      0x368 /tmp/cc4PSeEJ.ltrans7.ltrans.o
+ .debug_frame   0x0000000000001bd0      0x458 /tmp/cc4PSeEJ.ltrans8.ltrans.o
+ .debug_frame   0x0000000000002028      0x1c8 /tmp/cc4PSeEJ.ltrans9.ltrans.o
+ .debug_frame   0x00000000000021f0      0x228 /tmp/cc4PSeEJ.ltrans10.ltrans.o
+ .debug_frame   0x0000000000002418      0x318 /tmp/cc4PSeEJ.ltrans11.ltrans.o
+ .debug_frame   0x0000000000002730      0x278 /tmp/cc4PSeEJ.ltrans12.ltrans.o
+ .debug_frame   0x00000000000029a8      0x390 /tmp/cc4PSeEJ.ltrans13.ltrans.o
+ .debug_frame   0x0000000000002d38      0x2c8 /tmp/cc4PSeEJ.ltrans14.ltrans.o
+ .debug_frame   0x0000000000003000      0x210 /tmp/cc4PSeEJ.ltrans15.ltrans.o
+ .debug_frame   0x0000000000003210       0x48 /tmp/cc4PSeEJ.ltrans16.ltrans.o

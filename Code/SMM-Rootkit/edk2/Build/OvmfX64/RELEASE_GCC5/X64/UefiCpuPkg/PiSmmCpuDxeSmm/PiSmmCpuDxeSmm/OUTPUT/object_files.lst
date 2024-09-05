@@ -1,0 +1,17 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/PiSmmCpuDxeSmm.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/MpService.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/SyncTimer.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/CpuS3.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/CpuService.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/SmmProfile.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/SmramSaveState.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/SmmCpuMemoryManagement.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/Semaphore.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/PageTbl.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/SmmFuncsArch.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/SmmProfileArch.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/SmmInit.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/SmiEntry.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/SmiException.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/X64/MpFuncs.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/PiSmmCpuDxeSmm/PiSmmCpuDxeSmm/OUTPUT/AutoGen.obj

@@ -1,0 +1,1493 @@
+Archive member included to satisfy reference by file (symbol)
+
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLibDetect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib(PeCoffExtraActionLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib(ReportStatusCodeLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib(BasePeCoff.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib(PeCoffLoaderEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciIo.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciBus.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciDeviceSupport.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(ComponentName.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciCommand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciResourceSupport.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciEnumeratorSupport.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciEnumerator.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciOptionRomSupport.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciDriverOverride.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciPowerManagement.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciRomTable.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(PciHotPlugSupport.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.FindResourceNode
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.ReportStatusCodeWithExtendedData
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.ReportDebugCodeEnabled
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.ReportErrorCodeEnabled
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.ReportProgressCodeEnabled
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.GetDevicePathSize
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.ReportStatusCodeWithDevicePath
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.DumpResourceMap
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.AllocateZeroPool
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.4.lto_priv.23
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.RemoveEntryList
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.PciHostBridgeResourceAllocator
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoGetLocation
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoGetBarAttributes
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoFlush
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoFreeBuffer
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoAllocateBuffer
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoUnmap
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoMap
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoAttributes
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoCopyMem
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoIoWrite
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoIoRead
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoMemWrite
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoMemRead
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoPollIo
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoPollMem
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoConfigWrite
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text.unlikely.PciIoConfigRead
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.PciHPCInitialized
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.GetDriver
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.20
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.InternalAllocateZeroPool.constprop.19
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.ReportStatusCodeEx.constprop.13
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.LocateCapabilityRegBlock.constprop.7
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.LocatePciExpressCapabilityRegBlock.constprop.3
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.EfiCompareDevicePath
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.IsPciHotPlugBus
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.GetResourcePaddingForHpb
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.PciRomAddImageMapping
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.AddDriver
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.RegisterPciDevice.constprop.0
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text.unlikely.RomDecode
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.GetLargerConsumerDevice
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.LoadFile2
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.PciAssignBusNumber
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.PreprocessController
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.NotifyPhase
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.PciBridgeEnumerator
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.PciHotPlugRequestNotify
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.GetMaxResourceConsumerDevice
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.GetMaxOptionRomSize
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.unlikely.ProcessOptionRom
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.VfBarExisted.part.0.lto_priv.22
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.ResetAllPpbBusNumber
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.PciRootBridgeEnumerator
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.CreatePciIoDevice
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.InitializeP2C
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.InitializePpb
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.PciParseBar
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.DetermineDeviceAttribute
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text.unlikely.ProcessOptionRomLight
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.unlikely.PciBusDriverBindingSupported
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.unlikely.PciIoSetBarAttributes
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.unlikely.FreePciDevice
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.unlikely.DestroyRootBridge
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.unlikely.PciBusDriverBindingStart
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.unlikely.PciBusDriverBindingStop
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.unlikely.PciIoVerifyConfigAccess.part.1.lto_priv.25
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .text.unlikely.GetFastBackToBackSupport
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .text.unlikely.PciSetDeviceAttribute
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .text.unlikely.BarExisted
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .text.unlikely.PciSearchDevice
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdDebugPropertyMask
+                0x0000000000000000        0x1 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .text.unlikely.ProgramResource
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .text.unlikely.CreateResourceMap
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.PciBusComponentNameGetControllerName
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.ActiveVGADeviceOnTheRootBridge
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.PciBusComponentNameGetDriverName
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.CreateResourceNode
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.CalculateResourceAperture
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.InsertResourceNode
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.MergeResourceTree
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.PciOperateRegister
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.ActiveVGADeviceOnTheSameSegment
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.PciDeviceExisted
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.GetRootBridgeByHandle
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.CreateRootBridge
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.StartPciDevicesOnBridge
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.DeRegisterPciDevice
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.RemoveAllPciDeviceOnBridge
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.unlikely.DestroyPciDeviceTree
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .text.unlikely.PciIoVerifyBarAccess
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .text.unlikely.RemoveRejectedPciDevices.part.0.lto_priv.24
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .text.unlikely.PciRootBridgeP2CProcess
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .text.unlikely.PciAllocateBusNumber
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .text.unlikely.PciScanBus
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.PciDevicePresent
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.GetResourcePaddingPpb
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.PciPciDeviceInfoCollector
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.DestroyResourceTree
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.InitializeResourcePool
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.ResourceRequestExisted
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.ProgramPpbApperture
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text.unlikely.ProgrameUpstreamBridgeForRom
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZHBztG.ltrans10.ltrans.o
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+ .text          0x0000000000000000       0x2a /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+ .text          0x0000000000000000        0x0 DxePcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000      0x116 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLibDetect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PeCoffExtraActionLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ReportStatusCodeLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BasePeCoff.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PeCoffLoaderEx.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciIo.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciBus.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciDeviceSupport.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ComponentName.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciCommand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciResourceSupport.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciEnumeratorSupport.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciEnumerator.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciOptionRomSupport.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciDriverOverride.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciPowerManagement.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciRomTable.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PciHotPlugSupport.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccZHBztG.ltrans0.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans1.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans2.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans3.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans4.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans5.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans6.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans7.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans8.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans9.ltrans.o
+LOAD /tmp/ccZHBztG.ltrans10.ltrans.o
+START GROUP
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x9d2c
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.FindResourceNode
+                0x0000000000000240       0x2b /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.ReportStatusCodeWithExtendedData
+                0x000000000000026b       0x27 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x0000000000000292      0x182 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000292                _ModuleEntryPoint
+ .text.ReportDebugCodeEnabled
+                0x0000000000000414        0x3 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000414                ReportDebugCodeEnabled
+ .text.ReportErrorCodeEnabled
+                0x0000000000000417        0x3 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000417                ReportErrorCodeEnabled
+ .text.ReportProgressCodeEnabled
+                0x000000000000041a        0x3 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x000000000000041a                ReportProgressCodeEnabled
+ .text.GetDevicePathSize
+                0x000000000000041d        0xc /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x000000000000041d                GetDevicePathSize
+ .text.ReportStatusCodeWithDevicePath
+                0x0000000000000429       0x30 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000429                ReportStatusCodeWithDevicePath
+ .text.FreePool
+                0x0000000000000459        0xa /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000459                FreePool
+ .text.DumpResourceMap
+                0x0000000000000463      0x203 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x0000000000000666        0xf /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000666                AllocateZeroPool
+ .text.CopyMem  0x0000000000000675       0x13 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000675                CopyMem
+ .text.AsciiStrnCmp.part.4.lto_priv.23
+                0x0000000000000688       0x47 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x0000000000000688                AsciiStrnCmp.part.4.lto_priv.23
+ .text.RemoveEntryList
+                0x00000000000006cf       0x19 /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x00000000000006cf                RemoveEntryList
+ .text.PciHostBridgeResourceAllocator
+                0x00000000000006e8      0xcba /tmp/ccZHBztG.ltrans0.ltrans.o
+                0x00000000000006e8                PciHostBridgeResourceAllocator
+ .text.PciIoGetLocation
+                0x00000000000013a2       0x56 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x00000000000013a2                PciIoGetLocation
+ .text.PciIoGetBarAttributes
+                0x00000000000013f8      0x1a8 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x00000000000013f8                PciIoGetBarAttributes
+ .text.PciIoFlush
+                0x00000000000015a0       0x48 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x00000000000015a0                PciIoFlush
+ .text.PciIoFreeBuffer
+                0x00000000000015e8       0x48 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x00000000000015e8                PciIoFreeBuffer
+ .text.PciIoAllocateBuffer
+                0x0000000000001630       0x80 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x0000000000001630                PciIoAllocateBuffer
+ .text.PciIoUnmap
+                0x00000000000016b0       0x6a /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x00000000000016b0                PciIoUnmap
+ .text.PciIoMap
+                0x000000000000171a       0xfa /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x000000000000171a                PciIoMap
+ .text.PciIoAttributes
+                0x0000000000001814      0x3e5 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x0000000000001814                PciIoAttributes
+ .text.PciIoCopyMem
+                0x0000000000001bf9      0x122 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x0000000000001bf9                PciIoCopyMem
+ .text.PciIoIoWrite
+                0x0000000000001d1b       0xfd /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x0000000000001d1b                PciIoIoWrite
+ .text.PciIoIoRead
+                0x0000000000001e18       0xfd /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x0000000000001e18                PciIoIoRead
+ .text.PciIoMemWrite
+                0x0000000000001f15       0xfd /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x0000000000001f15                PciIoMemWrite
+ .text.PciIoMemRead
+                0x0000000000002012       0xfd /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x0000000000002012                PciIoMemRead
+ .text.PciIoPollIo
+                0x000000000000210f      0x1cb /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x000000000000210f                PciIoPollIo
+ .text.PciIoPollMem
+                0x00000000000022da      0x1d1 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x00000000000022da                PciIoPollMem
+ .text.PciIoConfigWrite
+                0x00000000000024ab       0xd1 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x00000000000024ab                PciIoConfigWrite
+ .text.PciIoConfigRead
+                0x000000000000257c       0xd1 /tmp/ccZHBztG.ltrans1.ltrans.o
+                0x000000000000257c                PciIoConfigRead
+ .text.PciHPCInitialized
+                0x000000000000264d        0x5 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000264d                PciHPCInitialized
+ .text.GetDriver
+                0x0000000000002652      0x17f /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002652                GetDriver
+ .text.InternalAllocatePool.constprop.20
+                0x00000000000027d1       0x37 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x00000000000027d1                InternalAllocatePool.constprop.20
+ .text.InternalAllocateZeroPool.constprop.19
+                0x0000000000002808       0x28 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002808                InternalAllocateZeroPool.constprop.19
+ .text.ReportStatusCodeEx.constprop.13
+                0x0000000000002830      0x1cf /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002830                ReportStatusCodeEx.constprop.13
+ .text.LocateCapabilityRegBlock.constprop.7
+                0x00000000000029ff       0xf8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x00000000000029ff                LocateCapabilityRegBlock.constprop.7
+ .text.LocatePciExpressCapabilityRegBlock.constprop.3
+                0x0000000000002af7       0xa5 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002af7                LocatePciExpressCapabilityRegBlock.constprop.3
+ .text.EfiCompareDevicePath
+                0x0000000000002b9c       0x61 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002b9c                EfiCompareDevicePath
+ .text.IsPciHotPlugBus
+                0x0000000000002bfd      0x117 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002bfd                IsPciHotPlugBus
+ .text.GetResourcePaddingForHpb
+                0x0000000000002d14       0x96 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002d14                GetResourcePaddingForHpb
+ .text.PciRomAddImageMapping
+                0x0000000000002daa      0x14a /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002daa                PciRomAddImageMapping
+ .text.AddDriver
+                0x0000000000002ef4       0x8b /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002ef4                AddDriver
+ .text.RegisterPciDevice.constprop.0
+                0x0000000000002f7f      0x51a /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000002f7f                RegisterPciDevice.constprop.0
+ .text.RomDecode
+                0x0000000000003499      0x128 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x0000000000003499                RomDecode
+ .text.GetLargerConsumerDevice
+                0x00000000000035c1       0x44 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.LoadFile2
+                0x0000000000003605      0x22d /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x0000000000003605                LoadFile2
+ .text.PciAssignBusNumber
+                0x0000000000003832      0x1f1 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .text.PreprocessController
+                0x0000000000003a23      0x12d /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x0000000000003a23                PreprocessController
+ .text.NotifyPhase
+                0x0000000000003b50      0x149 /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x0000000000003b50                NotifyPhase
+ .text.PciBridgeEnumerator
+                0x0000000000003c99      0x342 /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x0000000000003c99                PciBridgeEnumerator
+ .text.PciHotPlugRequestNotify
+                0x0000000000003fdb      0x17a /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x0000000000003fdb                PciHotPlugRequestNotify
+ .text.GetMaxResourceConsumerDevice
+                0x0000000000004155       0x8a /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x0000000000004155                GetMaxResourceConsumerDevice
+ .text.GetMaxOptionRomSize
+                0x00000000000041df       0x64 /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x00000000000041df                GetMaxOptionRomSize
+ .text.ProcessOptionRom
+                0x0000000000004243      0x31f /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x0000000000004243                ProcessOptionRom
+ .text.VfBarExisted.part.0.lto_priv.22
+                0x0000000000004562      0x10c /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x0000000000004562                VfBarExisted.part.0.lto_priv.22
+ .text.ResetAllPpbBusNumber
+                0x000000000000466e      0x133 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x000000000000466e                ResetAllPpbBusNumber
+ .text.PciRootBridgeEnumerator
+                0x00000000000047a1      0x1b7 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x00000000000047a1                PciRootBridgeEnumerator
+ .text.CreatePciIoDevice
+                0x0000000000004958      0x488 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x0000000000004958                CreatePciIoDevice
+ .text.InitializeP2C
+                0x0000000000004de0      0x14c /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x0000000000004de0                InitializeP2C
+ .text.InitializePpb
+                0x0000000000004f2c      0x188 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x0000000000004f2c                InitializePpb
+ .text.PciParseBar
+                0x00000000000050b4      0x2f0 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x00000000000050b4                PciParseBar
+ .text.DetermineDeviceAttribute
+                0x00000000000053a4      0x31e /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x00000000000053a4                DetermineDeviceAttribute
+ .text.ProcessOptionRomLight
+                0x00000000000056c2       0xe6 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x00000000000056c2                ProcessOptionRomLight
+ .text.PciBusDriverBindingSupported
+                0x00000000000057a8      0x111 /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x00000000000057a8                PciBusDriverBindingSupported
+ .text.PciIoSetBarAttributes
+                0x00000000000058b9       0x75 /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x00000000000058b9                PciIoSetBarAttributes
+ .text.FreePciDevice
+                0x000000000000592e       0x48 /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x000000000000592e                FreePciDevice
+ .text.DestroyRootBridge
+                0x0000000000005976       0x12 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .text.PciBusDriverBindingStart
+                0x0000000000005988      0x9e3 /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x0000000000005988                PciBusDriverBindingStart
+ .text.PciBusDriverBindingStop
+                0x000000000000636b       0xf0 /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x000000000000636b                PciBusDriverBindingStop
+ .text.PciIoVerifyConfigAccess.part.1.lto_priv.25
+                0x000000000000645b       0xbe /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x000000000000645b                PciIoVerifyConfigAccess.part.1.lto_priv.25
+ .text.GetFastBackToBackSupport
+                0x0000000000006519       0x4d /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x0000000000006519                GetFastBackToBackSupport
+ .text.PciSetDeviceAttribute
+                0x0000000000006566      0x14a /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x0000000000006566                PciSetDeviceAttribute
+ .text.BarExisted
+                0x00000000000066b0      0x10d /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x00000000000066b0                BarExisted
+ .text.PciSearchDevice
+                0x00000000000067bd      0xb5c /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x00000000000067bd                PciSearchDevice
+ .text.ProgramResource
+                0x0000000000007319      0x5a8 /tmp/ccZHBztG.ltrans7.ltrans.o
+                0x0000000000007319                ProgramResource
+ .text.CreateResourceMap
+                0x00000000000078c1      0x84a /tmp/ccZHBztG.ltrans7.ltrans.o
+                0x00000000000078c1                CreateResourceMap
+ .text.PciBusComponentNameGetControllerName
+                0x000000000000810b        0xb /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000810b                PciBusComponentNameGetControllerName
+ .text.ActiveVGADeviceOnTheRootBridge
+                0x0000000000008116       0x65 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .text.PciBusComponentNameGetDriverName
+                0x000000000000817b      0x130 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000817b                PciBusComponentNameGetDriverName
+ .text.CreateResourceNode
+                0x00000000000082ab       0x74 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x00000000000082ab                CreateResourceNode
+ .text.CalculateResourceAperture
+                0x000000000000831f      0x244 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000831f                CalculateResourceAperture
+ .text.InsertResourceNode
+                0x0000000000008563       0xd7 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x0000000000008563                InsertResourceNode
+ .text.MergeResourceTree
+                0x000000000000863a       0x51 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000863a                MergeResourceTree
+ .text.PciOperateRegister
+                0x000000000000868b       0xb7 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000868b                PciOperateRegister
+ .text.ActiveVGADeviceOnTheSameSegment
+                0x0000000000008742       0x52 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x0000000000008742                ActiveVGADeviceOnTheSameSegment
+ .text.PciDeviceExisted
+                0x0000000000008794       0x57 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x0000000000008794                PciDeviceExisted
+ .text.GetRootBridgeByHandle
+                0x00000000000087eb       0x30 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x00000000000087eb                GetRootBridgeByHandle
+ .text.CreateRootBridge
+                0x000000000000881b      0x15f /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000881b                CreateRootBridge
+ .text.StartPciDevicesOnBridge
+                0x000000000000897a      0x236 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000897a                StartPciDevicesOnBridge
+ .text.DeRegisterPciDevice
+                0x0000000000008bb0      0x1f0 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x0000000000008bb0                DeRegisterPciDevice
+ .text.RemoveAllPciDeviceOnBridge
+                0x0000000000008da0       0x7f /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x0000000000008da0                RemoveAllPciDeviceOnBridge
+ .text.DestroyPciDeviceTree
+                0x0000000000008e1f       0x5f /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x0000000000008e1f                DestroyPciDeviceTree
+ .text.PciIoVerifyBarAccess
+                0x0000000000008e7e       0xb0 /tmp/ccZHBztG.ltrans9.ltrans.o
+                0x0000000000008e7e                PciIoVerifyBarAccess
+ .text.RemoveRejectedPciDevices.part.0.lto_priv.24
+                0x0000000000008f2e      0x183 /tmp/ccZHBztG.ltrans9.ltrans.o
+                0x0000000000008f2e                RemoveRejectedPciDevices.part.0.lto_priv.24
+ .text.PciRootBridgeP2CProcess
+                0x00000000000090b1      0x12f /tmp/ccZHBztG.ltrans9.ltrans.o
+                0x00000000000090b1                PciRootBridgeP2CProcess
+ .text.PciAllocateBusNumber
+                0x00000000000091e0       0x78 /tmp/ccZHBztG.ltrans9.ltrans.o
+                0x00000000000091e0                PciAllocateBusNumber
+ .text.PciScanBus
+                0x0000000000009258      0x5ad /tmp/ccZHBztG.ltrans9.ltrans.o
+                0x0000000000009258                PciScanBus
+ .text.PciDevicePresent
+                0x0000000000009805       0x84 /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x0000000000009805                PciDevicePresent
+ .text.GetResourcePaddingPpb
+                0x0000000000009889       0x23 /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x0000000000009889                GetResourcePaddingPpb
+ .text.PciPciDeviceInfoCollector
+                0x00000000000098ac      0x140 /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x00000000000098ac                PciPciDeviceInfoCollector
+ .text.DestroyResourceTree
+                0x00000000000099ec       0x55 /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x00000000000099ec                DestroyResourceTree
+ .text.InitializeResourcePool
+                0x0000000000009a41       0x34 /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x0000000000009a41                InitializeResourcePool
+ .text.ResourceRequestExisted
+                0x0000000000009a75       0x1c /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x0000000000009a75                ResourceRequestExisted
+ .text.ProgramPpbApperture
+                0x0000000000009a91      0x2ec /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x0000000000009a91                ProgramPpbApperture
+ .text.ProgrameUpstreamBridgeForRom
+                0x0000000000009d7d       0xcf /tmp/ccZHBztG.ltrans10.ltrans.o
+                0x0000000000009d7d                ProgrameUpstreamBridgeForRom
+ *fill*         0x0000000000009e4c        0x4 
+ .text          0x0000000000009e50       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                0x0000000000009e50                InternalMemCompareMem
+ *fill*         0x0000000000009e6d        0x3 
+ .text          0x0000000000009e70       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                0x0000000000009e70                InternalMemZeroMem
+ *fill*         0x0000000000009e8d        0x3 
+ .text          0x0000000000009e90       0x3c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                0x0000000000009e90                InternalMemCopyMem
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000009ecc        0x0 /tmp/ccZHBztG.ltrans0.ltrans.o
+                                          0x3 (size before relaxing)
+ .rodata.PciIoGetBarAttributes
+                0x0000000000009ecc       0x18 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .rodata.PciIoAttributes
+                0x0000000000009ee4       0x14 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .rodata._gDriverUnloadImageCount
+                0x0000000000009ef8        0x1 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x0000000000009ef8                _gDriverUnloadImageCount
+                0x0000000000009ef8                _gPcd_FixedAtBuild_PcdComponentName2Disable
+                0x0000000000009ef8                _gPcd_FixedAtBuild_PcdComponentNameDisable
+                0x0000000000009ef8                _gPcd_FixedAtBuild_PcdUnalignedPciIoEnable
+                0x0000000000009ef8                _gPcd_FixedAtBuild_PcdPciBridgeIoAlignmentProbe
+ .rodata._gPcd_FixedAtBuild_PcdAriSupport
+                0x0000000000009ef9        0x1 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x0000000000009ef9                _gPcd_FixedAtBuild_PcdAriSupport
+                0x0000000000009ef9                _gPcd_FixedAtBuild_PcdPciBusHotplugDeviceSupport
+                0x0000000000009ef9                _gPcd_FixedAtBuild_PcdSrIovSupport
+                0x0000000000009ef9                _gPcd_FixedAtBuild_PcdPciDegradeResourceForOptionRom
+ *fill*         0x0000000000009efa        0x2 
+ .rodata.ProgramResource
+                0x0000000000009efc       0x14 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .rodata.CreateResourceMap
+                0x0000000000009f10       0x18 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .rodata.str1.1
+                0x0000000000009f28        0xb /tmp/ccZHBztG.ltrans8.ltrans.o
+ *fill*         0x0000000000009f33        0x1 
+ .rodata.str2.2
+                0x0000000000009f34       0x1e /tmp/ccZHBztG.ltrans8.ltrans.o
+ *fill*         0x0000000000009f52        0x2 
+ .rodata.ProgramPpbApperture
+                0x0000000000009f54       0x18 /tmp/ccZHBztG.ltrans10.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000009f6c        0x0 CheckSum.obj (symbol from plugin)
+ .got.plt       0x0000000000009f6c        0x0 CheckSum.obj (symbol from plugin)
+                0x0000000000009f6c                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000009f70        0x0
+ .plt           0x0000000000009f70        0x0 CheckSum.obj (symbol from plugin)
+
+.data           0x0000000000009f80      0x431
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiComponentNameProtocolGuid
+                0x0000000000009f80       0x10 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .data.gEfiComponentName2ProtocolGuid
+                0x0000000000009f90       0x10 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .data.gEfiDriverBindingProtocolGuid
+                0x0000000000009fa0       0x10 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .data.rel.local.mPciHotPlugRequest
+                0x0000000000009fb0        0x8 /tmp/ccZHBztG.ltrans0.ltrans.o
+ *fill*         0x0000000000009fb8        0x8 
+ .data.gEfiPciHotPlugRequestProtocolGuid
+                0x0000000000009fc0       0x10 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .data.rel.local.gPciBusComponentName2
+                0x0000000000009fd0       0x18 /tmp/ccZHBztG.ltrans0.ltrans.o
+ *fill*         0x0000000000009fe8        0x8 
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x0000000000009ff0       0x10 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .data.gEfiDevicePathToTextProtocolGuid
+                0x000000000000a000       0x10 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .data.gEfiLoadedImageDevicePathProtocolGuid
+                0x000000000000a010       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .data.gEfiPciRootBridgeIoProtocolGuid
+                0x000000000000a020       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a020                gEfiPciRootBridgeIoProtocolGuid
+ *fill*         0x000000000000a030       0x10 
+ .data.rel.local.gPciBusDriverBinding
+                0x000000000000a040       0x30 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a040                gPciBusDriverBinding
+ .data.gEfiBusSpecificDriverOverrideProtocolGuid
+                0x000000000000a070       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a070                gEfiBusSpecificDriverOverrideProtocolGuid
+ .data.gEfiLoadFile2ProtocolGuid
+                0x000000000000a080       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a080                gEfiLoadFile2ProtocolGuid
+ .data.gEfiPciIoProtocolGuid
+                0x000000000000a090       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a090                gEfiPciIoProtocolGuid
+ .data.gEfiDevicePathProtocolGuid
+                0x000000000000a0a0       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a0a0                gEfiDevicePathProtocolGuid
+ .data.gEfiStatusCodeRuntimeProtocolGuid
+                0x000000000000a0b0       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .data.gEfiCallerIdGuid
+                0x000000000000a0c0       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .data.gEfiStatusCodeSpecificDataGuid
+                0x000000000000a0d0       0x10 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .data.gAllOne  0x000000000000a0e0        0x8 /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x000000000000a0e0                gAllOne
+ *fill*         0x000000000000a0e8        0x8 
+ .data.gEfiPciHostBridgeResourceAllocationProtocolGuid
+                0x000000000000a0f0       0x10 /tmp/ccZHBztG.ltrans3.ltrans.o
+                0x000000000000a0f0                gEfiPciHostBridgeResourceAllocationProtocolGuid
+ .data.gEfiDecompressProtocolGuid
+                0x000000000000a100       0x10 /tmp/ccZHBztG.ltrans3.ltrans.o
+ *fill*         0x000000000000a110       0x10 
+ .data.rel.local.mPciIoInterface
+                0x000000000000a120       0xa0 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x000000000000a120                mPciIoInterface
+ .data.gFullEnumeration
+                0x000000000000a1c0        0x1 /tmp/ccZHBztG.ltrans4.ltrans.o
+                0x000000000000a1c0                gFullEnumeration
+ *fill*         0x000000000000a1c1        0xf 
+ .data.gPcdProtocolGuid
+                0x000000000000a1d0       0x10 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .data.gEfiPciHotPlugInitProtocolGuid
+                0x000000000000a1e0       0x10 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .data.gEfiPciEnumerationCompleteProtocolGuid
+                0x000000000000a1f0       0x10 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .data.gEdkiiIoMmuProtocolGuid
+                0x000000000000a200       0x10 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .data.gEfiPciOverrideProtocolGuid
+                0x000000000000a210       0x10 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .data.gEfiPciPlatformProtocolGuid
+                0x000000000000a220       0x10 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .data.gEfiIncompatiblePciDeviceSupportProtocolGuid
+                0x000000000000a230       0x10 /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x000000000000a230                gEfiIncompatiblePciDeviceSupportProtocolGuid
+ .data.rel.local.mPciBusDriverNameTable
+                0x000000000000a240       0x20 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .data.rel.local.gPciBusComponentName
+                0x000000000000a260       0x18 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000a260                gPciBusComponentName
+ *(.bss .bss.*)
+ .bss.gST       0x000000000000a278        0x8 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .bss.mDevicePathLibDevicePathToText
+                0x000000000000a280        0x8 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .bss.gAllZero  0x000000000000a288        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a288                gAllZero
+ .bss.mMaxNumberOfPciRomImages
+                0x000000000000a290        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .bss.mNumberOfPciRomImages
+                0x000000000000a298        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a298                mNumberOfPciRomImages
+ .bss.mRomImageTable
+                0x000000000000a2a0        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2a0                mRomImageTable
+ .bss.gPciHotPlugInit
+                0x000000000000a2a8        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2a8                gPciHotPlugInit
+ .bss.gPciRootHpcCount
+                0x000000000000a2b0        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2b0                gPciRootHpcCount
+ .bss.gPciRootHpcPool
+                0x000000000000a2b8        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2b8                gPciRootHpcPool
+ .bss.mDevicePathLibDevicePathUtilities
+                0x000000000000a2c0        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2c0                mDevicePathLibDevicePathUtilities
+ .bss.gPciOverrideProtocol
+                0x000000000000a2c8        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2c8                gPciOverrideProtocol
+ .bss.gPciPlatformProtocol
+                0x000000000000a2d0        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2d0                gPciPlatformProtocol
+ .bss.mReportStatusCodeLibStatusCodeProtocol
+                0x000000000000a2d8        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .bss.gBS       0x000000000000a2e0        0x8 /tmp/ccZHBztG.ltrans2.ltrans.o
+                0x000000000000a2e0                gBS
+ .bss.mPcd      0x000000000000a2e8        0x8 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .bss.gPciRootHpcData
+                0x000000000000a2f0        0x8 /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x000000000000a2f0                gPciRootHpcData
+ .bss.gPciHostBridgeNumber
+                0x000000000000a2f8        0x8 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .bss.gPciHostBrigeHandles
+                0x000000000000a300       0x80 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .bss.mIoMmuProtocol
+                0x000000000000a380        0x8 /tmp/ccZHBztG.ltrans5.ltrans.o
+                0x000000000000a380                mIoMmuProtocol
+ .bss.gIncompatiblePciDeviceSupport
+                0x000000000000a388        0x8 /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x000000000000a388                gIncompatiblePciDeviceSupport
+ .bss.mReserveVgaAliases
+                0x000000000000a390        0x1 /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x000000000000a390                mReserveVgaAliases
+ .bss.mReserveIsaAliases
+                0x000000000000a391        0x1 /tmp/ccZHBztG.ltrans6.ltrans.o
+                0x000000000000a391                mReserveIsaAliases
+ *fill*         0x000000000000a392        0xe 
+ .bss.mPciDevicePool
+                0x000000000000a3a0       0x10 /tmp/ccZHBztG.ltrans8.ltrans.o
+                0x000000000000a3a0                mPciDevicePool
+ .bss.mPolicyDetermined
+                0x000000000000a3b0        0x1 /tmp/ccZHBztG.ltrans8.ltrans.o
+
+.eh_frame       0x000000000000a3c0        0x0
+ *(.eh_frame)
+ .eh_frame      0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+
+.dynbss         0x000000000000a3c0        0x0
+ .dynbss        0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+
+.gnu.version_d  0x000000000000a3c0        0x0
+ .gnu.version_d
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+
+.gnu.version    0x000000000000a3c0        0x0
+ .gnu.version   0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+
+.gnu.version_r  0x000000000000a3c0        0x0
+ .gnu.version_r
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+
+.rela           0x000000000000a3c0      0x2d0
+ *(.rela .rela.*)
+ .rela.plt      0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.got      0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.bss      0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.ifunc    0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text     0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.ReportStatusCodeWithExtendedData
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text._ModuleEntryPoint
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.GetDevicePathSize
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.FreePool
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.DumpResourceMap
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.AllocateZeroPool
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciHostBridgeResourceAllocator
+                0x000000000000a3c0        0x0 CheckSum.obj (symbol from plugin)
+ .rela.data.rel.local.mPciHotPlugRequest
+                0x000000000000a3c0       0x18 CheckSum.obj (symbol from plugin)
+ .rela.data.rel.local.gPciBusComponentName2
+                0x000000000000a3d8       0x48 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoUnmap
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoMap
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoAttributes
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoCopyMem
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoIoWrite
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoIoRead
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoMemWrite
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoMemRead
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoPollIo
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoPollMem
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoConfigWrite
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoConfigRead
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.RomDecode
+                0x000000000000a420        0x0 CheckSum.obj (symbol from plugin)
+ .rela.data.rel.local.gPciBusDriverBinding
+                0x000000000000a420       0x48 CheckSum.obj (symbol from plugin)
+ .rela.text.PciAssignBusNumber
+                0x000000000000a468        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciBridgeEnumerator
+                0x000000000000a468        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciHotPlugRequestNotify
+                0x000000000000a468        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.ResetAllPpbBusNumber
+                0x000000000000a468        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciRootBridgeEnumerator
+                0x000000000000a468        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciParseBar
+                0x000000000000a468        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.DetermineDeviceAttribute
+                0x000000000000a468        0x0 CheckSum.obj (symbol from plugin)
+ .rela.data.rel.local.mPciIoInterface
+                0x000000000000a468      0x1b0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciIoSetBarAttributes
+                0x000000000000a618        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.DestroyRootBridge
+                0x000000000000a618        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciBusDriverBindingStart
+                0x000000000000a618        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciBusDriverBindingStop
+                0x000000000000a618        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.PciSearchDevice
+                0x000000000000a618        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.ProgramResource
+                0x000000000000a618        0x0 CheckSum.obj (symbol from plugin)
+ .rela.text.CreateResourceMap
+                0x000000000000a618        0x0 CheckSum.obj (symbol from plugin)
+ .rela.data.rel.local.mPciBusDriverNameTable
+                0x000000000000a618       0x30 CheckSum.obj (symbol from plugin)
+ .rela.data.rel.local.gPciBusComponentName
+                0x000000000000a648       0x48 CheckSum.obj (symbol from plugin)
+ .rela.text.PciScanBus
+                0x000000000000a690        0x0 CheckSum.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000000a690       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000000a690       0x24 CheckSum.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/DEBUG/PciBusDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x22053
+ .debug_info    0x0000000000000000     0x509a /tmp/ccZHBztG.ltrans0.ltrans.o
+ .debug_info    0x000000000000509a     0x28fb /tmp/ccZHBztG.ltrans1.ltrans.o
+ .debug_info    0x0000000000007995     0x463d /tmp/ccZHBztG.ltrans2.ltrans.o
+ .debug_info    0x000000000000bfd2     0x3198 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .debug_info    0x000000000000f16a     0x2833 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .debug_info    0x000000000001199d     0x4950 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .debug_info    0x00000000000162ed     0x2608 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .debug_info    0x00000000000188f5     0x2642 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .debug_info    0x000000000001af37     0x3b1b /tmp/ccZHBztG.ltrans8.ltrans.o
+ .debug_info    0x000000000001ea52     0x1d44 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .debug_info    0x0000000000020796     0x18bd /tmp/ccZHBztG.ltrans10.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x29f9
+ .debug_abbrev  0x0000000000000000      0x50d /tmp/ccZHBztG.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000050d      0x34a /tmp/ccZHBztG.ltrans1.ltrans.o
+ .debug_abbrev  0x0000000000000857      0x493 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000cea      0x38c /tmp/ccZHBztG.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000001076      0x351 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .debug_abbrev  0x00000000000013c7      0x490 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .debug_abbrev  0x0000000000001857      0x39b /tmp/ccZHBztG.ltrans6.ltrans.o
+ .debug_abbrev  0x0000000000001bf2      0x2cf /tmp/ccZHBztG.ltrans7.ltrans.o
+ .debug_abbrev  0x0000000000001ec1      0x4c1 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .debug_abbrev  0x0000000000002382      0x358 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .debug_abbrev  0x00000000000026da      0x31f /tmp/ccZHBztG.ltrans10.ltrans.o
+
+.debug_loc      0x0000000000000000    0x1258d
+ .debug_loc     0x0000000000000000     0x2324 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .debug_loc     0x0000000000002324     0x2faa /tmp/ccZHBztG.ltrans1.ltrans.o
+ .debug_loc     0x00000000000052ce     0x2027 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .debug_loc     0x00000000000072f5     0x2531 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .debug_loc     0x0000000000009826     0x11fc /tmp/ccZHBztG.ltrans4.ltrans.o
+ .debug_loc     0x000000000000aa22     0x17fc /tmp/ccZHBztG.ltrans5.ltrans.o
+ .debug_loc     0x000000000000c21e     0x1496 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .debug_loc     0x000000000000d6b4     0x1689 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .debug_loc     0x000000000000ed3d     0x1eef /tmp/ccZHBztG.ltrans8.ltrans.o
+ .debug_loc     0x0000000000010c2c     0x114e /tmp/ccZHBztG.ltrans9.ltrans.o
+ .debug_loc     0x0000000000011d7a      0x813 /tmp/ccZHBztG.ltrans10.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x830
+ .debug_aranges
+                0x0000000000000000      0x130 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000130      0x130 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000260      0x100 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .debug_aranges
+                0x0000000000000360       0xc0 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000420       0xb0 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .debug_aranges
+                0x00000000000004d0       0x90 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .debug_aranges
+                0x0000000000000560       0x60 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .debug_aranges
+                0x00000000000005c0       0x40 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .debug_aranges
+                0x0000000000000600      0x120 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .debug_aranges
+                0x0000000000000720       0x70 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .debug_aranges
+                0x0000000000000790       0xa0 /tmp/ccZHBztG.ltrans10.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x1c70
+ .debug_ranges  0x0000000000000000      0x4d0 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .debug_ranges  0x00000000000004d0      0x200 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .debug_ranges  0x00000000000006d0      0x3b0 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .debug_ranges  0x0000000000000a80      0x360 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000000de0      0x170 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000000f50      0x3b0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000001300      0x330 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .debug_ranges  0x0000000000001630      0x170 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .debug_ranges  0x00000000000017a0      0x2a0 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .debug_ranges  0x0000000000001a40      0x130 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .debug_ranges  0x0000000000001b70      0x100 /tmp/ccZHBztG.ltrans10.ltrans.o
+
+.debug_line     0x0000000000000000     0x50f2
+ .debug_line    0x0000000000000000      0xc8e /tmp/ccZHBztG.ltrans0.ltrans.o
+ .debug_line    0x0000000000000c8e      0x633 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .debug_line    0x00000000000012c1      0xa1a /tmp/ccZHBztG.ltrans2.ltrans.o
+ .debug_line    0x0000000000001cdb      0x7c2 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .debug_line    0x000000000000249d      0x773 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .debug_line    0x0000000000002c10      0x7f6 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .debug_line    0x0000000000003406      0x670 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .debug_line    0x0000000000003a76      0x4eb /tmp/ccZHBztG.ltrans7.ltrans.o
+ .debug_line    0x0000000000003f61      0x868 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .debug_line    0x00000000000047c9      0x486 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .debug_line    0x0000000000004c4f      0x4a3 /tmp/ccZHBztG.ltrans10.ltrans.o
+
+.debug_str      0x0000000000000000     0x68d8
+ .debug_str     0x0000000000000000     0x317f /tmp/ccZHBztG.ltrans0.ltrans.o
+                                       0x36dd (size before relaxing)
+ .debug_str     0x000000000000317f      0x2ef /tmp/ccZHBztG.ltrans1.ltrans.o
+                                       0x17fc (size before relaxing)
+ .debug_str     0x000000000000346e      0xf19 /tmp/ccZHBztG.ltrans2.ltrans.o
+                                       0x3109 (size before relaxing)
+ .debug_str     0x0000000000004387      0x3e7 /tmp/ccZHBztG.ltrans3.ltrans.o
+                                       0x220c (size before relaxing)
+ .debug_str     0x000000000000476e      0x44d /tmp/ccZHBztG.ltrans4.ltrans.o
+                                       0x1f2c (size before relaxing)
+ .debug_str     0x0000000000004bbb     0x11f1 /tmp/ccZHBztG.ltrans5.ltrans.o
+                                       0x2ff3 (size before relaxing)
+ .debug_str     0x0000000000005dac      0x36b /tmp/ccZHBztG.ltrans6.ltrans.o
+                                       0x1974 (size before relaxing)
+ .debug_str     0x0000000000006117      0x15f /tmp/ccZHBztG.ltrans7.ltrans.o
+                                       0x1721 (size before relaxing)
+ .debug_str     0x0000000000006276      0x3e5 /tmp/ccZHBztG.ltrans8.ltrans.o
+                                       0x24ee (size before relaxing)
+ .debug_str     0x000000000000665b      0x197 /tmp/ccZHBztG.ltrans9.ltrans.o
+                                       0x1778 (size before relaxing)
+ .debug_str     0x00000000000067f2       0xe6 /tmp/ccZHBztG.ltrans10.ltrans.o
+                                       0x1678 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x2610
+ .debug_frame   0x0000000000000000      0x380 /tmp/ccZHBztG.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000380      0x538 /tmp/ccZHBztG.ltrans1.ltrans.o
+ .debug_frame   0x00000000000008b8      0x538 /tmp/ccZHBztG.ltrans2.ltrans.o
+ .debug_frame   0x0000000000000df0      0x400 /tmp/ccZHBztG.ltrans3.ltrans.o
+ .debug_frame   0x00000000000011f0      0x4b8 /tmp/ccZHBztG.ltrans4.ltrans.o
+ .debug_frame   0x00000000000016a8      0x1d0 /tmp/ccZHBztG.ltrans5.ltrans.o
+ .debug_frame   0x0000000000001878      0x228 /tmp/ccZHBztG.ltrans6.ltrans.o
+ .debug_frame   0x0000000000001aa0      0x228 /tmp/ccZHBztG.ltrans7.ltrans.o
+ .debug_frame   0x0000000000001cc8      0x4e8 /tmp/ccZHBztG.ltrans8.ltrans.o
+ .debug_frame   0x00000000000021b0      0x1d0 /tmp/ccZHBztG.ltrans9.ltrans.o
+ .debug_frame   0x0000000000002380      0x290 /tmp/ccZHBztG.ltrans10.ltrans.o

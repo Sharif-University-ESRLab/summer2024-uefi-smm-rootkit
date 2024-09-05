@@ -1,0 +1,5 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuFlashFvbServicesRuntimeDxe/FvbServicesSmm/OUTPUT/FvbInfo.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuFlashFvbServicesRuntimeDxe/FvbServicesSmm/OUTPUT/FwBlockService.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuFlashFvbServicesRuntimeDxe/FvbServicesSmm/OUTPUT/FwBlockServiceSmm.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuFlashFvbServicesRuntimeDxe/FvbServicesSmm/OUTPUT/QemuFlash.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/QemuFlashFvbServicesRuntimeDxe/FvbServicesSmm/OUTPUT/AutoGen.obj

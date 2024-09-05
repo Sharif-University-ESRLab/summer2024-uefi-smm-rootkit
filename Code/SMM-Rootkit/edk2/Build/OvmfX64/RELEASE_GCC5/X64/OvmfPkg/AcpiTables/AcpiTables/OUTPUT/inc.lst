@@ -1,0 +1,7 @@
+-I/root/edk2/OvmfPkg/AcpiTables
+-I/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/AcpiTables/AcpiTables/DEBUG
+-I/root/edk2/MdePkg
+-I/root/edk2/MdePkg/Include
+-I/root/edk2/MdePkg/Include/X64
+-I/root/edk2/OvmfPkg
+-I/root/edk2/OvmfPkg/Include

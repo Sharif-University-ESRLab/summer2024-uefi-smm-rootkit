@@ -1,0 +1,16 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/ComponentName.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/DriverBinding.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/EntryPoint.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/Events.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpGetStatus.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpInitialize.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpMcastIpToMac.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpReceive.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpReceiveFilters.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpSharedHelpers.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpShutdown.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpStart.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpStop.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpTransmit.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/SnpUnsupported.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/VirtioNetDxe/VirtioNet/OUTPUT/AutoGen.obj

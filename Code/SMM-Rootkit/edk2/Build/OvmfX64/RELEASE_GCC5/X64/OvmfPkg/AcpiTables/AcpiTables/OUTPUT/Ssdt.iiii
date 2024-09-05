@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DefinitionBlock ("Ssdt.aml", "SSDT", 1, "REDHAT", "OVMF    ", 1) {
+}

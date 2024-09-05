@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /root/edk2/Build/OvmfX64/RELEASE_GCC5/FV/Ffs/9F7DCADE-11EA-448a-A46F-76E003657DD1VariableSmmRuntimeDxe/9F7DCADE-11EA-448a-A46F-76E003657DD1SEC2.1.pe32 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmmRuntimeDxe/OUTPUT/VariableSmmRuntimeDxe.efi

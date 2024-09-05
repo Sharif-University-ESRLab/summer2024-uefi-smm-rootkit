@@ -1,0 +1,11 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Include/Library/DebugLib.h
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/SmbiosVersionLib/DetectSmbiosVersionLib/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Include/Library/BaseMemoryLib.h
+/root/edk2/OvmfPkg/Library/SmbiosVersionLib/DetectSmbiosVersionLib.c
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/OvmfPkg/Include/Library/QemuFwCfgLib.h
+/root/edk2/OvmfPkg/Include/IndustryStandard/QemuFwCfg.h
+/root/edk2/MdePkg/Include/Library/PcdLib.h
+/root/edk2/OvmfPkg/Library/SmbiosVersionLib/DetectSmbiosVersionLib.inf
+/root/edk2/MdePkg/Include/IndustryStandard/SmBios.h

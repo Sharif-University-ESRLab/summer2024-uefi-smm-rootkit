@@ -1,0 +1,1949 @@
+Archive member included to satisfy reference by file (symbol)
+
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLibDetect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(HiiDatabaseEntry.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Image.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ImageEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ConfigRouting.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Database.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Font.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ConfigKeywordHandler.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .text.unlikely.GetFullStringFromHiiFormPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .text.unlikely.AddPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.EfiEventEmptyFunction
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.EfiEventEmptyFunction
+                0x0000000000000000        0x1 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.KeyboardLayoutChangeNullEvent
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.InternalAllocatePool
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.OnReadyToBoot
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.OnReadyToBoot
+                0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.GetImageIdOrAddress
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.DevicePathFromHandle
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.GetDevicePathSize
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AllocatePool
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.UnicodeSPrint
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.BasePrintLibValueToString
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.BasePrintLibFillBuffer
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.4.lto_priv.26
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrCmp
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrLen
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrSize
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrStr
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrnCmp
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrCmp
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrLen
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrSize
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrnLenS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrnLenS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.InternalSafeStringIsOverlap
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrToUnicodeStrS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.UnicodeStrToAsciiStrS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrCpyS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrCatS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrnCatS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.StrCpyS
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.RemoveEntryList
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.CompareGuid
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AllocateCopyPool
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.CompareMem
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.ZeroMem
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.InternalAllocateZeroPool
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.ReallocatePool
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.AllocateZeroPool
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.unlikely.GetPiPcdProtocol
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.HiiDrawImageEx
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.HiiSetImageEx
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.HiiGetImageEx
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.HiiDrawImageIdEx
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.HiiNewImageEx
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.GetValueOfNumber
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.MergeDefaultString
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.AppendToMultiString
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.OutputConfigBody
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.HiiToLower
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.GenerateSubStr
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.CalculateConfigStringLen
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.LocateHiiImageDecoder
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text.unlikely.HiiGetImageInfo
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.ImageToBlt.part.0
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.CopyRgbToGopPixel
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.Output8bitPixel
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.HiiDrawImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.LocatePackageList
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.HiiSetImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.IGetImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.HiiGetImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.HiiDrawImageId
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.unlikely.HiiNewImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiFindKeyboardLayouts
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.ExportPackageList.part.20
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiGetPackageListHandle
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiExportPackageLists
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiListPackageLists
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiRegisterPackageNotify
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiGetKeyboardLayout
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiSetKeyboardLayout
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.unlikely.HiiUnregisterPackageNotify
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .text.unlikely.HiiSetString
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .text.unlikely.HiiGetString
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .text.unlikely.HiiNewString
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .text.unlikely.HiiGetGlyph
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .text.unlikely.HiiStringToImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .text.unlikely.HiiStringIdToImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .text.unlikely.HiiGetAltCfg
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .text.unlikely.HiiConfigToBlock
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .text.unlikely.GetUnicodeStringTextOrSize
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .text.unlikely.ReferFontInfoLocally
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .text.unlikely.FindStringBlock
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .text.unlikely.GetDevicePath.part.0.lto_priv.28
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.GetNameFromId
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.ConstructRequestElement
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.ConstructConfigHdr
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.MergeToMultiKeywordResp
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.GenerateKeywordResp
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.GetStringIdFromDatabase
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.EfiConfigKeywordHandlerSetData
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.ExtractValueFromDriver
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.unlikely.ExtractConfigRequest
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.HiiGetFontInfo
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.GetWidth
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.FindStorageFromVarId
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.FindQuestionFromStringId
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.GetUnicodeStringTextAndSize
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.GetStringIdFromRecord
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.ExtractKeyword
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.ExtractNameSpace
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.ExtractDevicePath
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text.unlikely.GetSystemFont.part.1.lto_priv.27
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .text.unlikely.EfiConfigKeywordHandlerGetData
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .text.unlikely.StrHexToUint64S.constprop.20
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .text.unlikely.BasePrintLibSPrintMarker.constprop.15
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.GlyphToBlt
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.NarrowGlyphToBlt
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.IsLineBreak
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.IsFontInfoExisted
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.IsSystemFontInfo
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.SaveFontName
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.GlyphToImage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.GetGlyphBuffer
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.unlikely.NewCell
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .text.unlikely.HiiBlockToConfig
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .text.unlikely.HiiConfigRoutingRouteConfig
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .text.unlikely.HiiConfigRoutingExportConfig
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.IsThisVarstore
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.IsThisPackageList
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.GetElementsFromRequest
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.GetVarStoreType
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.GetSupportedLanguages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.InternalGetString
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.BlockArrayCheck
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.InsertBlockData
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.IsThisOpcodeRequired
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text.unlikely.InsertDefaultValue
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveKeyboardLayoutPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.AddDevicePathPackage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveDevicePathPackage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveSimpleFontPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveImagePackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveFontPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveStringPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveFormPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.ExportFormPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.FindQuestionDefaultSetting
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.IsEfiVarStoreQuestion
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text.unlikely.RemoveGuidPackages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.unlikely.WriteOutputParam.constprop.1
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.14
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.unlikely.UnicodeValueToStringS.constprop.13
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.unlikely.GetVariable2.constprop.8
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.unlikely.GetBestLanguage.constprop.6
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.unlikely.GetFormPackageData.part.4.constprop.5
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.unlikely.FindGlyphBlock.constprop.0
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .text.unlikely.HiiConfigRoutingExtractConfig
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .text.unlikely.HiiGetDatabaseInfo
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .text.unlikely.HiiGetConfigurationSetting
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .text.unlikely.HiiUpdatePackageList
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .text.unlikely.HiiRemovePackageList
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .text.unlikely.HiiNewPackageList
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text.unlikely.AsciiHiiToLower
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text.unlikely.IsHiiHandleValid
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text.unlikely.InvokeRegisteredFunction
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text.unlikely.HiiGetLanguages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text.unlikely.HiiCompareLanguage
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text.unlikely.HiiGetSecondaryLanguages
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text          0x0000000000000000        0x0 DxePcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+ .text          0x0000000000000000       0x2a /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000      0x116 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLibDetect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiDatabaseEntry.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Image.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ImageEx.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ConfigRouting.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Database.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Font.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ConfigKeywordHandler.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccpKXGJ3.ltrans0.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans1.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans2.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans3.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans4.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans5.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans6.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans7.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans8.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans9.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans10.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans11.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans12.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans13.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans14.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans15.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans16.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans17.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans18.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans19.ltrans.o
+LOAD /tmp/ccpKXGJ3.ltrans20.ltrans.o
+START GROUP
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol/OUTPUT/UefiDevicePathLibDevicePathProtocol.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240    0x14fb2
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.GetFullStringFromHiiFormPackages
+                0x0000000000000240     0x1d8b /tmp/ccpKXGJ3.ltrans0.ltrans.o
+                0x0000000000000240                GetFullStringFromHiiFormPackages
+ .text.AddPackages
+                0x0000000000001fcb     0x17a2 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+                0x0000000000001fcb                AddPackages
+ .text.KeyboardLayoutChangeNullEvent
+                0x000000000000376d        0x1 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.InternalAllocatePool
+                0x000000000000376e       0x34 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .text.GetImageIdOrAddress
+                0x00000000000037a2       0xf9 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x00000000000037a2                GetImageIdOrAddress
+ .text._ModuleEntryPoint
+                0x000000000000389b      0x1b8 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x000000000000389b                _ModuleEntryPoint
+ .text.DevicePathFromHandle
+                0x0000000000003a53       0x35 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003a53                DevicePathFromHandle
+ .text.GetDevicePathSize
+                0x0000000000003a88        0xc /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003a88                GetDevicePathSize
+ .text.FreePool
+                0x0000000000003a94        0xa /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003a94                FreePool
+ .text.AllocatePool
+                0x0000000000003a9e       0x14 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003a9e                AllocatePool
+ .text.UnicodeSPrint
+                0x0000000000003ab2       0x32 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003ab2                UnicodeSPrint
+ .text.BasePrintLibValueToString
+                0x0000000000003ae4       0x25 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003ae4                BasePrintLibValueToString
+ .text.BasePrintLibFillBuffer
+                0x0000000000003b09       0x2e /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003b09                BasePrintLibFillBuffer
+ .text.AsciiStrnCmp.part.4.lto_priv.26
+                0x0000000000003b37       0x47 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003b37                AsciiStrnCmp.part.4.lto_priv.26
+ .text.AsciiStrCmp
+                0x0000000000003b7e       0x1b /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003b7e                AsciiStrCmp
+ .text.AsciiStrLen
+                0x0000000000003b99        0xe /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003b99                AsciiStrLen
+ .text.AsciiStrSize
+                0x0000000000003ba7       0x11 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003ba7                AsciiStrSize
+ .text.StrStr   0x0000000000003bb8       0x44 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003bb8                StrStr
+ .text.StrnCmp  0x0000000000003bfc       0x42 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003bfc                StrnCmp
+ .text.StrCmp   0x0000000000003c3e       0x1f /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003c3e                StrCmp
+ .text.StrLen   0x0000000000003c5d        0xf /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003c5d                StrLen
+ .text.StrSize  0x0000000000003c6c       0x13 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003c6c                StrSize
+ .text.AsciiStrnLenS
+                0x0000000000003c7f       0x26 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003c7f                AsciiStrnLenS
+ .text.StrnLenS
+                0x0000000000003ca5       0x27 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003ca5                StrnLenS
+ .text.InternalSafeStringIsOverlap
+                0x0000000000003ccc       0x20 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003ccc                InternalSafeStringIsOverlap
+ .text.AsciiStrToUnicodeStrS
+                0x0000000000003cec       0xcb /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003cec                AsciiStrToUnicodeStrS
+ .text.UnicodeStrToAsciiStrS
+                0x0000000000003db7       0xbe /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003db7                UnicodeStrToAsciiStrS
+ .text.AsciiStrCpyS
+                0x0000000000003e75       0xb3 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003e75                AsciiStrCpyS
+ .text.StrCatS  0x0000000000003f28       0xbe /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003f28                StrCatS
+ .text.StrnCatS
+                0x0000000000003fe6       0xf0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000003fe6                StrnCatS
+ .text.StrCpyS  0x00000000000040d6       0x9c /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x00000000000040d6                StrCpyS
+ .text.RemoveEntryList
+                0x0000000000004172       0x19 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000004172                RemoveEntryList
+ .text.CompareGuid
+                0x000000000000418b       0x19 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x000000000000418b                CompareGuid
+ .text.CopyMem  0x00000000000041a4       0x13 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x00000000000041a4                CopyMem
+ .text.AllocateCopyPool
+                0x00000000000041b7       0x41 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x00000000000041b7                AllocateCopyPool
+ .text.CompareMem
+                0x00000000000041f8       0x12 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x00000000000041f8                CompareMem
+ .text.ZeroMem  0x000000000000420a        0xe /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x000000000000420a                ZeroMem
+ .text.InternalAllocateZeroPool
+                0x0000000000004218       0x23 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000004218                InternalAllocateZeroPool
+ .text.ReallocatePool
+                0x000000000000423b       0x5c /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x000000000000423b                ReallocatePool
+ .text.AllocateZeroPool
+                0x0000000000004297       0x14 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x0000000000004297                AllocateZeroPool
+ .text.GetPiPcdProtocol
+                0x00000000000042ab       0x3f /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                0x00000000000042ab                GetPiPcdProtocol
+ .text.HiiDrawImageEx
+                0x00000000000042ea        0x9 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x00000000000042ea                HiiDrawImageEx
+ .text.HiiSetImageEx
+                0x00000000000042f3        0xd /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x00000000000042f3                HiiSetImageEx
+ .text.HiiGetImageEx
+                0x0000000000004300       0x1d /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000004300                HiiGetImageEx
+ .text.HiiDrawImageIdEx
+                0x000000000000431d       0x9b /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x000000000000431d                HiiDrawImageIdEx
+ .text.HiiNewImageEx
+                0x00000000000043b8        0x9 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x00000000000043b8                HiiNewImageEx
+ .text.GetValueOfNumber
+                0x00000000000043c1      0x186 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x00000000000043c1                GetValueOfNumber
+ .text.MergeDefaultString
+                0x0000000000004547      0x8d8 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000004547                MergeDefaultString
+ .text.AppendToMultiString
+                0x0000000000004e1f       0xab /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000004e1f                AppendToMultiString
+ .text.OutputConfigBody
+                0x0000000000004eca       0xef /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000004eca                OutputConfigBody
+ .text.HiiToLower
+                0x0000000000004fb9       0x3c /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000004fb9                HiiToLower
+ .text.GenerateSubStr
+                0x0000000000004ff5      0x220 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000004ff5                GenerateSubStr
+ .text.CalculateConfigStringLen
+                0x0000000000005215       0x3a /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000005215                CalculateConfigStringLen
+ .text.LocateHiiImageDecoder
+                0x000000000000524f      0x12a /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x000000000000524f                LocateHiiImageDecoder
+ .text.HiiGetImageInfo
+                0x0000000000005379      0x129 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                0x0000000000005379                HiiGetImageInfo
+ .text.ImageToBlt.part.0
+                0x00000000000054a2      0x140 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.CopyRgbToGopPixel
+                0x00000000000055e2       0x3e /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.Output8bitPixel
+                0x0000000000005620      0x108 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .text.HiiDrawImage
+                0x0000000000005728      0x324 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                0x0000000000005728                HiiDrawImage
+ .text.LocatePackageList
+                0x0000000000005a4c       0x1b /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                0x0000000000005a4c                LocatePackageList
+ .text.HiiSetImage
+                0x0000000000005a67      0x26e /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                0x0000000000005a67                HiiSetImage
+ .text.IGetImage
+                0x0000000000005cd5      0x570 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                0x0000000000005cd5                IGetImage
+ .text.HiiGetImage
+                0x0000000000006245       0x20 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                0x0000000000006245                HiiGetImage
+ .text.HiiDrawImageId
+                0x0000000000006265       0x9b /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                0x0000000000006265                HiiDrawImageId
+ .text.HiiNewImage
+                0x0000000000006300      0x21c /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                0x0000000000006300                HiiNewImage
+ .text.HiiFindKeyboardLayouts
+                0x000000000000651c      0x147 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x000000000000651c                HiiFindKeyboardLayouts
+ .text.ExportPackageList.part.20
+                0x0000000000006663      0x7b7 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .text.HiiGetPackageListHandle
+                0x0000000000006e1a       0x7d /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x0000000000006e1a                HiiGetPackageListHandle
+ .text.HiiExportPackageLists
+                0x0000000000006e97      0x15e /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x0000000000006e97                HiiExportPackageLists
+ .text.HiiListPackageLists
+                0x0000000000006ff5      0x196 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x0000000000006ff5                HiiListPackageLists
+ .text.HiiRegisterPackageNotify
+                0x000000000000718b       0xfa /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x000000000000718b                HiiRegisterPackageNotify
+ .text.HiiGetKeyboardLayout
+                0x0000000000007285      0x188 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x0000000000007285                HiiGetKeyboardLayout
+ .text.HiiSetKeyboardLayout
+                0x000000000000740d       0xef /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x000000000000740d                HiiSetKeyboardLayout
+ .text.HiiUnregisterPackageNotify
+                0x00000000000074fc       0xcc /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x00000000000074fc                HiiUnregisterPackageNotify
+ .text.HiiSetString
+                0x00000000000075c8      0x7ff /tmp/ccpKXGJ3.ltrans6.ltrans.o
+                0x00000000000075c8                HiiSetString
+ .text.HiiGetString
+                0x0000000000007dc7      0x316 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+                0x0000000000007dc7                HiiGetString
+ .text.HiiNewString
+                0x00000000000080dd      0x8ae /tmp/ccpKXGJ3.ltrans6.ltrans.o
+                0x00000000000080dd                HiiNewString
+ .text.HiiGetGlyph
+                0x000000000000898b      0x316 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+                0x000000000000898b                HiiGetGlyph
+ .text.HiiStringToImage
+                0x0000000000008ca1     0x1031 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+                0x0000000000008ca1                HiiStringToImage
+ .text.HiiStringIdToImage
+                0x0000000000009cd2      0x44d /tmp/ccpKXGJ3.ltrans7.ltrans.o
+                0x0000000000009cd2                HiiStringIdToImage
+ .text.HiiGetAltCfg
+                0x000000000000a11f      0x4b2 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                0x000000000000a11f                HiiGetAltCfg
+ .text.HiiConfigToBlock
+                0x000000000000a5d1      0x3a8 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                0x000000000000a5d1                HiiConfigToBlock
+ .text.GetUnicodeStringTextOrSize
+                0x000000000000a979       0x52 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                0x000000000000a979                GetUnicodeStringTextOrSize
+ .text.ReferFontInfoLocally
+                0x000000000000a9cb       0x83 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                0x000000000000a9cb                ReferFontInfoLocally
+ .text.FindStringBlock
+                0x000000000000aa4e      0x66f /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                0x000000000000aa4e                FindStringBlock
+ .text.GetDevicePath.part.0.lto_priv.28
+                0x000000000000b0bd      0x19c /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                0x000000000000b0bd                GetDevicePath.part.0.lto_priv.28
+ .text.GetNameFromId
+                0x000000000000b259      0x195 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.ConstructRequestElement
+                0x000000000000b3ee       0x9f /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.ConstructConfigHdr
+                0x000000000000b48d      0x305 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .text.MergeToMultiKeywordResp
+                0x000000000000b792       0xad /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                0x000000000000b792                MergeToMultiKeywordResp
+ .text.GenerateKeywordResp
+                0x000000000000b83f      0x1c6 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                0x000000000000b83f                GenerateKeywordResp
+ .text.GetStringIdFromDatabase
+                0x000000000000ba05      0x1c4 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                0x000000000000ba05                GetStringIdFromDatabase
+ .text.EfiConfigKeywordHandlerSetData
+                0x000000000000bbc9      0x690 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                0x000000000000bbc9                EfiConfigKeywordHandlerSetData
+ .text.ExtractValueFromDriver
+                0x000000000000c259       0xc6 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                0x000000000000c259                ExtractValueFromDriver
+ .text.ExtractConfigRequest
+                0x000000000000c31f      0x173 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                0x000000000000c31f                ExtractConfigRequest
+ .text.HiiGetFontInfo
+                0x000000000000c492      0x2eb /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000c492                HiiGetFontInfo
+ .text.GetWidth
+                0x000000000000c77d       0xaf /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000c77d                GetWidth
+ .text.FindStorageFromVarId
+                0x000000000000c82c       0x53 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000c82c                FindStorageFromVarId
+ .text.FindQuestionFromStringId
+                0x000000000000c87f       0x81 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000c87f                FindQuestionFromStringId
+ .text.GetUnicodeStringTextAndSize
+                0x000000000000c900       0x6a /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000c900                GetUnicodeStringTextAndSize
+ .text.GetStringIdFromRecord
+                0x000000000000c96a      0x64f /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000c96a                GetStringIdFromRecord
+ .text.ExtractKeyword
+                0x000000000000cfb9       0xf0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000cfb9                ExtractKeyword
+ .text.ExtractNameSpace
+                0x000000000000d0a9      0x12c /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000d0a9                ExtractNameSpace
+ .text.ExtractDevicePath
+                0x000000000000d1d5      0x1db /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000d1d5                ExtractDevicePath
+ .text.GetSystemFont.part.1.lto_priv.27
+                0x000000000000d3b0       0xbb /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                0x000000000000d3b0                GetSystemFont.part.1.lto_priv.27
+ .text.EfiConfigKeywordHandlerGetData
+                0x000000000000d46b      0xf18 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+                0x000000000000d46b                EfiConfigKeywordHandlerGetData
+ .text.StrHexToUint64S.constprop.20
+                0x000000000000e383      0x157 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+                0x000000000000e383                StrHexToUint64S.constprop.20
+ .text.BasePrintLibSPrintMarker.constprop.15
+                0x000000000000e4da      0xe68 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+                0x000000000000e4da                BasePrintLibSPrintMarker.constprop.15
+ .text.GlyphToBlt
+                0x000000000000f342      0x1e3 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.NarrowGlyphToBlt
+                0x000000000000f525       0x9b /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .text.IsLineBreak
+                0x000000000000f5c0       0xb6 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                0x000000000000f5c0                IsLineBreak
+ .text.IsFontInfoExisted
+                0x000000000000f676      0x492 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                0x000000000000f676                IsFontInfoExisted
+ .text.IsSystemFontInfo
+                0x000000000000fb08      0x152 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                0x000000000000fb08                IsSystemFontInfo
+ .text.SaveFontName
+                0x000000000000fc5a       0x61 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                0x000000000000fc5a                SaveFontName
+ .text.GlyphToImage
+                0x000000000000fcbb      0x113 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                0x000000000000fcbb                GlyphToImage
+ .text.GetGlyphBuffer
+                0x000000000000fdce      0x302 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                0x000000000000fdce                GetGlyphBuffer
+ .text.NewCell  0x00000000000100d0       0x8b /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                0x00000000000100d0                NewCell
+ .text.HiiBlockToConfig
+                0x000000000001015b      0x56c /tmp/ccpKXGJ3.ltrans14.ltrans.o
+                0x000000000001015b                HiiBlockToConfig
+ .text.HiiConfigRoutingRouteConfig
+                0x00000000000106c7      0x4d0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+                0x00000000000106c7                HiiConfigRoutingRouteConfig
+ .text.HiiConfigRoutingExportConfig
+                0x0000000000010b97      0x337 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+                0x0000000000010b97                HiiConfigRoutingExportConfig
+ .text.IsThisVarstore
+                0x0000000000010ece      0x190 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x0000000000010ece                IsThisVarstore
+ .text.IsThisPackageList
+                0x000000000001105e      0x1f5 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x000000000001105e                IsThisPackageList
+ .text.GetElementsFromRequest
+                0x0000000000011253       0x52 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x0000000000011253                GetElementsFromRequest
+ .text.GetVarStoreType
+                0x00000000000112a5      0x327 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x00000000000112a5                GetVarStoreType
+ .text.GetSupportedLanguages
+                0x00000000000115cc       0xa3 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x00000000000115cc                GetSupportedLanguages
+ .text.InternalGetString
+                0x000000000001166f      0x183 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x000000000001166f                InternalGetString
+ .text.BlockArrayCheck
+                0x00000000000117f2       0xca /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x00000000000117f2                BlockArrayCheck
+ .text.InsertBlockData
+                0x00000000000118bc       0x88 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x00000000000118bc                InsertBlockData
+ .text.IsThisOpcodeRequired
+                0x0000000000011944      0x1b0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x0000000000011944                IsThisOpcodeRequired
+ .text.InsertDefaultValue
+                0x0000000000011af4       0xa3 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                0x0000000000011af4                InsertDefaultValue
+ .text.RemoveKeyboardLayoutPackages
+                0x0000000000011b97       0xa6 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000011b97                RemoveKeyboardLayoutPackages
+ .text.AddDevicePathPackage
+                0x0000000000011c3d      0x101 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000011c3d                AddDevicePathPackage
+ .text.RemoveDevicePathPackage
+                0x0000000000011d3e       0x7a /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000011d3e                RemoveDevicePathPackage
+ .text.RemoveSimpleFontPackages
+                0x0000000000011db8       0x96 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000011db8                RemoveSimpleFontPackages
+ .text.RemoveImagePackages
+                0x0000000000011e4e       0x81 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000011e4e                RemoveImagePackages
+ .text.RemoveFontPackages
+                0x0000000000011ecf      0x141 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000011ecf                RemoveFontPackages
+ .text.RemoveStringPackages
+                0x0000000000012010       0xe7 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000012010                RemoveStringPackages
+ .text.RemoveFormPackages
+                0x00000000000120f7       0x8f /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x00000000000120f7                RemoveFormPackages
+ .text.ExportFormPackages
+                0x0000000000012186      0x12b /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000012186                ExportFormPackages
+ .text.FindQuestionDefaultSetting
+                0x00000000000122b1      0x399 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x00000000000122b1                FindQuestionDefaultSetting
+ .text.IsEfiVarStoreQuestion
+                0x000000000001264a       0x1b /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x000000000001264a                IsEfiVarStoreQuestion
+ .text.RemoveGuidPackages
+                0x0000000000012665       0xa6 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                0x0000000000012665                RemoveGuidPackages
+ .text.WriteOutputParam.constprop.1
+                0x000000000001270b       0x92 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .text.BasePrintLibSPrint.constprop.14
+                0x000000000001279d       0x29 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x000000000001279d                BasePrintLibSPrint.constprop.14
+ .text.UnicodeValueToStringS.constprop.13
+                0x00000000000127c6      0x14f /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x00000000000127c6                UnicodeValueToStringS.constprop.13
+ .text.GetVariable2.constprop.8
+                0x0000000000012915       0xb9 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x0000000000012915                GetVariable2.constprop.8
+ .text.GetBestLanguage.constprop.6
+                0x00000000000129ce       0xeb /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x00000000000129ce                GetBestLanguage.constprop.6
+ .text.GetFormPackageData.part.4.constprop.5
+                0x0000000000012ab9       0xd3 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x0000000000012ab9                GetFormPackageData.part.4.constprop.5
+ .text.FindGlyphBlock.constprop.0
+                0x0000000000012b8c      0x550 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x0000000000012b8c                FindGlyphBlock.constprop.0
+ .text.HiiConfigRoutingExtractConfig
+                0x00000000000130dc      0x9d1 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+                0x00000000000130dc                HiiConfigRoutingExtractConfig
+ .text.HiiGetDatabaseInfo
+                0x0000000000013aad       0xd7 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000013aad                HiiGetDatabaseInfo
+ .text.HiiGetConfigurationSetting
+                0x0000000000013b84      0x11c /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000013b84                HiiGetConfigurationSetting
+ .text.HiiUpdatePackageList
+                0x0000000000013ca0      0x1db /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000013ca0                HiiUpdatePackageList
+ .text.HiiRemovePackageList
+                0x0000000000013e7b      0x1ae /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000013e7b                HiiRemovePackageList
+ .text.HiiNewPackageList
+                0x0000000000014029      0x230 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000014029                HiiNewPackageList
+ .text.AsciiHiiToLower
+                0x0000000000014259       0x19 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .text.IsHiiHandleValid
+                0x0000000000014272       0x12 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+                0x0000000000014272                IsHiiHandleValid
+ .text.InvokeRegisteredFunction
+                0x0000000000014284      0x32f /tmp/ccpKXGJ3.ltrans20.ltrans.o
+                0x0000000000014284                InvokeRegisteredFunction
+ .text.HiiGetLanguages
+                0x00000000000145b3      0x128 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+                0x00000000000145b3                HiiGetLanguages
+ .text.HiiCompareLanguage
+                0x00000000000146db       0xd1 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+                0x00000000000146db                HiiCompareLanguage
+ .text.HiiGetSecondaryLanguages
+                0x00000000000147ac      0x181 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+                0x00000000000147ac                HiiGetSecondaryLanguages
+ *fill*         0x000000000001492d        0x3 
+ .text          0x0000000000014930       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                0x0000000000014930                InternalMemCompareMem
+ *fill*         0x000000000001494d        0x3 
+ .text          0x0000000000014950       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                0x0000000000014950                InternalMemZeroMem
+ *fill*         0x000000000001496d        0x3 
+ .text          0x0000000000014970       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                0x0000000000014970                InternalMemSetMem32
+ *fill*         0x0000000000014981        0xf 
+ .text          0x0000000000014990       0x3c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                0x0000000000014990                InternalMemCopyMem
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str2.2
+                0x00000000000149cc       0xde /tmp/ccpKXGJ3.ltrans0.ltrans.o
+                                        0x11a (size before relaxing)
+ *fill*         0x0000000000014aaa        0x2 
+ .rodata.AddPackages
+                0x0000000000014aac       0x24 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .rodata.GetImageIdOrAddress
+                0x0000000000014ad0       0x8c /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ *fill*         0x0000000000014b5c        0x4 
+ .rodata.mHexStr
+                0x0000000000014b60       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .rodata.str2.2
+                0x0000000000014b70       0x2c /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                                         0x6e (size before relaxing)
+ .rodata.HiiSetImage
+                0x0000000000014b9c       0x28 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .rodata.IGetImage
+                0x0000000000014bc4       0x28 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .rodata.HiiListPackageLists
+                0x0000000000014bec       0x28 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .rodata.str1.1
+                0x0000000000014c14        0x0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+                                          0x1 (size before relaxing)
+ .rodata.str2.2
+                0x0000000000014c14       0x1a /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultPlatformLang
+                0x0000000000014c2e        0x6 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .rodata.str2.2
+                0x0000000000014c34       0x1a /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                                         0x6a (size before relaxing)
+ .rodata.FindStringBlock
+                0x0000000000014c34       0x8c /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .rodata.str1.1
+                0x0000000000014cc0        0xd /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                                          0xe (size before relaxing)
+ *fill*         0x0000000000014ccd        0x1 
+ .rodata.str2.2
+                0x0000000000014cce       0x3c /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                                         0xd4 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000014d0a        0x7 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ *fill*         0x0000000000014d0a        0x2 
+ .rodata.GetStringIdFromRecord
+                0x0000000000014d0c       0x8c /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .rodata.str2.2
+                0x0000000000014d98       0x16 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                                         0x4e (size before relaxing)
+ *fill*         0x0000000000014dae       0x12 
+ .rodata.mHiiEfiColors
+                0x0000000000014dc0       0x40 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .rodata.CSWTCH.117
+                0x0000000000014e00        0x4 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .rodata.str1.1
+                0x0000000000014e04        0x7 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .rodata.str2.2
+                0x0000000000014e04       0x62 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ *fill*         0x0000000000014e66        0x2 
+ .rodata.EfiConfigKeywordHandlerGetData
+                0x0000000000014e68       0x8c /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .rodata.str1.1
+                0x0000000000014ef4      0x29f /tmp/ccpKXGJ3.ltrans12.ltrans.o
+                                        0x2b0 (size before relaxing)
+ *fill*         0x0000000000015193        0x1 
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000015194        0x4 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+                0x0000000000015194                _gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+                0x0000000000015194                _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+ .rodata.str2.2
+                0x0000000000015198       0x62 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+                                         0x58 (size before relaxing)
+ .rodata.str2.2
+                0x0000000000015198        0xe /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                                         0x62 (size before relaxing)
+ .rodata.str1.1
+                0x00000000000151a6        0x1 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .rodata.str2.2
+                0x00000000000151a6       0x1a /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .rodata.str2.2
+                0x00000000000151a6       0x6e /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ *fill*         0x00000000000151a6        0x2 
+ .rodata.HiiUpdatePackageList
+                0x00000000000151a8       0x24 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .rodata.InvokeRegisteredFunction
+                0x00000000000151cc       0x24 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ .rodata.str1.1
+                0x00000000000151f0        0x2 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+ *(.got .got.*)
+ .got           0x00000000000151f2        0x0 DxePcdLib.obj (symbol from plugin)
+ .got.plt       0x00000000000151f2        0x0 DxePcdLib.obj (symbol from plugin)
+                0x00000000000151f2                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000015200        0x0
+ .plt           0x0000000000015200        0x0 DxePcdLib.obj (symbol from plugin)
+
+.data           0x0000000000015200      0x4e1
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEdkiiIfrBitVarstoreGuid
+                0x0000000000015200       0x10 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+                0x0000000000015200                gEdkiiIfrBitVarstoreGuid
+ .data.gEfiMdeModulePkgTokenSpaceGuid
+                0x0000000000015210       0x10 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+                0x0000000000015210                gEfiMdeModulePkgTokenSpaceGuid
+ .data.gEfiPcdProtocolGuid
+                0x0000000000015220       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiHiiImageExProtocolGuid
+                0x0000000000015230       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000015240       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiConfigKeywordHandlerProtocolGuid
+                0x0000000000015250       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x0000000000015260       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000015270       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiHiiKeyBoardLayoutGuid
+                0x0000000000015280       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x0000000000015290       0x10 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .data.gEfiHiiImageDecoderNamePngGuid
+                0x00000000000152a0       0x10 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .data.gEfiHiiImageDecoderNameJpegGuid
+                0x00000000000152b0       0x10 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .data.gEfiHiiImageDecoderProtocolGuid
+                0x00000000000152c0       0x10 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .data.gEfiCallerIdGuid
+                0x00000000000152d0       0x10 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .data.mLanguageWindow
+                0x00000000000152e0       0x20 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .data.rel.ro.local.mStatusString
+                0x0000000000015300      0x138 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ *fill*         0x0000000000015438        0x8 
+ .data.gEfiHiiConfigAccessProtocolGuid
+                0x0000000000015440       0x10 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+                0x0000000000015440                gEfiHiiConfigAccessProtocolGuid
+ .data.gEfiGetPcdInfoProtocolGuid
+                0x0000000000015450       0x10 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .data.rel.local.gVarStorageList
+                0x0000000000015460       0x10 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .data.gSkuId   0x0000000000015470        0x8 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ *fill*         0x0000000000015478        0x8 
+ .data.rel.local.mPrivate
+                0x0000000000015480      0x1a8 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x0000000000015480                mPrivate
+ *fill*         0x0000000000015628        0x8 
+ .data.gEfiGlobalVariableGuid
+                0x0000000000015630       0x10 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x0000000000015630                gEfiGlobalVariableGuid
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x0000000000015640       0x10 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000015640                gEfiHiiDatabaseProtocolGuid
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x0000000000015650       0x10 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000015650                gEfiHiiConfigRoutingProtocolGuid
+ .data.gExportConfigResp
+                0x0000000000015660        0x1 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000015660                gExportConfigResp
+ *fill*         0x0000000000015661        0xf 
+ .data.gEfiDevicePathProtocolGuid
+                0x0000000000015670       0x10 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x0000000000015670                gEfiDevicePathProtocolGuid
+ *(.bss .bss.*)
+ .bss.gNvDefaultStoreSize
+                0x0000000000015680        0x8 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+                0x0000000000015680                gNvDefaultStoreSize
+ .bss.mPiPcd    0x0000000000015688        0x8 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .bss.gST       0x0000000000015690        0x8 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .bss.mDevicePathLibDevicePathUtilities
+                0x0000000000015698        0x8 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .bss.gHiiKeyboardLayoutChanged
+                0x00000000000156a0        0x8 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x00000000000156a0                gHiiKeyboardLayoutChanged
+ .bss.gBS       0x00000000000156a8        0x8 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                0x00000000000156a8                gBS
+ .bss.mPiPcdInfo
+                0x00000000000156b0        0x8 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .bss.gRT       0x00000000000156b8        0x8 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                0x00000000000156b8                gRT
+ .bss.gRTDatabaseInfoBuffer
+                0x00000000000156c0        0x8 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .bss.gDatabaseInfoSize
+                0x00000000000156c8        0x8 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .bss.gRTConfigRespBuffer
+                0x00000000000156d0        0x8 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .bss.gConfigRespSize
+                0x00000000000156d8        0x8 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .bss.gExportAfterReadyToBoot
+                0x00000000000156e0        0x1 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                0x00000000000156e0                gExportAfterReadyToBoot
+
+.eh_frame       0x0000000000015700        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000015700        0x0
+ .dynbss        0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000015700        0x0
+ .gnu.version_d
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000015700        0x0
+ .gnu.version   0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000015700        0x0
+ .gnu.version_r
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+
+.rela           0x0000000000015700      0x780
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text     0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetFullStringFromHiiFormPackages
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AddPackages
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.InternalAllocatePool
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.OnReadyToBoot
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text._ModuleEntryPoint
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.DevicePathFromHandle
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FreePool
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UnicodeSPrint
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AsciiStrToUnicodeStrS
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.UnicodeStrToAsciiStrS
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AsciiStrCpyS
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetPiPcdProtocol
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiDrawImageEx
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiSetImageEx
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetImageEx
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiNewImageEx
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetValueOfNumber
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GenerateSubStr
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.LocateHiiImageDecoder
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetImageInfo
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiDrawImage
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiSetImage
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiNewImage
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ExportPackageList.part.20
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetPackageListHandle
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiExportPackageLists
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiSetString
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetString
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiNewString
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetGlyph
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiStringToImage
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiStringIdToImage
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.FindStringBlock
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetDevicePath.part.0.lto_priv.28
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetNameFromId
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ConstructConfigHdr
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetStringIdFromDatabase
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiConfigKeywordHandlerSetData
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ExtractValueFromDriver
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ExtractConfigRequest
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetFontInfo
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ExtractDevicePath
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.EfiConfigKeywordHandlerGetData
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.BasePrintLibSPrintMarker.constprop.15
+                0x0000000000015700        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x0000000000015700      0x3a8 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetGlyphBuffer
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiBlockToConfig
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiConfigRoutingRouteConfig
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiConfigRoutingExportConfig
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.IsThisPackageList
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetVarStoreType
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.GetSupportedLanguages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.InternalGetString
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveKeyboardLayoutPackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.AddDevicePathPackage
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveDevicePathPackage
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveSimpleFontPackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveImagePackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveFontPackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveStringPackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveFormPackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.ExportFormPackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.RemoveGuidPackages
+                0x0000000000015aa8        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gVarStorageList
+                0x0000000000015aa8       0x30 DxePcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPrivate
+                0x0000000000015ad8      0x3a8 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiConfigRoutingExtractConfig
+                0x0000000000015e80        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiUpdatePackageList
+                0x0000000000015e80        0x0 DxePcdLib.obj (symbol from plugin)
+ .rela.text.HiiRemovePackageList
+                0x0000000000015e80        0x0 DxePcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000015e80       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000015e80       0x24 DxePcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x3b5dc
+ .debug_info    0x0000000000000000     0x3382 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .debug_info    0x0000000000003382     0x3d4f /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .debug_info    0x00000000000070d1     0x40ae /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .debug_info    0x000000000000b17f     0x37b2 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .debug_info    0x000000000000e931     0x34f8 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .debug_info    0x0000000000011e29     0x4cc5 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .debug_info    0x0000000000016aee     0x3469 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .debug_info    0x0000000000019f57     0x3217 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .debug_info    0x000000000001d16e     0x2bff /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .debug_info    0x000000000001fd6d     0x2439 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .debug_info    0x00000000000221a6     0x2c13 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .debug_info    0x0000000000024db9     0x1988 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .debug_info    0x0000000000026741      0xc11 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .debug_info    0x0000000000027352     0x2838 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .debug_info    0x0000000000029b8a     0x2cc1 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .debug_info    0x000000000002c84b     0x1a4c /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .debug_info    0x000000000002e297     0x3330 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .debug_info    0x00000000000315c7     0x2c21 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .debug_info    0x00000000000341e8     0x295f /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .debug_info    0x0000000000036b47     0x269c /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .debug_info    0x00000000000391e3     0x23f9 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x40f8
+ .debug_abbrev  0x0000000000000000      0x2ad /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .debug_abbrev  0x00000000000002ad      0x306 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .debug_abbrev  0x00000000000005b3      0x4b6 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000a69      0x3c3 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000000e2c      0x3c7 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .debug_abbrev  0x00000000000011f3      0x318 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .debug_abbrev  0x000000000000150b      0x2ad /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .debug_abbrev  0x00000000000017b8      0x2b8 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .debug_abbrev  0x0000000000001a70      0x39a /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .debug_abbrev  0x0000000000001e0a      0x2ca /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .debug_abbrev  0x00000000000020d4      0x3e8 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .debug_abbrev  0x00000000000024bc      0x24a /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .debug_abbrev  0x0000000000002706      0x1f9 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .debug_abbrev  0x00000000000028ff      0x356 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .debug_abbrev  0x0000000000002c55      0x319 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .debug_abbrev  0x0000000000002f6e      0x28f /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .debug_abbrev  0x00000000000031fd      0x346 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .debug_abbrev  0x0000000000003543      0x2b7 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .debug_abbrev  0x00000000000037fa      0x2d6 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .debug_abbrev  0x0000000000003ad0      0x30b /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .debug_abbrev  0x0000000000003ddb      0x31d /tmp/ccpKXGJ3.ltrans20.ltrans.o
+
+.debug_loc      0x0000000000000000    0x2c565
+ .debug_loc     0x0000000000000000     0x34a9 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .debug_loc     0x00000000000034a9     0x2eaf /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .debug_loc     0x0000000000006358     0x2814 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .debug_loc     0x0000000000008b6c     0x2c08 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .debug_loc     0x000000000000b774     0x2d40 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .debug_loc     0x000000000000e4b4     0x321e /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .debug_loc     0x00000000000116d2     0x2db4 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .debug_loc     0x0000000000014486     0x2cd3 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .debug_loc     0x0000000000017159     0x20f3 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .debug_loc     0x000000000001924c     0x2abf /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .debug_loc     0x000000000001bd0b     0x1b58 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .debug_loc     0x000000000001d863     0x1d12 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .debug_loc     0x000000000001f575     0x1a97 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .debug_loc     0x000000000002100c     0x185b /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .debug_loc     0x0000000000022867     0x15ab /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .debug_loc     0x0000000000023e12     0x1b9e /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .debug_loc     0x00000000000259b0     0x1e60 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .debug_loc     0x0000000000027810     0x178e /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .debug_loc     0x0000000000028f9e      0xe38 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .debug_loc     0x0000000000029dd6     0x122b /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .debug_loc     0x000000000002b001     0x1564 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xce0
+ .debug_aranges
+                0x0000000000000000       0x30 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000030       0x30 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000060      0x2c0 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .debug_aranges
+                0x0000000000000320      0x100 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000420       0xc0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .debug_aranges
+                0x00000000000004e0       0xb0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .debug_aranges
+                0x0000000000000590       0x50 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .debug_aranges
+                0x00000000000005e0       0x50 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .debug_aranges
+                0x0000000000000630       0x80 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .debug_aranges
+                0x00000000000006b0       0xb0 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .debug_aranges
+                0x0000000000000760       0xc0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .debug_aranges
+                0x0000000000000820       0x30 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .debug_aranges
+                0x0000000000000850       0x40 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .debug_aranges
+                0x0000000000000890       0xb0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .debug_aranges
+                0x0000000000000940       0x50 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .debug_aranges
+                0x0000000000000990       0xc0 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .debug_aranges
+                0x0000000000000a50       0xe0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .debug_aranges
+                0x0000000000000b30       0x90 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .debug_aranges
+                0x0000000000000bc0       0x30 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .debug_aranges
+                0x0000000000000bf0       0x70 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .debug_aranges
+                0x0000000000000c60       0x80 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x4820
+ .debug_ranges  0x0000000000000000      0x740 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000740      0x8b0 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000000ff0      0x550 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .debug_ranges  0x0000000000001540      0x440 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000001980      0x380 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000001d00      0x5e0 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .debug_ranges  0x00000000000022e0      0x500 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .debug_ranges  0x00000000000027e0      0x3e0 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .debug_ranges  0x0000000000002bc0       0xc0 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .debug_ranges  0x0000000000002c80      0x330 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .debug_ranges  0x0000000000002fb0      0x1f0 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .debug_ranges  0x00000000000031a0      0x6c0 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .debug_ranges  0x0000000000003860       0xb0 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .debug_ranges  0x0000000000003910      0x1c0 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .debug_ranges  0x0000000000003ad0      0x1d0 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .debug_ranges  0x0000000000003ca0      0x120 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .debug_ranges  0x0000000000003dc0      0x1d0 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .debug_ranges  0x0000000000003f90      0x210 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .debug_ranges  0x00000000000041a0      0x290 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .debug_ranges  0x0000000000004430      0x270 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .debug_ranges  0x00000000000046a0      0x180 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+
+.debug_line     0x0000000000000000     0x7f7a
+ .debug_line    0x0000000000000000      0x7a6 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .debug_line    0x00000000000007a6      0x71e /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .debug_line    0x0000000000000ec4      0xc90 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .debug_line    0x0000000000001b54      0x714 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .debug_line    0x0000000000002268      0x67d /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .debug_line    0x00000000000028e5      0x71a /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .debug_line    0x0000000000002fff      0x5d5 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .debug_line    0x00000000000035d4      0x6a6 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .debug_line    0x0000000000003c7a      0x648 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .debug_line    0x00000000000042c2      0x5b7 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .debug_line    0x0000000000004879      0x67d /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .debug_line    0x0000000000004ef6      0x492 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .debug_line    0x0000000000005388      0x4c7 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .debug_line    0x000000000000584f      0x4f3 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .debug_line    0x0000000000005d42      0x4d1 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .debug_line    0x0000000000006213      0x498 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .debug_line    0x00000000000066ab      0x67e /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .debug_line    0x0000000000006d29      0x602 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .debug_line    0x000000000000732b      0x396 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .debug_line    0x00000000000076c1      0x4ef /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .debug_line    0x0000000000007bb0      0x3ca /tmp/ccpKXGJ3.ltrans20.ltrans.o
+
+.debug_str      0x0000000000000000     0x6861
+ .debug_str     0x0000000000000000      0xd99 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+                                       0x10da (size before relaxing)
+ .debug_str     0x0000000000000d99     0x10c7 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+                                       0x1f7c (size before relaxing)
+ .debug_str     0x0000000000001e60     0x1cce /tmp/ccpKXGJ3.ltrans2.ltrans.o
+                                       0x22a5 (size before relaxing)
+ .debug_str     0x0000000000003b2e      0x5fd /tmp/ccpKXGJ3.ltrans3.ltrans.o
+                                       0x1a8f (size before relaxing)
+ .debug_str     0x000000000000412b      0x275 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+                                       0x19f1 (size before relaxing)
+ .debug_str     0x00000000000043a0      0x457 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+                                       0x25af (size before relaxing)
+ .debug_str     0x00000000000047f7      0x25b /tmp/ccpKXGJ3.ltrans6.ltrans.o
+                                       0x1934 (size before relaxing)
+ .debug_str     0x0000000000004a52      0x242 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+                                       0x1643 (size before relaxing)
+ .debug_str     0x0000000000004c94      0x214 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+                                       0x1856 (size before relaxing)
+ .debug_str     0x0000000000004ea8      0x30b /tmp/ccpKXGJ3.ltrans9.ltrans.o
+                                        0xc26 (size before relaxing)
+ .debug_str     0x00000000000051b3      0x1f1 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+                                       0x1b7e (size before relaxing)
+ .debug_str     0x00000000000053a4      0x119 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+                                        0xbaa (size before relaxing)
+ .debug_str     0x00000000000054bd      0x29e /tmp/ccpKXGJ3.ltrans12.ltrans.o
+                                        0x69d (size before relaxing)
+ .debug_str     0x000000000000575b      0x1ba /tmp/ccpKXGJ3.ltrans13.ltrans.o
+                                       0x18a4 (size before relaxing)
+ .debug_str     0x0000000000005915      0x243 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+                                       0x18b5 (size before relaxing)
+ .debug_str     0x0000000000005b58      0x12c /tmp/ccpKXGJ3.ltrans15.ltrans.o
+                                        0xc5c (size before relaxing)
+ .debug_str     0x0000000000005c84      0x460 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+                                       0x1eed (size before relaxing)
+ .debug_str     0x00000000000060e4      0x2a1 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+                                       0x1ca2 (size before relaxing)
+ .debug_str     0x0000000000006385      0x15d /tmp/ccpKXGJ3.ltrans18.ltrans.o
+                                       0x1889 (size before relaxing)
+ .debug_str     0x00000000000064e2      0x23e /tmp/ccpKXGJ3.ltrans19.ltrans.o
+                                       0x16a2 (size before relaxing)
+ .debug_str     0x0000000000006720      0x141 /tmp/ccpKXGJ3.ltrans20.ltrans.o
+                                       0x171c (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x3ad0
+ .debug_frame   0x0000000000000000       0x98 /tmp/ccpKXGJ3.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000098      0x280 /tmp/ccpKXGJ3.ltrans1.ltrans.o
+ .debug_frame   0x0000000000000318      0x640 /tmp/ccpKXGJ3.ltrans2.ltrans.o
+ .debug_frame   0x0000000000000958      0x430 /tmp/ccpKXGJ3.ltrans3.ltrans.o
+ .debug_frame   0x0000000000000d88      0x3e0 /tmp/ccpKXGJ3.ltrans4.ltrans.o
+ .debug_frame   0x0000000000001168      0x440 /tmp/ccpKXGJ3.ltrans5.ltrans.o
+ .debug_frame   0x00000000000015a8      0x180 /tmp/ccpKXGJ3.ltrans6.ltrans.o
+ .debug_frame   0x0000000000001728      0x168 /tmp/ccpKXGJ3.ltrans7.ltrans.o
+ .debug_frame   0x0000000000001890      0x300 /tmp/ccpKXGJ3.ltrans8.ltrans.o
+ .debug_frame   0x0000000000001b90      0x470 /tmp/ccpKXGJ3.ltrans9.ltrans.o
+ .debug_frame   0x0000000000002000      0x3d8 /tmp/ccpKXGJ3.ltrans10.ltrans.o
+ .debug_frame   0x00000000000023d8       0x88 /tmp/ccpKXGJ3.ltrans11.ltrans.o
+ .debug_frame   0x0000000000002460      0x120 /tmp/ccpKXGJ3.ltrans12.ltrans.o
+ .debug_frame   0x0000000000002580      0x368 /tmp/ccpKXGJ3.ltrans13.ltrans.o
+ .debug_frame   0x00000000000028e8      0x180 /tmp/ccpKXGJ3.ltrans14.ltrans.o
+ .debug_frame   0x0000000000002a68      0x460 /tmp/ccpKXGJ3.ltrans15.ltrans.o
+ .debug_frame   0x0000000000002ec8      0x490 /tmp/ccpKXGJ3.ltrans16.ltrans.o
+ .debug_frame   0x0000000000003358      0x2d0 /tmp/ccpKXGJ3.ltrans17.ltrans.o
+ .debug_frame   0x0000000000003628       0x88 /tmp/ccpKXGJ3.ltrans18.ltrans.o
+ .debug_frame   0x00000000000036b0      0x1f8 /tmp/ccpKXGJ3.ltrans19.ltrans.o
+ .debug_frame   0x00000000000038a8      0x228 /tmp/ccpKXGJ3.ltrans20.ltrans.o

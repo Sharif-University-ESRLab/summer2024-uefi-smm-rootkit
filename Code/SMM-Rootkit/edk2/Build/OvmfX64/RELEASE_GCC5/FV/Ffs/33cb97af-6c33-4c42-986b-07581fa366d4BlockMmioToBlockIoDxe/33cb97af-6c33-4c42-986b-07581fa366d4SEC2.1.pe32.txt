@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /root/edk2/Build/OvmfX64/RELEASE_GCC5/FV/Ffs/33cb97af-6c33-4c42-986b-07581fa366d4BlockMmioToBlockIoDxe/33cb97af-6c33-4c42-986b-07581fa366d4SEC2.1.pe32 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/BlockMmioToBlockIoDxe/BlockIo/OUTPUT/BlockMmioToBlockIoDxe.efi

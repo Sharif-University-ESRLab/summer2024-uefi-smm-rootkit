@@ -1,0 +1,14 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Include/Library/DebugPrintErrorLevelLib.h
+/root/edk2/MdePkg/Include/Library/DebugLib.h
+/root/edk2/MdePkg/Include/Library/PrintLib.h
+/root/edk2/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort.inf
+/root/edk2/MdePkg/Include/Library/IoLib.h
+/root/edk2/OvmfPkg/Library/PlatformDebugLibIoPort/DebugLib.c
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Include/Library/BaseMemoryLib.h
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/OvmfPkg/Library/PlatformDebugLibIoPort/DebugLibDetect.c
+/root/edk2/MdePkg/Include/Library/PcdLib.h
+/root/edk2/OvmfPkg/Library/PlatformDebugLibIoPort/DebugLibDetect.h
+/root/edk2/MdePkg/Include/Library/BaseLib.h

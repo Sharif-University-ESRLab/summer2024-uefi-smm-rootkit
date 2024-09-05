@@ -1,0 +1,10 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Library/BaseCpuLib/BaseCpuLib.inf
+/root/edk2/MdePkg/Library/BaseCpuLib/X64/CpuFlushTlb.nasm
+/root/edk2/MdePkg/Library/BaseCpuLib/X64/CpuSleep.nasm
+/root/edk2/MdePkg/Library/BaseCpuLib/X64/CpuSleep.asm
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/MdePkg/Library/BaseCpuLib/X64/CpuFlushTlb.asm
+/root/edk2/MdePkg/Library/BaseCpuLib/X64/CpuSleep.S
+/root/edk2/MdePkg/Library/BaseCpuLib/X64/CpuFlushTlb.S

@@ -1,0 +1,7 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.S
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG/AutoGen.h
+/root/edk2/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm
+/root/edk2/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.asm
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib.inf

@@ -1,0 +1,15 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Include/Library/DebugLib.h
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoHighLevel.c
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibMsc.c
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/X64/IoFifoSev.nasm
+/root/edk2/MdePkg/Include/Library/IoLib.h
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibIcc.c
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibMmioBuffer.c
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLib.c
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev.inf
+/root/edk2/MdePkg/Include/Library/BaseLib.h
+/root/edk2/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicInternal.h

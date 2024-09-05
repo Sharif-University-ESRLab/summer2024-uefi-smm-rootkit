@@ -1,0 +1,1851 @@
+Archive member included to satisfy reference by file (symbol)
+
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib(DebugLibDetect.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/OUTPUT/DevicePathDxe.lib(DevicePath.obj)
+                              (--whole-archive)
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/OUTPUT/DevicePathDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.ConvertDeviceNodeToText
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.ConvertDevicePathToText
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.IsDevicePathMultiInstance
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.CreateDeviceNode
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DuplicateDevicePath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.GetNextDevicePathInstance
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.GetDevicePathSize
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.AppendDevicePathInstance
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.AppendDevicePathNode
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.AppendDevicePath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextSata
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextBBS
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextBbsPath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextPersistentVirtualCd
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextPersistentVirtualDisk
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextVirtualCd
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextVirtualDisk
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextRelativeOffsetRange
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextRamDisk
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.DevPathFromTextFvFile
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.unlikely.UefiDevicePathLibConvertTextToDeviceNode
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.IsHexStr
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextNodeGeneric
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextEndInstance
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextBBS
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathRelativeOffsetRange
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextFvFile
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextFv
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextMediaProtocol
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextFilePath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextCDROM
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextHardDrive
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextRamDisk
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathToTextUri
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.EisaIdFromText
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.StrToAscii
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.Strtoi64
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.Strtoi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.SplitStr
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.GetNextParamStr
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextAcpiEx
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.ConvertFromTextAcpi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextParallelPort
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextSerial
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextKeyboard
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextFloppy
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextPcieRoot
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextPciRoot
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextAcpi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextBmc
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextCtrl
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.ConvertFromTextVendor
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextVenHw
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextMemoryMapped
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextPcCard
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextPci
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextGenericPath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextAcpiPath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextHardwarePath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.DevPathFromTextPath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.unlikely.UefiDevicePathLibStrDuplicate
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.ConvertTextToDeviceNode
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.BasePrintLibSPrintMarker.constprop.7
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.6
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.UnicodeSPrint.constprop.5
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.4
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.ConvertTextToDevicePath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.InternalAllocateZeroPool.constprop.3
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.InternalAllocateCopyPool.constprop.2
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.InternalReallocatePool.constprop.1
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely.IsDevicePathValid.constprop.0
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextFv
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextMedia
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextVenMedia
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextCDROM
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextVlan
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUnit
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.ConvertFromTextUsbClass
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbTestAndMeasurement
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbIrdaBridge
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbDeviceFirmwareUpdate
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbWireless
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbDiagnostic
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbVideo
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbSmartCard
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbCDCData
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbHub
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbMassStorage
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbPrinter
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbImage
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbHID
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbCDCControl
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbAudio
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbClass
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUart
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextHD
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextMediaPath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUri
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextIPv6
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextIPv4
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextDns
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextBluetoothLE
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextBluetooth
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextMAC
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextWiFi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextUsbWwid
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.unlikely.DevPathFromTextiSCSI
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextDebugPort
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextVenUtf8
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextVenVt100Plus
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextVenVt100
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextVenPcAnsi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextEmmc
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextSd
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextUfs
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextI2O
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextUsb
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextScsi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextNVMe
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextUartFlowCtrl
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextAta
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextSAS
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextFibre
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextSasEx
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextFibreEx
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextVenMsg
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextInfiniband
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromText1394
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextMsg
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextAcpiAdr
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text.unlikely.DevPathFromTextAcpiExp
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.SwapBytes32
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.UefiDevicePathLibCatPrint
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.DevPathToTextMemMap
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.DevPathToTextPccard
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.DevPathToTextPci
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.UefiDevicePathLibCreateDeviceNode
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.IsDevicePathEnd
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.UefiDevicePathLibGetDevicePathSize
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.UefiDevicePathLibDuplicateDevicePath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.BasePrintLibFillBuffer
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.InternalMathSwapBytes64
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.InternalIsHexaDecimalDigitCharacter
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.InternalHexCharToUintn
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.StrCmp
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.StrLen
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.StrHexToBytes
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.StrToGuid
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.StrnLenS
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.StrHexToUintnS
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.StrDecimalToUintnS
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.CompareGuid
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.DevPathToTextVendor
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.UefiDevicePathLibAppendDevicePath
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.UefiDevicePathLibAppendDevicePathNode
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.unlikely.ZeroMem
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextBluetoothLE
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextBluetooth
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextVlan
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextiSCSI
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextUart
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextInfiniBand
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.CatIPv6Address
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.CatIPv4Address
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextDns
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.CatNetworkProtocol
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextIPv6
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextIPv4
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextMacAddr
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextI2O
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextSata
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextUsbClass
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextLogicalUnit
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextUsb
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToText1394
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextEmmc
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextSd
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextUfs
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextNVMe
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextSasEx
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextFibreEx
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextFibre
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextScsi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextAtapi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextAcpiAdr
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextAcpi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextBmc
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextController
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextWiFi
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextUsbWWID
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.unlikely.DevPathToTextAcpiEx
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .text.unlikely.StrHexToUint64S.constprop.11
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .text.unlikely.StrToIpv6Address.constprop.10
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .text.unlikely.StrToIpv4Address.constprop.9
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x36 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoolQd6.ltrans7.ltrans.o
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem64.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem32.obj)
+ .text          0x0000000000000000       0x17 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem16.obj)
+ .text          0x0000000000000000       0x16 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ScanMem8.obj)
+ .text          0x0000000000000000       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CompareMem.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem64.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem32.obj)
+ .text          0x0000000000000000       0x12 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem16.obj)
+ .text          0x0000000000000000       0x11 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(SetMem.obj)
+ .text          0x0000000000000000       0x2a /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(IsZeroBuffer.obj)
+ .text          0x0000000000000000        0x0 PcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000      0x116 /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib(IoFifoSev.obj)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLibDetect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathUtilities.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathToText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathFromText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePath.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccoolQd6.ltrans0.ltrans.o
+LOAD /tmp/ccoolQd6.ltrans1.ltrans.o
+LOAD /tmp/ccoolQd6.ltrans2.ltrans.o
+LOAD /tmp/ccoolQd6.ltrans3.ltrans.o
+LOAD /tmp/ccoolQd6.ltrans4.ltrans.o
+LOAD /tmp/ccoolQd6.ltrans5.ltrans.o
+LOAD /tmp/ccoolQd6.ltrans6.ltrans.o
+LOAD /tmp/ccoolQd6.ltrans7.ltrans.o
+START GROUP
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicSev/OUTPUT/BaseIoLibIntrinsicSev.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/OUTPUT/PlatformDebugLibIoPort.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/OUTPUT/DevicePathDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x7e98
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.ConvertDeviceNodeToText
+                0x0000000000000240       0x6d /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000000240                ConvertDeviceNodeToText
+ .text.ConvertDevicePathToText
+                0x00000000000002ad      0x104 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x00000000000002ad                ConvertDevicePathToText
+ .text.IsDevicePathMultiInstance
+                0x00000000000003b1       0x43 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x00000000000003b1                IsDevicePathMultiInstance
+ .text.CreateDeviceNode
+                0x00000000000003f4        0xf /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x00000000000003f4                CreateDeviceNode
+ .text.DuplicateDevicePath
+                0x0000000000000403        0x5 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000000403                DuplicateDevicePath
+ .text.GetNextDevicePathInstance
+                0x0000000000000408       0x99 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000000408                GetNextDevicePathInstance
+ .text.GetDevicePathSize
+                0x00000000000004a1        0x5 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x00000000000004a1                GetDevicePathSize
+ .text.AppendDevicePathInstance
+                0x00000000000004a6       0xb7 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x00000000000004a6                AppendDevicePathInstance
+ .text.AppendDevicePathNode
+                0x000000000000055d        0x5 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x000000000000055d                AppendDevicePathNode
+ .text.AppendDevicePath
+                0x0000000000000562        0x5 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000000562                AppendDevicePath
+ .text.DevPathFromTextSata
+                0x0000000000000567       0x87 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextBBS
+                0x00000000000005ee      0x171 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextBbsPath
+                0x000000000000075f        0xd /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextPersistentVirtualCd
+                0x000000000000076c       0xb1 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextPersistentVirtualDisk
+                0x000000000000081d       0xb1 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextVirtualCd
+                0x00000000000008ce       0xb1 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextVirtualDisk
+                0x000000000000097f       0xb1 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextRelativeOffsetRange
+                0x0000000000000a30       0x6c /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextRamDisk
+                0x0000000000000a9c       0xba /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.DevPathFromTextFvFile
+                0x0000000000000b56       0x4a /tmp/ccoolQd6.ltrans0.ltrans.o
+ .text.UefiDevicePathLibConvertTextToDeviceNode
+                0x0000000000000ba0      0x1c9 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000000ba0                UefiDevicePathLibConvertTextToDeviceNode
+ .text.IsHexStr
+                0x0000000000000d69       0x26 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.DevPathToTextNodeGeneric
+                0x0000000000000d8f       0xcb /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000d8f                DevPathToTextNodeGeneric
+ .text.DevPathToTextEndInstance
+                0x0000000000000e5a       0x18 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000e5a                DevPathToTextEndInstance
+ .text.DevPathToTextBBS
+                0x0000000000000e72       0xce /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000e72                DevPathToTextBBS
+ .text.DevPathRelativeOffsetRange
+                0x0000000000000f40       0x20 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000f40                DevPathRelativeOffsetRange
+ .text.DevPathToTextFvFile
+                0x0000000000000f60       0x1c /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000f60                DevPathToTextFvFile
+ .text.DevPathToTextFv
+                0x0000000000000f7c       0x1c /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000f7c                DevPathToTextFv
+ .text.DevPathToTextMediaProtocol
+                0x0000000000000f98       0x1c /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000f98                DevPathToTextMediaProtocol
+ .text.DevPathToTextFilePath
+                0x0000000000000fb4       0x1c /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000fb4                DevPathToTextFilePath
+ .text.DevPathToTextCDROM
+                0x0000000000000fd0       0x40 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000000fd0                DevPathToTextCDROM
+ .text.DevPathToTextHardDrive
+                0x0000000000001010       0x96 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001010                DevPathToTextHardDrive
+ .text.DevPathToTextRamDisk
+                0x00000000000010a6      0x122 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x00000000000010a6                DevPathToTextRamDisk
+ .text.DevPathToTextUri
+                0x00000000000011c8       0x6c /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x00000000000011c8                DevPathToTextUri
+ .text.EisaIdFromText
+                0x0000000000001234       0x42 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001234                EisaIdFromText
+ .text.StrToAscii
+                0x0000000000001276       0x22 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001276                StrToAscii
+ .text.Strtoi64
+                0x0000000000001298       0xc7 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001298                Strtoi64
+ .text.Strtoi   0x000000000000135f       0x3b /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x000000000000135f                Strtoi
+ .text.SplitStr
+                0x000000000000139a       0x37 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x000000000000139a                SplitStr
+ .text.GetNextParamStr
+                0x00000000000013d1        0xa /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x00000000000013d1                GetNextParamStr
+ .text.DevPathFromTextAcpiEx
+                0x00000000000013db       0xfe /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x00000000000013db                DevPathFromTextAcpiEx
+ .text.ConvertFromTextAcpi
+                0x00000000000014d9       0x5f /tmp/ccoolQd6.ltrans1.ltrans.o
+ .text.DevPathFromTextParallelPort
+                0x0000000000001538        0xa /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001538                DevPathFromTextParallelPort
+ .text.DevPathFromTextSerial
+                0x0000000000001542        0xa /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001542                DevPathFromTextSerial
+ .text.DevPathFromTextKeyboard
+                0x000000000000154c        0xa /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x000000000000154c                DevPathFromTextKeyboard
+ .text.DevPathFromTextFloppy
+                0x0000000000001556        0xa /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001556                DevPathFromTextFloppy
+ .text.DevPathFromTextPcieRoot
+                0x0000000000001560        0xa /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001560                DevPathFromTextPcieRoot
+ .text.DevPathFromTextPciRoot
+                0x000000000000156a        0xa /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x000000000000156a                DevPathFromTextPciRoot
+ .text.DevPathFromTextAcpi
+                0x0000000000001574       0x6a /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001574                DevPathFromTextAcpi
+ .text.DevPathFromTextBmc
+                0x00000000000015de       0x7b /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x00000000000015de                DevPathFromTextBmc
+ .text.DevPathFromTextCtrl
+                0x0000000000001659       0x4d /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001659                DevPathFromTextCtrl
+ .text.ConvertFromTextVendor
+                0x00000000000016a6       0x8d /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x00000000000016a6                ConvertFromTextVendor
+ .text.DevPathFromTextVenHw
+                0x0000000000001733        0xf /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001733                DevPathFromTextVenHw
+ .text.DevPathFromTextMemoryMapped
+                0x0000000000001742       0x86 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001742                DevPathFromTextMemoryMapped
+ .text.DevPathFromTextPcCard
+                0x00000000000017c8       0x4d /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x00000000000017c8                DevPathFromTextPcCard
+ .text.DevPathFromTextPci
+                0x0000000000001815       0x6a /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001815                DevPathFromTextPci
+ .text.DevPathFromTextGenericPath
+                0x000000000000187f       0x8e /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x000000000000187f                DevPathFromTextGenericPath
+ .text.DevPathFromTextAcpiPath
+                0x000000000000190d        0xd /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x000000000000190d                DevPathFromTextAcpiPath
+ .text.DevPathFromTextHardwarePath
+                0x000000000000191a        0xd /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x000000000000191a                DevPathFromTextHardwarePath
+ .text.DevPathFromTextPath
+                0x0000000000001927       0x32 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001927                DevPathFromTextPath
+ .text.UefiDevicePathLibStrDuplicate
+                0x0000000000001959       0x22 /tmp/ccoolQd6.ltrans1.ltrans.o
+                0x0000000000001959                UefiDevicePathLibStrDuplicate
+ .text.ConvertTextToDeviceNode
+                0x000000000000197b        0x5 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.7
+                0x0000000000001980      0xe6e /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000001980                BasePrintLibSPrintMarker.constprop.7
+ .text.BasePrintLibSPrint.constprop.6
+                0x00000000000027ee       0x29 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.UnicodeSPrint.constprop.5
+                0x0000000000002817       0x35 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000002817                UnicodeSPrint.constprop.5
+ .text.InternalAllocatePool.constprop.4
+                0x000000000000284c       0x37 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x000000000000284c                InternalAllocatePool.constprop.4
+ .text.ConvertTextToDevicePath
+                0x0000000000002883      0x189 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .text.InternalAllocateZeroPool.constprop.3
+                0x0000000000002a0c       0x23 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000002a0c                InternalAllocateZeroPool.constprop.3
+ .text.InternalAllocateCopyPool.constprop.2
+                0x0000000000002a2f       0x35 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000002a2f                InternalAllocateCopyPool.constprop.2
+ .text.InternalReallocatePool.constprop.1
+                0x0000000000002a64       0x55 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000002a64                InternalReallocatePool.constprop.1
+ .text.IsDevicePathValid.constprop.0
+                0x0000000000002ab9       0x49 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000002ab9                IsDevicePathValid.constprop.0
+ .text._ModuleEntryPoint
+                0x0000000000002b02       0x7a /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000002b02                _ModuleEntryPoint
+ .text.DevPathFromTextFv
+                0x0000000000002b7c       0x4a /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002b7c                DevPathFromTextFv
+ .text.DevPathFromTextMedia
+                0x0000000000002bc6       0x4a /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002bc6                DevPathFromTextMedia
+ .text.DevPathFromTextVenMedia
+                0x0000000000002c10        0xf /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002c10                DevPathFromTextVenMedia
+ .text.DevPathFromTextCDROM
+                0x0000000000002c1f       0x86 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002c1f                DevPathFromTextCDROM
+ .text.DevPathFromTextVlan
+                0x0000000000002ca5       0x4e /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002ca5                DevPathFromTextVlan
+ .text.DevPathFromTextUnit
+                0x0000000000002cf3       0x4d /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002cf3                DevPathFromTextUnit
+ .text.ConvertFromTextUsbClass
+                0x0000000000002d40       0xcc /tmp/ccoolQd6.ltrans3.ltrans.o
+ .text.DevPathFromTextUsbTestAndMeasurement
+                0x0000000000002e0c       0x27 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002e0c                DevPathFromTextUsbTestAndMeasurement
+ .text.DevPathFromTextUsbIrdaBridge
+                0x0000000000002e33       0x27 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002e33                DevPathFromTextUsbIrdaBridge
+ .text.DevPathFromTextUsbDeviceFirmwareUpdate
+                0x0000000000002e5a       0x27 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002e5a                DevPathFromTextUsbDeviceFirmwareUpdate
+ .text.DevPathFromTextUsbWireless
+                0x0000000000002e81       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002e81                DevPathFromTextUsbWireless
+ .text.DevPathFromTextUsbDiagnostic
+                0x0000000000002ea3       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002ea3                DevPathFromTextUsbDiagnostic
+ .text.DevPathFromTextUsbVideo
+                0x0000000000002ec5       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002ec5                DevPathFromTextUsbVideo
+ .text.DevPathFromTextUsbSmartCard
+                0x0000000000002ee7       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002ee7                DevPathFromTextUsbSmartCard
+ .text.DevPathFromTextUsbCDCData
+                0x0000000000002f09       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002f09                DevPathFromTextUsbCDCData
+ .text.DevPathFromTextUsbHub
+                0x0000000000002f2b       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002f2b                DevPathFromTextUsbHub
+ .text.DevPathFromTextUsbMassStorage
+                0x0000000000002f4d       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002f4d                DevPathFromTextUsbMassStorage
+ .text.DevPathFromTextUsbPrinter
+                0x0000000000002f6f       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002f6f                DevPathFromTextUsbPrinter
+ .text.DevPathFromTextUsbImage
+                0x0000000000002f91       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002f91                DevPathFromTextUsbImage
+ .text.DevPathFromTextUsbHID
+                0x0000000000002fb3       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002fb3                DevPathFromTextUsbHID
+ .text.DevPathFromTextUsbCDCControl
+                0x0000000000002fd5       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002fd5                DevPathFromTextUsbCDCControl
+ .text.DevPathFromTextUsbAudio
+                0x0000000000002ff7       0x22 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000002ff7                DevPathFromTextUsbAudio
+ .text.DevPathFromTextUsbClass
+                0x0000000000003019       0x1d /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003019                DevPathFromTextUsbClass
+ .text.DevPathFromTextUart
+                0x0000000000003036      0x1aa /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003036                DevPathFromTextUart
+ .text.DevPathFromTextHD
+                0x00000000000031e0      0x146 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x00000000000031e0                DevPathFromTextHD
+ .text.DevPathFromTextMediaPath
+                0x0000000000003326        0xd /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003326                DevPathFromTextMediaPath
+ .text.DevPathFromTextUri
+                0x0000000000003333       0x62 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003333                DevPathFromTextUri
+ .text.DevPathFromTextIPv6
+                0x0000000000003395      0x1a2 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003395                DevPathFromTextIPv6
+ .text.DevPathFromTextIPv4
+                0x0000000000003537      0x181 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003537                DevPathFromTextIPv4
+ .text.DevPathFromTextDns
+                0x00000000000036b8      0x12e /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x00000000000036b8                DevPathFromTextDns
+ .text.DevPathFromTextBluetoothLE
+                0x00000000000037e6       0x7a /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x00000000000037e6                DevPathFromTextBluetoothLE
+ .text.DevPathFromTextBluetooth
+                0x0000000000003860       0x55 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003860                DevPathFromTextBluetooth
+ .text.DevPathFromTextMAC
+                0x00000000000038b5       0x80 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x00000000000038b5                DevPathFromTextMAC
+ .text.DevPathFromTextWiFi
+                0x0000000000003935       0xf8 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003935                DevPathFromTextWiFi
+ .text.DevPathFromTextUsbWwid
+                0x0000000000003a2d       0xf6 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003a2d                DevPathFromTextUsbWwid
+ .text.DevPathFromTextiSCSI
+                0x0000000000003b23      0x193 /tmp/ccoolQd6.ltrans3.ltrans.o
+                0x0000000000003b23                DevPathFromTextiSCSI
+ .text.DevPathFromTextDebugPort
+                0x0000000000003cb6       0x34 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003cb6                DevPathFromTextDebugPort
+ .text.DevPathFromTextVenUtf8
+                0x0000000000003cea       0x34 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003cea                DevPathFromTextVenUtf8
+ .text.DevPathFromTextVenVt100Plus
+                0x0000000000003d1e       0x34 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003d1e                DevPathFromTextVenVt100Plus
+ .text.DevPathFromTextVenVt100
+                0x0000000000003d52       0x34 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003d52                DevPathFromTextVenVt100
+ .text.DevPathFromTextVenPcAnsi
+                0x0000000000003d86       0x34 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003d86                DevPathFromTextVenPcAnsi
+ .text.DevPathFromTextEmmc
+                0x0000000000003dba       0x4d /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003dba                DevPathFromTextEmmc
+ .text.DevPathFromTextSd
+                0x0000000000003e07       0x4d /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003e07                DevPathFromTextSd
+ .text.DevPathFromTextUfs
+                0x0000000000003e54       0x6a /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003e54                DevPathFromTextUfs
+ .text.DevPathFromTextI2O
+                0x0000000000003ebe       0x4d /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003ebe                DevPathFromTextI2O
+ .text.DevPathFromTextUsb
+                0x0000000000003f0b       0x6a /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003f0b                DevPathFromTextUsb
+ .text.DevPathFromTextScsi
+                0x0000000000003f75       0x6c /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003f75                DevPathFromTextScsi
+ .text.DevPathFromTextNVMe
+                0x0000000000003fe1       0xb2 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000003fe1                DevPathFromTextNVMe
+ .text.DevPathFromTextUartFlowCtrl
+                0x0000000000004093       0x98 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000004093                DevPathFromTextUartFlowCtrl
+ .text.DevPathFromTextAta
+                0x000000000000412b      0x109 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x000000000000412b                DevPathFromTextAta
+ .text.DevPathFromTextSAS
+                0x0000000000004234      0x244 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000004234                DevPathFromTextSAS
+ .text.DevPathFromTextFibre
+                0x0000000000004478       0x73 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000004478                DevPathFromTextFibre
+ .text.DevPathFromTextSasEx
+                0x00000000000044eb      0x23f /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x00000000000044eb                DevPathFromTextSasEx
+ .text.DevPathFromTextFibreEx
+                0x000000000000472a       0x91 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x000000000000472a                DevPathFromTextFibreEx
+ .text.DevPathFromTextVenMsg
+                0x00000000000047bb        0xf /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x00000000000047bb                DevPathFromTextVenMsg
+ .text.DevPathFromTextInfiniband
+                0x00000000000047ca       0xc4 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x00000000000047ca                DevPathFromTextInfiniband
+ .text.DevPathFromText1394
+                0x000000000000488e       0x5d /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x000000000000488e                DevPathFromText1394
+ .text.DevPathFromTextMsg
+                0x00000000000048eb        0xd /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x00000000000048eb                DevPathFromTextMsg
+ .text.DevPathFromTextAcpiAdr
+                0x00000000000048f8       0x8b /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x00000000000048f8                DevPathFromTextAcpiAdr
+ .text.DevPathFromTextAcpiExp
+                0x0000000000004983       0xac /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000004983                DevPathFromTextAcpiExp
+ .text.SwapBytes32
+                0x0000000000004a2f       0x12 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .text.UefiDevicePathLibCatPrint
+                0x0000000000004a41       0xa6 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004a41                UefiDevicePathLibCatPrint
+ .text.DevPathToTextMemMap
+                0x0000000000004ae7       0x27 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004ae7                DevPathToTextMemMap
+ .text.DevPathToTextPccard
+                0x0000000000004b0e       0x1d /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004b0e                DevPathToTextPccard
+ .text.DevPathToTextPci
+                0x0000000000004b2b       0x22 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004b2b                DevPathToTextPci
+ .text.UefiDevicePathLibCreateDeviceNode
+                0x0000000000004b4d       0x40 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004b4d                UefiDevicePathLibCreateDeviceNode
+ .text.IsDevicePathEnd
+                0x0000000000004b8d       0x11 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004b8d                IsDevicePathEnd
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x0000000000004b9e       0x45 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004b9e                UefiDevicePathLibGetDevicePathSize
+ .text.UefiDevicePathLibDuplicateDevicePath
+                0x0000000000004be3       0x24 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004be3                UefiDevicePathLibDuplicateDevicePath
+ .text.FreePool
+                0x0000000000004c07        0xa /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004c07                FreePool
+ .text.BasePrintLibFillBuffer
+                0x0000000000004c11       0x2e /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004c11                BasePrintLibFillBuffer
+ .text.InternalMathSwapBytes64
+                0x0000000000004c3f       0x2f /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004c3f                InternalMathSwapBytes64
+ .text.InternalIsHexaDecimalDigitCharacter
+                0x0000000000004c6e       0x1e /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004c6e                InternalIsHexaDecimalDigitCharacter
+ .text.InternalHexCharToUintn
+                0x0000000000004c8c       0x27 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004c8c                InternalHexCharToUintn
+ .text.StrCmp   0x0000000000004cb3       0x1f /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004cb3                StrCmp
+ .text.StrLen   0x0000000000004cd2        0xf /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004cd2                StrLen
+ .text.StrHexToBytes
+                0x0000000000004ce1       0xbd /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004ce1                StrHexToBytes
+ .text.StrToGuid
+                0x0000000000004d9e      0x128 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004d9e                StrToGuid
+ .text.StrnLenS
+                0x0000000000004ec6       0x27 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004ec6                StrnLenS
+ .text.StrHexToUintnS
+                0x0000000000004eed      0x10f /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004eed                StrHexToUintnS
+ .text.StrDecimalToUintnS
+                0x0000000000004ffc       0xf9 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000004ffc                StrDecimalToUintnS
+ .text.CompareGuid
+                0x00000000000050f5       0x19 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x00000000000050f5                CompareGuid
+ .text.DevPathToTextVendor
+                0x000000000000510e      0x353 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x000000000000510e                DevPathToTextVendor
+ .text.CopyMem  0x0000000000005461       0x13 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000005461                CopyMem
+ .text.UefiDevicePathLibAppendDevicePath
+                0x0000000000005474       0xa4 /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000005474                UefiDevicePathLibAppendDevicePath
+ .text.UefiDevicePathLibAppendDevicePathNode
+                0x0000000000005518       0x8e /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x0000000000005518                UefiDevicePathLibAppendDevicePathNode
+ .text.ZeroMem  0x00000000000055a6        0xe /tmp/ccoolQd6.ltrans5.ltrans.o
+                0x00000000000055a6                ZeroMem
+ .text.DevPathToTextBluetoothLE
+                0x00000000000055b4       0x3f /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000055b4                DevPathToTextBluetoothLE
+ .text.DevPathToTextBluetooth
+                0x00000000000055f3       0x37 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000055f3                DevPathToTextBluetooth
+ .text.DevPathToTextVlan
+                0x000000000000562a       0x1d /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x000000000000562a                DevPathToTextVlan
+ .text.DevPathToTextiSCSI
+                0x0000000000005647       0xf6 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005647                DevPathToTextiSCSI
+ .text.DevPathToTextUart
+                0x000000000000573d      0x107 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x000000000000573d                DevPathToTextUart
+ .text.DevPathToTextInfiniBand
+                0x0000000000005844       0x2d /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005844                DevPathToTextInfiniBand
+ .text.CatIPv6Address
+                0x0000000000005871       0x6b /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.CatIPv4Address
+                0x00000000000058dc       0x2c /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.DevPathToTextDns
+                0x0000000000005908       0xa1 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005908                DevPathToTextDns
+ .text.CatNetworkProtocol
+                0x00000000000059a9       0x49 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .text.DevPathToTextIPv6
+                0x00000000000059f2       0xf4 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000059f2                DevPathToTextIPv6
+ .text.DevPathToTextIPv4
+                0x0000000000005ae6       0xff /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005ae6                DevPathToTextIPv4
+ .text.DevPathToTextMacAddr
+                0x0000000000005be5       0x80 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005be5                DevPathToTextMacAddr
+ .text.DevPathToTextI2O
+                0x0000000000005c65       0x1c /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005c65                DevPathToTextI2O
+ .text.DevPathToTextSata
+                0x0000000000005c81       0x2b /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005c81                DevPathToTextSata
+ .text.DevPathToTextUsbClass
+                0x0000000000005cac      0x1ad /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005cac                DevPathToTextUsbClass
+ .text.DevPathToTextLogicalUnit
+                0x0000000000005e59       0x1d /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005e59                DevPathToTextLogicalUnit
+ .text.DevPathToTextUsb
+                0x0000000000005e76       0x22 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005e76                DevPathToTextUsb
+ .text.DevPathToText1394
+                0x0000000000005e98       0x1c /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005e98                DevPathToText1394
+ .text.DevPathToTextEmmc
+                0x0000000000005eb4       0x1d /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005eb4                DevPathToTextEmmc
+ .text.DevPathToTextSd
+                0x0000000000005ed1       0x1d /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005ed1                DevPathToTextSd
+ .text.DevPathToTextUfs
+                0x0000000000005eee       0x22 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005eee                DevPathToTextUfs
+ .text.DevPathToTextNVMe
+                0x0000000000005f10       0x48 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005f10                DevPathToTextNVMe
+ .text.DevPathToTextSasEx
+                0x0000000000005f58      0x1a0 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000005f58                DevPathToTextSasEx
+ .text.DevPathToTextFibreEx
+                0x00000000000060f8       0xa4 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000060f8                DevPathToTextFibreEx
+ .text.DevPathToTextFibre
+                0x000000000000619c       0x20 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x000000000000619c                DevPathToTextFibre
+ .text.DevPathToTextScsi
+                0x00000000000061bc       0x22 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000061bc                DevPathToTextScsi
+ .text.DevPathToTextAtapi
+                0x00000000000061de       0x6b /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000061de                DevPathToTextAtapi
+ .text.DevPathToTextAcpiAdr
+                0x0000000000006249       0x7e /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000006249                DevPathToTextAcpiAdr
+ .text.DevPathToTextAcpi
+                0x00000000000062c7       0xc6 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000062c7                DevPathToTextAcpi
+ .text.DevPathToTextBmc
+                0x000000000000638d       0x21 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x000000000000638d                DevPathToTextBmc
+ .text.DevPathToTextController
+                0x00000000000063ae       0x1c /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000063ae                DevPathToTextController
+ .text.DevPathToTextWiFi
+                0x00000000000063ca       0x42 /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x00000000000063ca                DevPathToTextWiFi
+ .text.DevPathToTextUsbWWID
+                0x000000000000640c       0x6c /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x000000000000640c                DevPathToTextUsbWWID
+ .text.DevPathToTextAcpiEx
+                0x0000000000006478      0x1ee /tmp/ccoolQd6.ltrans6.ltrans.o
+                0x0000000000006478                DevPathToTextAcpiEx
+ .text.StrHexToUint64S.constprop.11
+                0x0000000000006666      0x102 /tmp/ccoolQd6.ltrans7.ltrans.o
+                0x0000000000006666                StrHexToUint64S.constprop.11
+ .text.StrToIpv6Address.constprop.10
+                0x0000000000006768      0x1c1 /tmp/ccoolQd6.ltrans7.ltrans.o
+                0x0000000000006768                StrToIpv6Address.constprop.10
+ .text.StrToIpv4Address.constprop.9
+                0x0000000000006929       0xeb /tmp/ccoolQd6.ltrans7.ltrans.o
+                0x0000000000006929                StrToIpv4Address.constprop.9
+ *fill*         0x0000000000006a14        0xc 
+ .text          0x0000000000006a20       0x1d /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(ZeroMem.obj)
+                0x0000000000006a20                InternalMemZeroMem
+ *fill*         0x0000000000006a3d        0x3 
+ .text          0x0000000000006a40       0x3c /root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseMemoryLibRepStr/BaseMemoryLibRepStr/OUTPUT/BaseMemoryLibRepStr.lib(CopyMem.obj)
+                0x0000000000006a40                InternalMemCopyMem
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str2.2
+                0x0000000000006a7c      0x564 /tmp/ccoolQd6.ltrans0.ltrans.o
+                                        0x5b8 (size before relaxing)
+ .rodata.str2.2
+                0x0000000000006fe0      0x23a /tmp/ccoolQd6.ltrans1.ltrans.o
+                                        0x37e (size before relaxing)
+ *fill*         0x000000000000721a        0x2 
+ .rodata.DevPathToTextBBS
+                0x000000000000721c       0x18 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x0000000000007234      0x29f /tmp/ccoolQd6.ltrans2.ltrans.o
+                                        0x2b0 (size before relaxing)
+ *fill*         0x00000000000074d3        0x1 
+ .rodata.str2.2
+                0x00000000000074d4       0x16 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .rodata.mUefiDevicePathLibEndDevicePath
+                0x00000000000074ea        0x4 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x00000000000074ea                mUefiDevicePathLibEndDevicePath
+ *fill*         0x00000000000074ee        0x2 
+ .rodata.mHexStr
+                0x00000000000074f0       0x10 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .rodata.str2.2
+                0x0000000000007500       0x96 /tmp/ccoolQd6.ltrans3.ltrans.o
+                                         0xaa (size before relaxing)
+ *fill*         0x0000000000007596        0x2 
+ .rodata.DevPathFromTextUart
+                0x0000000000007598       0x40 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .rodata.str2.2
+                0x00000000000075d8       0xc4 /tmp/ccoolQd6.ltrans4.ltrans.o
+                                         0xcc (size before relaxing)
+ .rodata.str2.2
+                0x000000000000769c      0x1a2 /tmp/ccoolQd6.ltrans5.ltrans.o
+                                        0x26e (size before relaxing)
+ .rodata.str2.2
+                0x000000000000783e      0x88e /tmp/ccoolQd6.ltrans6.ltrans.o
+                                        0xb24 (size before relaxing)
+ .rodata.CSWTCH.43
+                0x00000000000080cc        0x6 /tmp/ccoolQd6.ltrans6.ltrans.o
+ *fill*         0x00000000000080d2        0x2 
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x00000000000080d4        0x4 /tmp/ccoolQd6.ltrans7.ltrans.o
+                0x00000000000080d4                _gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+                0x00000000000080d4                _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+ *(.got .got.*)
+ .got           0x00000000000080d8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .got.plt       0x00000000000080d8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+                0x00000000000080d8                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x00000000000080e0        0x0
+ .plt           0x00000000000080e0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+
+.data           0x0000000000008100      0xba0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiVirtualDiskGuid
+                0x0000000000008100       0x10 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000008100                gEfiVirtualDiskGuid
+ .data.gEfiVirtualCdGuid
+                0x0000000000008110       0x10 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000008110                gEfiVirtualCdGuid
+ .data.gEfiPersistentVirtualDiskGuid
+                0x0000000000008120       0x10 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000008120                gEfiPersistentVirtualDiskGuid
+ .data.gEfiPersistentVirtualCdGuid
+                0x0000000000008130       0x10 /tmp/ccoolQd6.ltrans0.ltrans.o
+                0x0000000000008130                gEfiPersistentVirtualCdGuid
+ .data.rel.ro.local.mUefiDevicePathLibDevPathFromTextTable
+                0x0000000000008140      0x570 /tmp/ccoolQd6.ltrans0.ltrans.o
+ *fill*         0x00000000000086b0       0x10 
+ .data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x00000000000086c0      0x320 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x00000000000089e0       0x60 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .data.rel.ro.local.mDevicePathFromText
+                0x0000000000008a40       0x10 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .data.gEfiDevicePathFromTextProtocolGuid
+                0x0000000000008a50       0x10 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .data.rel.ro.local.mDevicePathToText
+                0x0000000000008a60       0x10 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .data.gEfiDevicePathToTextProtocolGuid
+                0x0000000000008a70       0x10 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .data.rel.ro.local.mDevicePathUtilities
+                0x0000000000008a80       0x40 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x0000000000008ac0       0x10 /tmp/ccoolQd6.ltrans2.ltrans.o
+ *fill*         0x0000000000008ad0       0x10 
+ .data.rel.ro.local.mStatusString
+                0x0000000000008ae0      0x138 /tmp/ccoolQd6.ltrans2.ltrans.o
+ *fill*         0x0000000000008c18        0x8 
+ .data.gEfiPcAnsiGuid
+                0x0000000000008c20       0x10 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000008c20                gEfiPcAnsiGuid
+ .data.gEfiVT100Guid
+                0x0000000000008c30       0x10 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000008c30                gEfiVT100Guid
+ .data.gEfiVT100PlusGuid
+                0x0000000000008c40       0x10 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000008c40                gEfiVT100PlusGuid
+ .data.gEfiVTUTF8Guid
+                0x0000000000008c50       0x10 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000008c50                gEfiVTUTF8Guid
+ .data.gEfiUartDevicePathGuid
+                0x0000000000008c60       0x10 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000008c60                gEfiUartDevicePathGuid
+ .data.gEfiSasDevicePathGuid
+                0x0000000000008c70       0x10 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000008c70                gEfiSasDevicePathGuid
+ .data.gEfiDebugPortProtocolGuid
+                0x0000000000008c80       0x10 /tmp/ccoolQd6.ltrans4.ltrans.o
+                0x0000000000008c80                gEfiDebugPortProtocolGuid
+ *(.bss .bss.*)
+ .bss.gST       0x0000000000008c90        0x8 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .bss.gBS       0x0000000000008c98        0x8 /tmp/ccoolQd6.ltrans2.ltrans.o
+                0x0000000000008c98                gBS
+
+.eh_frame       0x0000000000008cc0        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+
+.dynbss         0x0000000000008cc0        0x0
+ .dynbss        0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000008cc0        0x0
+ .gnu.version_d
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+
+.gnu.version    0x0000000000008cc0        0x0
+ .gnu.version   0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000008cc0        0x0
+ .gnu.version_r
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+
+.rela           0x0000000000008cc0     0x19f8
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.got      0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.bss      0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text     0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.ConvertDeviceNodeToText
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.ConvertDevicePathToText
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.IsDevicePathMultiInstance
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.CreateDeviceNode
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DuplicateDevicePath
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.GetNextDevicePathInstance
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.GetDevicePathSize
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.AppendDevicePathInstance
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.AppendDevicePathNode
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.AppendDevicePath
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextSata
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextBBS
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextBbsPath
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextPersistentVirtualCd
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextPersistentVirtualDisk
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextVirtualCd
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextVirtualDisk
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextRelativeOffsetRange
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextRamDisk
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextFvFile
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.UefiDevicePathLibConvertTextToDeviceNode
+                0x0000000000008cc0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibDevPathFromTextTable
+                0x0000000000008cc0     0x1020 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x0000000000009ce0      0x498 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextNodeGeneric
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextEndInstance
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextBBS
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathRelativeOffsetRange
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextFvFile
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextFv
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextMediaProtocol
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextFilePath
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextCDROM
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextHardDrive
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextRamDisk
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathToTextUri
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.EisaIdFromText
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.Strtoi64
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.Strtoi
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextAcpiEx
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.ConvertFromTextAcpi
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextAcpi
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextBmc
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextCtrl
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.ConvertFromTextVendor
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextMemoryMapped
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextPcCard
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextPci
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextGenericPath
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.UefiDevicePathLibStrDuplicate
+                0x000000000000a178        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x000000000000a178       0x78 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.BasePrintLibSPrintMarker.constprop.7
+                0x000000000000a1f0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.ConvertTextToDevicePath
+                0x000000000000a1f0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.InternalAllocateZeroPool.constprop.3
+                0x000000000000a1f0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.InternalAllocateCopyPool.constprop.2
+                0x000000000000a1f0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.InternalReallocatePool.constprop.1
+                0x000000000000a1f0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.IsDevicePathValid.constprop.0
+                0x000000000000a1f0        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mDevicePathFromText
+                0x000000000000a1f0       0x30 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mDevicePathToText
+                0x000000000000a220       0x30 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mDevicePathUtilities
+                0x000000000000a250       0xc0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x000000000000a310      0x3a8 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextFv
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextMedia
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextCDROM
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextVlan
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextUnit
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.ConvertFromTextUsbClass
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextUart
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextHD
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextUri
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextIPv6
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextIPv4
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextDns
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextBluetoothLE
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextBluetooth
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextMAC
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextWiFi
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextUsbWwid
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextiSCSI
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextDebugPort
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextVenUtf8
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextVenVt100Plus
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextVenVt100
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextVenPcAnsi
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextEmmc
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextSd
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextUfs
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextI2O
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextUsb
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextScsi
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextNVMe
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextUartFlowCtrl
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextAta
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextSAS
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextFibre
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextSasEx
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextFibreEx
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextInfiniband
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromText1394
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextAcpiAdr
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .rela.text.DevPathFromTextAcpiExp
+                0x000000000000a6b8        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000000a6b8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000000a6b8       0x24 ScanMem64Wrapper.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/DEBUG/DevicePathDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x12e7a
+ .debug_info    0x0000000000000000     0x27e7 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .debug_info    0x00000000000027e7     0x2981 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .debug_info    0x0000000000005168     0x30e7 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .debug_info    0x000000000000824f     0x2c94 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .debug_info    0x000000000000aee3     0x2b0d /tmp/ccoolQd6.ltrans4.ltrans.o
+ .debug_info    0x000000000000d9f0     0x209d /tmp/ccoolQd6.ltrans5.ltrans.o
+ .debug_info    0x000000000000fa8d     0x2b6e /tmp/ccoolQd6.ltrans6.ltrans.o
+ .debug_info    0x00000000000125fb      0x87f /tmp/ccoolQd6.ltrans7.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x17a0
+ .debug_abbrev  0x0000000000000000      0x32f /tmp/ccoolQd6.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000032f      0x3bf /tmp/ccoolQd6.ltrans1.ltrans.o
+ .debug_abbrev  0x00000000000006ee      0x3f5 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000ae3      0x275 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000000d58      0x239 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .debug_abbrev  0x0000000000000f91      0x3cc /tmp/ccoolQd6.ltrans5.ltrans.o
+ .debug_abbrev  0x000000000000135d      0x2b0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .debug_abbrev  0x000000000000160d      0x193 /tmp/ccoolQd6.ltrans7.ltrans.o
+
+.debug_loc      0x0000000000000000    0x11891
+ .debug_loc     0x0000000000000000     0x251a /tmp/ccoolQd6.ltrans0.ltrans.o
+ .debug_loc     0x000000000000251a     0x2832 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .debug_loc     0x0000000000004d4c     0x254e /tmp/ccoolQd6.ltrans2.ltrans.o
+ .debug_loc     0x000000000000729a     0x23dd /tmp/ccoolQd6.ltrans3.ltrans.o
+ .debug_loc     0x0000000000009677     0x2595 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .debug_loc     0x000000000000bc0c     0x1f5e /tmp/ccoolQd6.ltrans5.ltrans.o
+ .debug_loc     0x000000000000db6a     0x355b /tmp/ccoolQd6.ltrans6.ltrans.o
+ .debug_loc     0x00000000000110c5      0x7cc /tmp/ccoolQd6.ltrans7.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xd70
+ .debug_aranges
+                0x0000000000000000      0x170 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000170      0x2a0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000410       0xe0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000000000004f0      0x260 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000750      0x1a0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .debug_aranges
+                0x00000000000008f0      0x1e0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .debug_aranges
+                0x0000000000000ad0      0x250 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .debug_aranges
+                0x0000000000000d20       0x50 /tmp/ccoolQd6.ltrans7.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x28d0
+ .debug_ranges  0x0000000000000000      0x830 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000830      0x600 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000000e30      0x3f0 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .debug_ranges  0x0000000000001220      0x750 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000001970      0x6f0 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000002060      0x4b0 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000002510      0x2b0 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .debug_ranges  0x00000000000027c0      0x110 /tmp/ccoolQd6.ltrans7.ltrans.o
+
+.debug_line     0x0000000000000000     0x411e
+ .debug_line    0x0000000000000000      0x969 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .debug_line    0x0000000000000969      0x90d /tmp/ccoolQd6.ltrans1.ltrans.o
+ .debug_line    0x0000000000001276      0x9f7 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .debug_line    0x0000000000001c6d      0x96a /tmp/ccoolQd6.ltrans3.ltrans.o
+ .debug_line    0x00000000000025d7      0x98a /tmp/ccoolQd6.ltrans4.ltrans.o
+ .debug_line    0x0000000000002f61      0x84e /tmp/ccoolQd6.ltrans5.ltrans.o
+ .debug_line    0x00000000000037af      0x722 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .debug_line    0x0000000000003ed1      0x24d /tmp/ccoolQd6.ltrans7.ltrans.o
+
+.debug_str      0x0000000000000000     0x42e4
+ .debug_str     0x0000000000000000      0xa3f /tmp/ccoolQd6.ltrans0.ltrans.o
+                                        0xc9e (size before relaxing)
+ .debug_str     0x0000000000000a3f      0x7bc /tmp/ccoolQd6.ltrans1.ltrans.o
+                                        0xd51 (size before relaxing)
+ .debug_str     0x00000000000011fb     0x18b1 /tmp/ccoolQd6.ltrans2.ltrans.o
+                                       0x1eb6 (size before relaxing)
+ .debug_str     0x0000000000002aac      0x8f8 /tmp/ccoolQd6.ltrans3.ltrans.o
+                                        0xe47 (size before relaxing)
+ .debug_str     0x00000000000033a4      0x61a /tmp/ccoolQd6.ltrans4.ltrans.o
+                                        0xaca (size before relaxing)
+ .debug_str     0x00000000000039be      0x427 /tmp/ccoolQd6.ltrans5.ltrans.o
+                                        0xb3b (size before relaxing)
+ .debug_str     0x0000000000003de5      0x371 /tmp/ccoolQd6.ltrans6.ltrans.o
+                                        0xd43 (size before relaxing)
+ .debug_str     0x0000000000004156      0x18e /tmp/ccoolQd6.ltrans7.ltrans.o
+                                        0x4a7 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x2e28
+ .debug_frame   0x0000000000000000      0x550 /tmp/ccoolQd6.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000550      0x7c0 /tmp/ccoolQd6.ltrans1.ltrans.o
+ .debug_frame   0x0000000000000d10      0x300 /tmp/ccoolQd6.ltrans2.ltrans.o
+ .debug_frame   0x0000000000001010      0x830 /tmp/ccoolQd6.ltrans3.ltrans.o
+ .debug_frame   0x0000000000001840      0x638 /tmp/ccoolQd6.ltrans4.ltrans.o
+ .debug_frame   0x0000000000001e78      0x548 /tmp/ccoolQd6.ltrans5.ltrans.o
+ .debug_frame   0x00000000000023c0      0x940 /tmp/ccoolQd6.ltrans6.ltrans.o
+ .debug_frame   0x0000000000002d00      0x128 /tmp/ccoolQd6.ltrans7.ltrans.o

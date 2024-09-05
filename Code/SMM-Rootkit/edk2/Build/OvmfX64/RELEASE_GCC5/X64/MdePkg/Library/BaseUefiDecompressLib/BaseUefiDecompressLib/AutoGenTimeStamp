@@ -1,0 +1,10 @@
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Include/Library/DebugLib.h
+/root/edk2/MdePkg/Library/BaseUefiDecompressLib/BaseUefiDecompressLibInternals.h
+/root/edk2/MdePkg/Include/Library/BaseLib.h
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BaseUefiDecompressLib/BaseUefiDecompressLib/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Include/Library/BaseMemoryLib.h
+/root/edk2/MdePkg/Library/BaseUefiDecompressLib/BaseUefiDecompressLib.inf
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/MdePkg/Library/BaseUefiDecompressLib/BaseUefiDecompressLib.c
+/root/edk2/MdePkg/Include/Library/UefiDecompressLib.h

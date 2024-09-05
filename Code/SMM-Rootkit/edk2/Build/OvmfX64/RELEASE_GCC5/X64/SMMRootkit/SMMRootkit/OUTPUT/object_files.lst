@@ -1,0 +1,10 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/SMMRootkit.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/serial.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/string.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/MemManager.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/MemoryMapUEFI.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/Memory.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/WinTools.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/WinUmdIATHook.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/TimerRTC.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/SMMRootkit/SMMRootkit/OUTPUT/AutoGen.obj

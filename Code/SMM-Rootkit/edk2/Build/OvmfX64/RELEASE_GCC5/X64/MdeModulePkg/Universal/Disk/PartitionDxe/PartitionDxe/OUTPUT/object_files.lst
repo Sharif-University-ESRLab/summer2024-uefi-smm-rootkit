@@ -1,0 +1,6 @@
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe/OUTPUT/ComponentName.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe/OUTPUT/Mbr.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe/OUTPUT/Gpt.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe/OUTPUT/ElTorito.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe/OUTPUT/Partition.obj
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe/OUTPUT/AutoGen.obj

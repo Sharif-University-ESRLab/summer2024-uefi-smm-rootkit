@@ -1,0 +1,8 @@
+/root/edk2/MdePkg/Library/BasePeCoffGetEntryPointLib/PeCoffGetEntryPoint.c
+/root/edk2/MdePkg/Include/Base.h
+/root/edk2/MdePkg/Include/Library/PeCoffGetEntryPointLib.h
+/root/edk2/MdePkg/Include/Library/DebugLib.h
+/root/edk2/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib.inf
+/root/edk2/MdePkg/Include/X64/ProcessorBind.h
+/root/edk2/Build/OvmfX64/RELEASE_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/DEBUG/AutoGen.h
+/root/edk2/MdePkg/Include/IndustryStandard/PeImage.h
